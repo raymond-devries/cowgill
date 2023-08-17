@@ -1,22 +1,11 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Cowgill Website
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+This website uses a combo of Svelte, Netlify CMS and pico.css to create a static site for cowgill.
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Install dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server ⬇️
 
 ```bash
 npm run dev
@@ -25,14 +14,20 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+### Using the CMS locally
+The dev server will not run the CMS, you must build a preview to access it.
 
-To create a production version of your app:
-
+In one shell run ⬇️
 ```bash
-npm run build
+npx netlify-cms-proxy-server
 ```
+In another shell run ⬇️
+```bash
+npm run build-preview
+```
+_This will have to be run every time there is change to `static/admin/config.yml`_
 
-You can preview the production build with `npm run preview`.
+The dev server will respond to changes made by the CMS, but the preview build will not. 
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Icon Set
+This site uses [Iconify](https://icon-sets.iconify.design/).
