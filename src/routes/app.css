@@ -1,0 +1,17 @@
+/* Pink Dark scheme (Forced) */
+/* Enabled if forced with data-theme="dark" */
+[data-theme='dark'] {
+	--primary: #eabdc4;
+	--primary-hover: #e8cdd2;
+	--primary-focus: #e78a96;
+	--primary-inverse: #3a3a3a;
+	--secondary-inverse: #3a3a3a;
+}
+
+/* Pink (Common styles) */
+:root {
+	--form-element-active-border-color: var(--primary);
+	--form-element-focus-color: var(--primary-focus);
+	--switch-color: var(--primary-inverse);
+	--switch-checked-background-color: var(--primary);
+}

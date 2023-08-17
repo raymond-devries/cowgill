@@ -1,15 +1,35 @@
 backend:
   name: git-gateway
   branch: master
+
+local_backend: true
+media_folder: static/media
+public_folder: /uploads
+
 collections:
-  - name: routes
-    label: routes
-    folder: src/routes
-    create: true
-    fields:
-      - name: title
-      - name: nav_label
-      - name: body
-        widget: markdown
-media_folder: "static/uploads"
-public_folder: "/uploads"
+  - name: pages
+    label: Pages
+    editor:
+      preview: false
+    files:
+      - file: 'src/routes/home.json'
+        label: Home Page
+        name: index
+        fields:
+          - { label: Body, name: body, widget: markdown }
+      - file: 'src/routes/about/about.json'
+        label: About
+        name: about
+        fields:
+          - { label: Body, name: body, widget: markdown }
+      - file: 'src/routes/contact/contact.json'
+        label: Contact
+        name: contact
+        fields:
+          - { label: Body, name: body, widget: markdown }
+          - { label: Form Title, name: formTitle, widget: string }
+      - file: 'src/routes/events/events.json'
+        label: Events
+        name: events
+        fields:
+          - { label: Body, name: body, widget: markdown }

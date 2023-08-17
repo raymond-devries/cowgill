@@ -1,5 +1,6 @@
 <script>
-  import x from './home.json'
+	import homeData from './home.json';
+	import MarkDown from '$lib/MarkDown.svelte';
 </script>
 
-<h1>{x.heading}</h1>
+<MarkDown content={homeData.body} />
