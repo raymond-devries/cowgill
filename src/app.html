@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
@@ -10,10 +10,10 @@
 		<div style="display: contents">%sveltekit.body%</div>
 		<script>
 			if (window.netlifyIdentity) {
-				window.netlifyIdentity.on("init", user => {
+				window.netlifyIdentity.on('init', (user) => {
 					if (!user) {
-						window.netlifyIdentity.on("login", () => {
-							document.location.href = "/admin/";
+						window.netlifyIdentity.on('login', () => {
+							document.location.href = '../static/admin/';
 						});
 					}
 				});
