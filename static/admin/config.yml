@@ -29,6 +29,7 @@ collections:
         fields:
           - { label: Body, name: body, widget: markdown }
           - { label: Form Title, name: formTitle, widget: string }
+          - { label: Success Message, name: successMessage, widget: markdown }
       - file: 'src/routes/events/events.json'
         label: Events
         name: events

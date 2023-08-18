@@ -21,7 +21,7 @@
 		<nav>
 			<ul>
 				<li>
-					<img src="media/cowgill_white_logo.png" alt="Cowgill Logo" style="max-height: 60px" />
+					<img src="assets/cowgill_white_logo.png" alt="Cowgill Logo" style="max-height: 60px" />
 				</li>
 			</ul>
 			<ul>
@@ -46,7 +46,7 @@
 				</ul>
 			</nav>
 		</aside>
-		<img src="media/cowgill_white_logo.png" alt='Cowgill Logo' style='max-height: 80px;'>
+		<img src="assets/cowgill_white_logo.png" alt='Cowgill Logo' style='max-height: 80px;'>
 	</div>
 	</div>
 </footer>
