@@ -2,7 +2,7 @@
 	import contactData from './contact.json';
 	import MarkDown from '$lib/MarkDown.svelte';
 
-	let modal
+	let modal;
 
 	const handleSubmit = (event) => {
 		event.preventDefault();
@@ -10,21 +10,20 @@
 		const myForm = event.target;
 		const formData = new FormData(myForm);
 
-		fetch("/contact", {
-			method: "POST",
-			headers: { "Content-Type": "application/x-www-form-urlencoded" },
-			body: new URLSearchParams(formData).toString(),
+		fetch('/contact', {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+			body: new URLSearchParams(formData).toString()
 		})
 			.then(() => modal.show())
 			.catch((error) => alert(error));
 	};
-
 </script>
 
 <MarkDown content={contactData.body} />
 <article>
 	<h3>{contactData.formTitle}</h3>
-	<form name='contact' method='POST' data-netlify='true' on:submit={handleSubmit}>
+	<form name="contact" method="POST" data-netlify="true" on:submit={handleSubmit}>
 		<div class="grid">
 			<label for="firstname">
 				First name
