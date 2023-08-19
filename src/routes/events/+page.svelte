@@ -4,3 +4,17 @@
 </script>
 
 <MarkDown content={eventsData.body} />
+
+<h3>We have a Google Calendar!</h3>
+<div class="grid">
+	<a
+		href="https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&ctz=America/Los_Angeles"
+		role="button"
+		style="margin: 10px 0px">View Calendar️</a
+	>
+	<a
+		href="https://calendar.google.com/calendar/u/0?cid=Y293Z2lsbC50cmFpbEBnbWFpbC5jb20"
+		role="button"
+		style="margin: 10px 0px">Subscribe</a
+	>
+</div>
