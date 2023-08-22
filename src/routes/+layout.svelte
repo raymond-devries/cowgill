@@ -23,7 +23,7 @@
 		<nav>
 			<ul>
 				<li>
-					<img src="assets/cowgill_white_logo.png?nf_resize=fit&w=150" alt="Cowgill Logo" style="max-height: 60px" />
+					<img src="assets/cowgill_white_logo.png?nf_resize=fit&w=300" alt="Cowgill Logo" style="max-height: 60px" />
 				</li>
 			</ul>
 			<ul>
@@ -65,7 +65,7 @@
 					</nav>
 				</aside>
 				<img
-					src="assets/cowgill_white_logo.png?nf_resize=fit&w=150"
+					src="assets/cowgill_white_logo.png?nf_resize=fit&w=300"
 					alt="Cowgill Logo"
 					style="max-height: 140px; padding: 20px 10px"
 				/>
