@@ -122,7 +122,7 @@ export function markdown(src, imgStyle, srcSet, divStyle) {
 	replace(rx_link, function (all, p1, p2, p3, p4, p5, p6) {
 		stash[--si] = p4
 			? p2
-				? `<div style='${divStyle(p4)}'><img ${srcSet(p4)} alt="${p3}" style="${imgStyle}"/></div>`
+				? `<div style='${divStyle}'><img ${srcSet(p4)} alt="${p3}" style="${imgStyle}"/></div>`
 				: '<a href="' + p4 + '">' + unesc(highlight(p3)) + '</a>'
 			: p6;
 		return si + '\uf8ff';

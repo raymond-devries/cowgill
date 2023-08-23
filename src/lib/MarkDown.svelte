@@ -11,8 +11,7 @@
 	};
 
 	const containerStyle = 'max-width: 800px; width: 100%; display: block; margin:auto;';
-	const containerStyleLoading = (source) =>
-		`${containerStyle} background-image: url(${source}?nf_resize=fit&w=20); background-repeat: no-repeat; background-size: cover; filter: blur(10px);`;
+	const containerStyleLoading = `${containerStyle} background: var(--primary); background-repeat: no-repeat; background-size: cover; filter: blur(10px);`;
 	const parsedContent = markdown(content, style, srcset, containerStyleLoading);
 
 	const loaded = (image) => {
