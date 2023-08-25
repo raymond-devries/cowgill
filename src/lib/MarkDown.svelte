@@ -10,7 +10,7 @@
 		return `srcset="${srcset}" src="${source}"`;
 	};
 
-	const containerStyle = 'max-width: 800px; width: 100%; display: block; margin:auto;';
+	const containerStyle = 'max-width: 800px; width: 100%; display: block; margin:auto; aspect-ratio: 20 / 9;';
 	const containerStyleLoading = `${containerStyle} background: var(--primary); background-repeat: no-repeat; background-size: cover; filter: blur(10px);`;
 	const parsedContent = markdown(content, style, srcset, containerStyleLoading);
 
