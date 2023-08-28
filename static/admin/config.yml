@@ -3,8 +3,7 @@ backend:
   branch: master
 
 local_backend: true
-media_folder: static/media
-public_folder: /media
+media_folder: src/media
 publish_mode: editorial_workflow
 
 collections:

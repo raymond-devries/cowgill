@@ -3,7 +3,7 @@
  * (c) Adam Leggett
  */
 
-export function markdown(src, imgStyle, srcSet, divStyle) {
+export function markdown(src, imageHtml) {
 	var rx_lt = /</g;
 	var rx_gt = />/g;
 	var rx_space = /\t|\r|\uf8ff/g;
@@ -120,11 +120,7 @@ export function markdown(src, imgStyle, srcSet, divStyle) {
 
 	// link or image
 	replace(rx_link, function (all, p1, p2, p3, p4, p5, p6) {
-		stash[--si] = p4
-			? p2
-				? `<div style='${divStyle}'><img ${srcSet(p4)} alt="${p3}" style="${imgStyle}"/></div>`
-				: '<a href="' + p4 + '">' + unesc(highlight(p3)) + '</a>'
-			: p6;
+		stash[--si] = p4 ? (p2 ? imageHtml(p4, p3) : '<a href="' + p4 + '">' + unesc(highlight(p3)) + '</a>') : p6;
 		return si + '\uf8ff';
 	});
 

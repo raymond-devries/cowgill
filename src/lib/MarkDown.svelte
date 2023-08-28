@@ -1,22 +1,31 @@
 <script>
 	import { markdown } from '$lib/drawdown.js';
 	import { onMount } from 'svelte';
+	import { images } from '$lib/images.js';
+	import { avifImages } from '$lib/images.js';
+	import { webpImages } from '$lib/images.js';
 	export let content;
 	let markdownDom;
 
-	const style = 'opacity: 0;';
-	const srcset = (source) => {
-		const srcset = `${source}?nf_resize=fit&w=800 800w, ${source}?nf_resize=fit&w=1600`;
-		return `srcset="${srcset}" src="${source}"`;
+	const imgContainerStyle = 'max-width: 800px; width: 100%; display: block; margin:auto;';
+	const loadingStyle =
+		'background: var(--primary); background-repeat: no-repeat; background-size: cover; filter: blur(10px);';
+
+	const pictureTag = (imgSrc, altText) => {
+		imgSrc = `..${imgSrc}`;
+		const { src, width, height } = images[imgSrc];
+		const imgTag = `<img src="${src}" alt="${altText}" style='aspect-ratio: ${width} / ${height}'/>`;
+		const avifTag = `<source srcset="${avifImages[imgSrc]}" type="image/avif" />`;
+		const webpTag = `<source srcset="${webpImages[imgSrc]}" type="image/webp" />`;
+		const pictureTag = `<picture style='opacity: 0'>${avifTag}${webpTag}${imgTag}</picture>`;
+		return `<div style='${imgContainerStyle} ${loadingStyle}'>${pictureTag}</div>`;
 	};
 
-	const containerStyle = 'max-width: 800px; width: 100%; display: block; margin:auto; aspect-ratio: 20 / 9;';
-	const containerStyleLoading = `${containerStyle} background: var(--primary); background-repeat: no-repeat; background-size: cover; filter: blur(10px);`;
-	const parsedContent = markdown(content, style, srcset, containerStyleLoading);
+	const parsedContent = markdown(content, pictureTag);
 
 	const loaded = (image) => {
-		image.removeAttribute('style');
-		image.parentElement.setAttribute('style', containerStyle);
+		image.parentElement.removeAttribute('style');
+		image.parentElement.parentElement.setAttribute('style', imgContainerStyle);
 	};
 	onMount(() => {
 		for (const image of markdownDom.getElementsByTagName('img')) {
