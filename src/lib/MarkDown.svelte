@@ -1,9 +1,9 @@
 <script>
 	import { markdown } from '$lib/drawdown.js';
 	import { onMount } from 'svelte';
-	import { images } from '$lib/images.js';
-	import { avifImages } from '$lib/images.js';
-	import { webpImages } from '$lib/images.js';
+	import { CMSimages } from '$lib/CMSimages.js';
+	import { avifImages } from '$lib/CMSimages.js';
+	import { webpImages } from '$lib/CMSimages.js';
 	export let content;
 	let markdownDom;
 
@@ -13,7 +13,7 @@
 
 	const pictureTag = (imgSrc, altText) => {
 		imgSrc = `..${imgSrc}`;
-		const { src, width, height } = images[imgSrc];
+		const { src, width, height } = CMSimages[imgSrc];
 		const imgTag = `<img src="${src}" alt="${altText}" style='aspect-ratio: ${width} / ${height}'/>`;
 		const avifTag = `<source srcset="${avifImages[imgSrc]}" type="image/avif" />`;
 		const webpTag = `<source srcset="${webpImages[imgSrc]}" type="image/webp" />`;

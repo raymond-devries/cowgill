@@ -1,4 +1,4 @@
-export const images = import.meta.glob('../media/*.{jpg,jpeg,png}', {
+export const CMSimages = import.meta.glob('../media/*.{jpg,jpeg,png}', {
 	query: { as: 'metadata' },
 	import: 'default',
 	eager: true
