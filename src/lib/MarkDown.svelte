@@ -4,19 +4,21 @@
 	import { CMSimages } from '$lib/CMSimages.js';
 	import { avifImages } from '$lib/CMSimages.js';
 	import { webpImages } from '$lib/CMSimages.js';
+	import { primaryColors } from '$lib/CMSimages.js';
+
 	export let content;
 	let markdownDom;
 
 	const imgContainerStyle = 'max-width: 800px; width: 100%; display: block; margin:auto;';
-	const loadingStyle =
-		'background: var(--primary); background-repeat: no-repeat; background-size: cover; filter: blur(10px);';
 
 	const pictureTag = (imgSrc, altText) => {
-		imgSrc = `..${imgSrc}`;
-		const { src, width, height } = CMSimages[imgSrc];
+		const resizeSrc = `..${imgSrc}`;
+		const loadingStyle = `background: rgba(${primaryColors[resizeSrc]}); background-repeat: no-repeat; background-size: cover; filter: blur(5px);`;
+		console.log(loadingStyle);
+		const { src, width, height } = CMSimages[resizeSrc];
 		const imgTag = `<img src="${src}" alt="${altText}" style='aspect-ratio: ${width} / ${height}'/>`;
-		const avifTag = `<source srcset="${avifImages[imgSrc]}" type="image/avif" />`;
-		const webpTag = `<source srcset="${webpImages[imgSrc]}" type="image/webp" />`;
+		const avifTag = `<source srcset="${avifImages[resizeSrc]}" type="image/avif" />`;
+		const webpTag = `<source srcset="${webpImages[resizeSrc]}" type="image/webp" />`;
 		const pictureTag = `<picture style='opacity: 0'>${avifTag}${webpTag}${imgTag}</picture>`;
 		return `<div style='${imgContainerStyle} ${loadingStyle}'>${pictureTag}</div>`;
 	};

@@ -15,3 +15,9 @@ export const webpImages = import.meta.glob('../media/*.{jpg,jpeg,png}', {
 	import: 'default',
 	eager: true
 });
+
+export const primaryColors = import.meta.glob('../media/*.{jpg,jpeg,png}', {
+	query: { primarycolor: true },
+	import: 'default',
+	eager: true
+});
