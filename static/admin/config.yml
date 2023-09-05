@@ -4,7 +4,6 @@ backend:
 
 local_backend: true
 media_folder: src/media
-publish_mode: editorial_workflow
 
 collections:
   - name: pages
@@ -16,16 +15,34 @@ collections:
         label: Home Page
         name: index
         fields:
+          - {
+              label: Meta Description,
+              name: metaDescription,
+              widget: string,
+              hint: A descriptive sentence or two used by search engines to index the page.
+            }
           - { label: Body, name: body, widget: markdown }
       - file: 'src/routes/about/about.json'
         label: About
         name: about
         fields:
+          - {
+              label: Meta Description,
+              name: metaDescription,
+              widget: string,
+              hint: A descriptive sentence or two used by search engines to index the page.
+            }
           - { label: Body, name: body, widget: markdown }
       - file: 'src/routes/contact/contact.json'
         label: Contact
         name: contact
         fields:
+          - {
+              label: Meta Description,
+              name: metaDescription,
+              widget: string,
+              hint: A descriptive sentence or two used by search engines to index the page.
+            }
           - { label: Body, name: body, widget: markdown }
           - { label: Form Title, name: formTitle, widget: string }
           - { label: Success Message, name: successMessage, widget: markdown }
@@ -33,4 +50,10 @@ collections:
         label: Events
         name: events
         fields:
+          - {
+              label: Meta Description,
+              name: metaDescription,
+              widget: string,
+              hint: A descriptive sentence or two used by search engines to index the page.
+            }
           - { label: Body, name: body, widget: markdown }

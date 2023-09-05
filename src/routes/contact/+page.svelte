@@ -20,6 +20,10 @@
 	};
 </script>
 
+<svelte:head>
+	<meta name="description" content={contactData.metaDescription} />
+</svelte:head>
+
 <MarkDown content={contactData.body} />
 <article>
 	<h3>{contactData.formTitle}</h3>

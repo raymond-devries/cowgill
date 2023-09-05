@@ -19,6 +19,10 @@
 	];
 </script>
 
+<svelte:head>
+	<title>🐮 Cowgill Trail Collective</title>
+</svelte:head>
+
 <body style="height: 100vh;">
 	<main class="container" style="min-height: 80vh">
 		<nav>

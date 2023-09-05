@@ -5,6 +5,10 @@
 
 <MarkDown content={eventsData.body} />
 
+<svelte:head>
+	<meta name="description" content={eventsData.metaDescription} />
+</svelte:head>
+
 <h3>We have a Google Calendar!</h3>
 <div class="grid">
 	<a
