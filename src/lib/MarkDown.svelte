@@ -14,7 +14,6 @@
 	const pictureTag = (imgSrc, altText) => {
 		const resizeSrc = `..${imgSrc}`;
 		const loadingStyle = `background: rgba(${primaryColors[resizeSrc]}); background-repeat: no-repeat; background-size: cover; filter: blur(5px);`;
-		console.log(loadingStyle);
 		const { src, width, height } = CMSimages[resizeSrc];
 		const imgTag = `<img src="${src}" alt="${altText}" style='aspect-ratio: ${width} / ${height}'/>`;
 		const avifTag = `<source srcset="${avifImages[resizeSrc]}" type="image/avif" />`;
