@@ -33,19 +33,6 @@ collections:
               hint: A descriptive sentence or two used by search engines to index the page.
             }
           - { label: Body, name: body, widget: markdown }
-      - file: 'src/routes/contact/contact.json'
-        label: Contact
-        name: contact
-        fields:
-          - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
-          - { label: Body, name: body, widget: markdown }
-          - { label: Form Title, name: formTitle, widget: string }
-          - { label: Success Message, name: successMessage, widget: markdown }
       - file: 'src/routes/events/events.json'
         label: Events
         name: events
@@ -57,3 +44,16 @@ collections:
               hint: A descriptive sentence or two used by search engines to index the page.
             }
           - { label: Body, name: body, widget: markdown }
+      - file: 'src/routes/contact/contact.json'
+        label: Contact
+        name: contact
+        fields:
+          - {
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
+          - { label: Body, name: body, widget: markdown }
+          - { label: Form Title, name: formTitle, widget: string }
+          - { label: Success Message, name: successMessage, widget: markdown }
