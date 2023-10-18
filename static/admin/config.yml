@@ -4,6 +4,7 @@ backend:
 
 local_backend: true
 media_folder: src/media
+public_folder: /media
 
 collections:
   - name: pages
@@ -33,6 +34,13 @@ collections:
               hint: A descriptive sentence or two used by search engines to index the page.
             }
           - { label: Body, name: body, widget: markdown }
+          - label: Articles
+            name: articles
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Link, name: link, widget: string }
+              - { label: Photo, name: photo, widget: image }
       - file: 'src/routes/events/events.json'
         label: Events
         name: events
@@ -49,11 +57,11 @@ collections:
         name: contact
         fields:
           - {
-            label: Meta Description,
-            name: metaDescription,
-            widget: string,
-            hint: A descriptive sentence or two used by search engines to index the page.
-          }
+              label: Meta Description,
+              name: metaDescription,
+              widget: string,
+              hint: A descriptive sentence or two used by search engines to index the page.
+            }
           - { label: Body, name: body, widget: markdown }
           - { label: Form Title, name: formTitle, widget: string }
           - { label: Success Message, name: successMessage, widget: markdown }
