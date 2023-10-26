@@ -9,7 +9,7 @@
 </svelte:head>
 
 <MarkDown content={aboutData.body} />
-<div class="grid">
+<div>
 	{#each aboutData.articles as article}
 		<article>
 			<header><a href={article.link} role="button" style="margin: 0 auto; display: block">{article.title}</a></header>

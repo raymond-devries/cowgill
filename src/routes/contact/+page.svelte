@@ -29,7 +29,7 @@
 	<h3>{contactData.formTitle}</h3>
 	<form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" on:submit={handleSubmit}>
 		<input type="hidden" name="form-name" value="contact" />
-		<div class="grid">
+		<div>
 			<label for="firstname">
 				First name
 				<input type="text" id="firstname" name="firstname" placeholder="First name" required />

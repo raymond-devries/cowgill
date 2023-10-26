@@ -10,7 +10,7 @@
 </svelte:head>
 
 <h3>We have a Google Calendar!</h3>
-<div class="grid">
+<div>
 	<a
 		href="https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&ctz=America/Los_Angeles"
 		role="button"

@@ -3,10 +3,11 @@
 	import { onMount } from 'svelte';
 	export let imgSrc;
 	export let altText;
+	export let maxWidth;
 
 	let tagDom;
-	const tag = pictureTag(imgSrc, altText);
-	onMount(() => pictureLoaded(tagDom));
+	const tag = pictureTag(imgSrc, altText, maxWidth);
+	onMount(() => pictureLoaded(tagDom, maxWidth));
 </script>
 
 <!-- eslint-disable-next-line svelte/no-at-html-tags -->

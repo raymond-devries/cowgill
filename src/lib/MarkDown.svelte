@@ -6,8 +6,12 @@
 	export let content;
 	let markdownDom;
 
-	const parsedContent = markdown(content, pictureTag);
-	onMount(() => pictureLoaded(markdownDom));
+	const maxWidth = 800;
+
+	const tag = (imgSrc, altText) => pictureTag(imgSrc, altText, maxWidth);
+
+	const parsedContent = markdown(content, tag);
+	onMount(() => pictureLoaded(markdownDom, maxWidth));
 </script>
 
 <!-- eslint-disable-next-line svelte/no-at-html-tags -->
