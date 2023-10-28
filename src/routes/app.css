@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.typography {
+	@apply prose prose-invert mx-auto md:prose-lg lg:prose-xl;
+}

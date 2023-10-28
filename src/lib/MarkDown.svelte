@@ -15,4 +15,10 @@
 </script>
 
 <!-- eslint-disable-next-line svelte/no-at-html-tags -->
-<div bind:this={markdownDom}>{@html parsedContent}</div>
+<div class="typography" bind:this={markdownDom}>{@html parsedContent}</div>
+
+<style>
+	div :global(img) {
+		@apply my-7;
+	}
+</style>

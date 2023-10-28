@@ -12,6 +12,12 @@ collections:
     editor:
       preview: false
     files:
+      - file: 'src/routes/meta.json'
+        label: Meta
+        name: meta
+        fields:
+          - { label: Header Photo, name: headerPhoto, widget: image }
+          - { label: Header Photo Alt Text, name: headerPhotoAltText, widget: string }
       - file: 'src/routes/home.json'
         label: Home Page
         name: index
