@@ -24,9 +24,11 @@
 	/>
 	<div class="absolute inset-x-5 inset-y-8 z-20 mx-auto max-w-screen-lg">
 		<nav class="flex justify-between">
-			<CowgillLogo
-				class="max-w-[70px] duration-500 ease-in-out hover:max-w-[80px] sm:max-w-[90px] sm:hover:max-w-[100px] md:max-w-[120px] md:hover:max-w-[130px]"
-			/>
+			<a href="/">
+				<CowgillLogo
+					class="max-w-[70px] duration-500 ease-in-out hover:max-w-[80px] sm:max-w-[90px] sm:hover:max-w-[100px] md:max-w-[120px] md:hover:max-w-[130px]"
+				/>
+			</a>
 			<div>
 				<div class="hidden sm:flex md:gap-7 lg:gap-10">
 					{#each navLinks as link}
