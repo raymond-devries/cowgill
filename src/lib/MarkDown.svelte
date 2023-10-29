@@ -6,7 +6,6 @@
 	export let content;
 	let markdownDom;
 
-
 	const tag = (imgSrc, altText) => pictureTag(imgSrc, altText);
 
 	const parsedContent = markdown(content, tag);

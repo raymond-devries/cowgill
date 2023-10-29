@@ -17,7 +17,11 @@
 
 <div class="relative overflow-auto sm:h-72 xl:h-96">
 	<div class="absolute z-10 h-40 w-full bg-gradient-to-b from-zinc-900"></div>
-	<Photo imgSrc={$customHeaderImgSrc || meta.headerPhoto} altText={$customHeaderImgAltText || meta.headerPhotoAltText} class='h-full w-full object-cover'/>
+	<Photo
+		imgSrc={$customHeaderImgSrc || meta.headerPhoto}
+		altText={$customHeaderImgAltText || meta.headerPhotoAltText}
+		class="h-full w-full object-cover"
+	/>
 	<div class="absolute inset-x-5 inset-y-8 z-20 mx-auto max-w-screen-lg">
 		<nav class="flex justify-between">
 			<div
