@@ -18,7 +18,7 @@
 <body style="height: 100vh;" class="bg-zinc-900 text-white">
 	<NavBar />
 	<main class="mx-auto my-10 min-h-[60%] max-w-screen-lg">
-		<div class="mx-4 sm:mx-8">
+		<div class="mx-4 mb-16 sm:mx-8 md:mb-32">
 			<slot />
 		</div>
 	</main>
@@ -50,7 +50,7 @@
 						><IconGoogleCalendar />Calendar</a
 					>
 				</div>
-					<CowgillLogo class="max-w-[140px]" />
+				<CowgillLogo class="max-w-[140px]" />
 			</div>
 		</div>
 	</footer>
