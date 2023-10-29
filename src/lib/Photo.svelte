@@ -1,14 +1,13 @@
 <script>
 	import { pictureTag, pictureLoaded } from '$lib/photoUtils.js';
-	import { onMount } from 'svelte';
+	import { afterUpdate } from 'svelte';
 	export let imgSrc;
 	export let altText;
-	export let maxWidth;
 
 	let tagDom;
-	const tag = pictureTag(imgSrc, altText, maxWidth, $$props.class);
-	onMount(() => pictureLoaded(tagDom, maxWidth));
+	$: tag = pictureTag(imgSrc, altText, $$props.class);
+	afterUpdate(() => pictureLoaded(tagDom));
 </script>
 
 <!-- eslint-disable-next-line svelte/no-at-html-tags -->
-<div bind:this={tagDom} class='h-full w-full'>{@html tag}</div>
+<div bind:this={tagDom} class="h-full w-full">{@html tag}</div>

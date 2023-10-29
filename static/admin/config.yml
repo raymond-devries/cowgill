@@ -12,11 +12,11 @@ collections:
     editor:
       preview: false
     files:
-      - file: 'src/routes/meta.json'
+      - file: 'src/lib/meta.json'
         label: Meta
         name: meta
         fields:
-          - { label: Header Photo, name: headerPhoto, widget: image }
+          - { label: Header Photo, name: headerPhoto, widget: image, help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500} }
           - { label: Header Photo Alt Text, name: headerPhotoAltText, widget: string }
       - file: 'src/routes/home.json'
         label: Home Page
@@ -70,6 +70,8 @@ collections:
               widget: string,
               hint: A descriptive sentence or two used by search engines to index the page.
             }
+          - { label: Custom Header Photo, name: customHeaderPhoto, widget: image, help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500}
+          - { label: Custom Header Photo Alt Text, name: customHeaderPhotoAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
           - { label: Form Title, name: formTitle, widget: string }
           - { label: Success Message, name: successMessage, widget: markdown }

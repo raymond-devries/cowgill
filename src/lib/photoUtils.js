@@ -2,15 +2,12 @@ import { avifImages, CMSimages, primaryColors, webpImages } from '$lib/CMSimages
 
 const imgContainerStyleBase = 'width: 100%; height: 100%; display: block; margin:auto;';
 
-const getImgContainerStyle = (maxWidth) =>
-	maxWidth ? `${imgContainerStyleBase} max-width: ${maxWidth}px;` : imgContainerStyleBase;
-
-const loaded = (image, maxWidth) => {
+const loaded = (image) => {
 	image.parentElement.removeAttribute('style');
-	image.parentElement.parentElement.setAttribute('style', getImgContainerStyle(maxWidth));
+	image.parentElement.parentElement.setAttribute('style', imgContainerStyleBase);
 };
 
-export const pictureTag = (imgSrc, altText, maxWidth, cssClass = '') => {
+export const pictureTag = (imgSrc, altText, cssClass = '') => {
 	const resizeSrc = `..${imgSrc}`;
 	const loadingStyle = `background: rgba(${primaryColors[resizeSrc]}); background-repeat: no-repeat; background-size: cover; filter: blur(5px);`;
 	const { src, width, height } = CMSimages[resizeSrc];
@@ -18,15 +15,15 @@ export const pictureTag = (imgSrc, altText, maxWidth, cssClass = '') => {
 	const avifTag = `<source srcset="${avifImages[resizeSrc]}" type="image/avif" />`;
 	const webpTag = `<source srcset="${webpImages[resizeSrc]}" type="image/webp" />`;
 	const pictureTag = `<picture style='opacity: 0'>${avifTag}${webpTag}${imgTag}</picture>`;
-	return `<div style='${getImgContainerStyle(maxWidth)} ${loadingStyle}'>${pictureTag}</div>`;
+	return `<div style='${imgContainerStyleBase} ${loadingStyle}'>${pictureTag}</div>`;
 };
 
-export const pictureLoaded = (dom, maxWidth) => {
+export const pictureLoaded = (dom) => {
 	for (const image of dom.getElementsByTagName('img')) {
 		if (image.complete) {
 			loaded(image);
 		} else {
-			image.addEventListener('load', () => loaded(image, maxWidth));
+			image.addEventListener('load', () => loaded(image));
 		}
 	}
 };

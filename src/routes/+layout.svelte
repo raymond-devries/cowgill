@@ -6,21 +6,9 @@
 	import IconInstagram from '~icons/mdi/instagram';
 	import IconLocation from '~icons/carbon/location-filled';
 	import IconStrava from '~icons/bi/strava';
-	import IconHamburger from '~icons/ci/hamburger-lg';
 
-	import { page } from '$app/stores';
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
-	import meta from './meta.json';
-
-
-	import Photo from '$lib/Photo.svelte';
-
-	const navLinks = [
-		['/', 'Home'],
-		['/about', 'About'],
-		['/events', 'Events'],
-		['/contact', 'Contact']
-	];
+	import NavBar from '$lib/NavBar.svelte';
 </script>
 
 <svelte:head>
@@ -28,35 +16,7 @@
 </svelte:head>
 
 <body style="height: 100vh;" class="bg-zinc-900 text-white">
-	<div class="relative overflow-hidden sm:h-80">
-		<div class="absolute z-10 h-40 w-full bg-gradient-to-b from-zinc-900"></div>
-		<div class="-inset-y-1/2 z-0 lg:absolute">
-			<Photo imgSrc={meta.headerPhoto} altText={meta.headerPhotoAltText} maxWidth={null} />
-		</div>
-		<div class="absolute inset-x-5 inset-y-8 z-20 mx-auto max-w-screen-lg">
-			<nav class="flex justify-between">
-				<div
-					class="max-w-[70px] duration-500 ease-in-out hover:max-w-[80px] sm:max-w-[90px] sm:hover:max-w-[100px] md:max-w-[120px] md:hover:max-w-[130px]"
-				>
-					<CowgillLogo />
-				</div>
-				<div>
-					<div class="hidden sm:flex md:gap-7 lg:gap-10">
-						{#each navLinks as link}
-							<a
-								class={($page.url.pathname === link[0] ? 'bg-pink text-zinc-800' : 'text-white sm:hover:mt-2') +
-									' mt-3 px-5 py-3 duration-300 ease-in-out md:text-lg rounded-lg'}
-								href={link[0]}>{link[1]}</a
-							>
-						{/each}
-					</div>
-				</div>
-				<div class="sm:hidden">
-					<IconHamburger class="text-4xl" />
-				</div>
-			</nav>
-		</div>
-	</div>
+	<NavBar />
 	<main class="mx-auto my-10 min-h-[60%] max-w-screen-lg">
 		<div class="mx-4 sm:mx-8">
 			<slot />

@@ -1,6 +1,7 @@
 <script>
 	import contactData from './contact.json';
 	import MarkDown from '$lib/MarkDown.svelte';
+	import CustomHeaderImage from '$lib/CustomHeaderImage.svelte';
 
 	let modal;
 
@@ -23,6 +24,8 @@
 <svelte:head>
 	<meta name="description" content={contactData.metaDescription} />
 </svelte:head>
+
+<CustomHeaderImage imgSrc={contactData.customHeaderPhoto} altText={contactData.customHeaderPhotoAltText} />
 
 <MarkDown content={contactData.body} />
 <article>
