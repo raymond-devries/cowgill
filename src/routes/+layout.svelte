@@ -50,9 +50,7 @@
 						><IconGoogleCalendar />Calendar</a
 					>
 				</div>
-				<div style="padding: 20px 10px">
-					<CowgillLogo maxWidth="140px" />
-				</div>
+					<CowgillLogo class="max-w-[140px]" />
 			</div>
 		</div>
 	</footer>
