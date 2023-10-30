@@ -22,7 +22,7 @@
 			<slot />
 		</div>
 	</main>
-	<footer class="sticky bg-zinc-800 py-10 text-lg text-pink-100 md:text-xl">
+	<footer class="sticky bg-zinc-800 py-10 text-lg text-pink-50 md:text-xl">
 		<div class="mx-auto max-w-screen-lg">
 			<div class="mx-4 flex flex-col flex-wrap content-between justify-between gap-8 sm:mx-8 sm:flex-row">
 				<div class="flex flex-col gap-3 md:gap-5">
