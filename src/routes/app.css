@@ -7,5 +7,5 @@
 }
 
 .btn-pink {
-	@apply w-full rounded-lg bg-pink py-5 text-center text-zinc-900;
+	@apply rounded-lg bg-pink py-5 text-center text-zinc-900;
 }

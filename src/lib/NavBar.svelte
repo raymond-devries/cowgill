@@ -1,12 +1,15 @@
 <script>
 	import IconHamburger from '~icons/ci/hamburger-lg';
 	import IconX from '~icons/octicon/x-24';
+	import IconInstagram from '~icons/mdi/instagram';
+	import IconStrava from '~icons/bi/strava';
 
 	import meta from '$lib/meta.json';
 	import { page } from '$app/stores';
 	import Photo from '$lib/Photo.svelte';
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
 	import { customHeaderImgSrc, customHeaderImgAltText } from '$lib/headerImage.js';
+	import { STRAVA_LINK, INSTAGRAM_LINK } from '$lib/constants.js';
 
 	let mobileMenu = true;
 
@@ -41,8 +44,9 @@
 				<div class="hidden sm:flex md:gap-7 lg:gap-10">
 					{#each navLinks as link}
 						<a
-							class={($page.url.pathname === link[0] ? 'bg-pink text-zinc-800' : 'text-white sm:hover:mt-2') +
-								' mt-3 rounded-lg px-5 py-3 duration-300 ease-in-out md:text-lg'}
+							class={($page.url.pathname === link[0]
+								? 'bg-pink bg-opacity-90 text-zinc-800'
+								: 'text-white sm:hover:mt-2') + ' mt-3 rounded-lg px-5 py-3 duration-300 ease-in-out md:text-lg'}
 							href={link[0]}>{link[1]}</a
 						>
 					{/each}
@@ -52,6 +56,21 @@
 				<button on:click={() => (mobileMenu = true)}><IconHamburger class="text-4xl" /></button>
 			</div>
 		</nav>
+		<div
+			class="mt-6 flex justify-center gap-5 text-zinc-900 sm:mt-10 sm:text-lg md:gap-10 lg:gap-20"
+			class:hidden={$page.url.pathname !== '/'}
+		>
+			<a
+				href={STRAVA_LINK}
+				class="flex h-10 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
+				><IconStrava />Strava</a
+			>
+			<a
+				href={INSTAGRAM_LINK}
+				class="flex h-10 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
+				><IconInstagram />Instagram</a
+			>
+		</div>
 	</div>
 </div>
 
