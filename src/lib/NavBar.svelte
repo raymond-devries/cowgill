@@ -26,7 +26,7 @@
 	}
 </script>
 
-<div class="relative overflow-auto sm:h-72 xl:h-96">
+<div class="relative h-96 overflow-auto">
 	<div class="absolute z-10 h-40 w-full bg-gradient-to-b from-zinc-900"></div>
 	<Photo
 		imgSrc={$customHeaderImgSrc || meta.headerPhoto}
@@ -58,20 +58,22 @@
 				<button on:click={() => (mobileMenu = true)}><IconHamburger class="text-4xl" /></button>
 			</div>
 		</nav>
-		<div
-			class="mt-1 flex justify-center gap-5 text-zinc-900 sm:mt-10 sm:text-lg md:gap-10 lg:gap-20 lg:text-xl"
-			class:hidden={$page.url.pathname !== '/'}
-		>
-			<a
-				href={STRAVA_LINK}
-				class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
-				><IconStrava />Strava</a
+		<div class="mt-1 flex items-center flex-col gap-6 sm:mt-10" class:hidden={$page.url.pathname !== '/'}>
+			<p class="rounded-xl text-4xl md:text-5xl font-bold drop-shadow-[0_3px_3px_rgba(0,0,0,0.7)] text-center">COWGILL TRAIL COLLECTIVE</p>
+			<div
+				class="flex gap-5 text-zinc-900 sm:text-lg md:gap-10 lg:gap-20 lg:text-xl"
 			>
-			<a
-				href={INSTAGRAM_LINK}
-				class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
-				><IconInstagram />Instagram</a
-			>
+				<a
+					href={STRAVA_LINK}
+					class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
+					><IconStrava />Strava</a
+				>
+				<a
+					href={INSTAGRAM_LINK}
+					class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
+					><IconInstagram />Instagram</a
+				>
+			</div>
 		</div>
 	</div>
 </div>
@@ -83,11 +85,11 @@
 	on:click={() => (mobileMenu = false)}
 ></div>
 <div
-	class={`fixed right-0 top-0 z-40 flex h-full min-w-[75%] items-start bg-zinc-800 transition duration-200 ease-out ${
+	class={`fixed right-0 top-0 z-40 flex h-full min-w-[75%] items-start bg-zinc-800 transition duration-150 ease-out ${
 		!mobileMenu ? 'translate-x-full' : 'translate-x-0'
 	}`}
 >
-	<div class="mx-6 my-10 grid w-full grid-cols-1 gap-7 text-xl">
+	<div class="mx-6 my-8 grid w-full grid-cols-1 gap-7 text-xl">
 		<div class="flex justify-between">
 			<a href="/"><CowgillLogo class="max-w-[90px]" /></a>
 			<button on:click={() => (mobileMenu = false)}><IconX height="50" width="50" /></button>
