@@ -67,7 +67,7 @@
 <dialog class="relative z-20" bind:this={modal}>
 	<div class="fixed inset-0 bg-zinc-700 bg-opacity-80 backdrop-blur"></div>
 	<div class="fixed inset-0 z-30 w-screen overflow-y-auto">
-		<div class="flex min-h-full items-end items-center justify-center text-center">
+		<div class="flex min-h-full items-center justify-center text-center">
 			<div class="mx-8 rounded-2xl bg-zinc-800 p-8 pb-20">
 				<MarkDown content={contactData.successMessage} />
 				<a href="/" class="btn-pink inline-block w-full sm:text-lg">Home</a>

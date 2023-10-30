@@ -8,7 +8,7 @@
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
 	import { customHeaderImgSrc, customHeaderImgAltText } from '$lib/headerImage.js';
 
-	let mobileMenu = true
+	let mobileMenu = true;
 
 	const navLinks = [
 		['/', 'Home'],
@@ -18,11 +18,9 @@
 	];
 
 	$: {
-		$page.url.pathname
-		mobileMenu = false
+		$page.url.pathname;
+		mobileMenu = false;
 	}
-
-
 </script>
 
 <div class="relative overflow-auto sm:h-72 xl:h-96">
@@ -51,19 +49,23 @@
 				</div>
 			</div>
 			<div class="sm:hidden">
-				<button on:click={() => mobileMenu=true}><IconHamburger class="text-4xl" /></button>
+				<button on:click={() => (mobileMenu = true)}><IconHamburger class="text-4xl" /></button>
 			</div>
 		</nav>
 	</div>
 </div>
 
 <div class:hidden={!mobileMenu}>
-	<div class="fixed inset-0 z-30 bg-zinc-700 bg-opacity-80 backdrop-blur" role='presentation' on:click={() => mobileMenu=false}></div>
-	<div class="fixed right-0 top-0 z-40 flex min-w-[75%] items-start bg-zinc-800 h-full">
+	<div
+		class="fixed inset-0 z-30 bg-zinc-700 bg-opacity-80 backdrop-blur"
+		role="presentation"
+		on:click={() => (mobileMenu = false)}
+	></div>
+	<div class="fixed right-0 top-0 z-40 flex h-full min-w-[75%] items-start bg-zinc-800">
 		<div class="mx-6 my-10 grid w-full grid-cols-1 gap-7 text-xl">
 			<div class="flex justify-between">
-				<a href="/"><CowgillLogo class="max-w-[90px]"/></a>
-				<button on:click={() => mobileMenu=false}><IconX height="50" width="50" /></button>
+				<a href="/"><CowgillLogo class="max-w-[90px]" /></a>
+				<button on:click={() => (mobileMenu = false)}><IconX height="50" width="50" /></button>
 			</div>
 			{#each navLinks as link}
 				<a
