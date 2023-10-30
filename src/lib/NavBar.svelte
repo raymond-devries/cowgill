@@ -48,7 +48,7 @@
 						<a
 							class={($page.url.pathname === link[0]
 								? 'bg-pink bg-opacity-90 text-zinc-800'
-								: 'text-white sm:hover:mt-2') + ' mt-3 rounded-lg px-5 py-3 duration-300 ease-in-out md:text-lg'}
+								: 'text-white sm:hover:mt-2') + ' mt-3 rounded-lg px-5 py-3 duration-300 ease-in-out md:text-lg lg:text-xl'}
 							href={link[0]}>{link[1]}</a
 						>
 					{/each}

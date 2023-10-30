@@ -83,6 +83,6 @@
 	}
 
 	form label {
-		@apply mb-2;
+		@apply mb-2 text-lg;
 	}
 </style>

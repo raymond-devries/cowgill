@@ -9,6 +9,8 @@
 
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
 	import NavBar from '$lib/NavBar.svelte';
+
+	import '@fontsource/barlow-semi-condensed';
 </script>
 
 <svelte:head>

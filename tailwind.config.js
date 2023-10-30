@@ -17,8 +17,15 @@ export default {
 					900: '#40141b',
 					950: '#200a0e'
 				}
+			},
+			fontSize: {
+				sm: '1rem',
+				base: '1.15rem',
+				lg: '1.25rem',
+				xl: '1.5rem'
 			}
-		}
+		},
+		fontFamily: { sans: ['Barlow Semi Condensed', 'sans-serif'] }
 	},
 	plugins: [require('@tailwindcss/typography'), require('@tailwindcss/forms')]
 };
