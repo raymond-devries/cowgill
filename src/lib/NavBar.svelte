@@ -35,11 +35,13 @@
 	/>
 	<div class="absolute inset-x-5 inset-y-8 z-20 mx-auto max-w-screen-lg">
 		<nav class="flex justify-between">
+			<div class='h-20'>
 			<a href="/">
 				<CowgillLogo
 					class="max-w-[70px] duration-500 ease-in-out hover:max-w-[80px] sm:max-w-[90px] sm:hover:max-w-[100px] md:max-w-[120px] md:hover:max-w-[130px]"
 				/>
 			</a>
+			</div>
 			<div>
 				<div class="hidden sm:flex md:gap-7 lg:gap-10">
 					{#each navLinks as link}
@@ -74,25 +76,28 @@
 	</div>
 </div>
 
-<div class:hidden={!mobileMenu}>
-	<div
-		class="fixed inset-0 z-30 bg-zinc-700 bg-opacity-80 backdrop-blur"
-		role="presentation"
-		on:click={() => (mobileMenu = false)}
-	></div>
-	<div class="fixed right-0 top-0 z-40 flex h-full min-w-[75%] items-start bg-zinc-800">
-		<div class="mx-6 my-10 grid w-full grid-cols-1 gap-7 text-xl">
-			<div class="flex justify-between">
-				<a href="/"><CowgillLogo class="max-w-[90px]" /></a>
-				<button on:click={() => (mobileMenu = false)}><IconX height="50" width="50" /></button>
-			</div>
-			{#each navLinks as link}
-				<a
-					class={($page.url.pathname === link[0] ? 'bg-pink text-zinc-800' : 'bg-zinc-700') +
-						' w-full rounded-lg px-5 py-3'}
-					href={link[0]}>{link[1]}</a
-				>
-			{/each}
+<div
+	class="fixed inset-0 z-30 bg-zinc-700 bg-opacity-80 backdrop-blur"
+	class:hidden={!mobileMenu}
+	role="presentation"
+	on:click={() => (mobileMenu = false)}
+></div>
+<div
+	class={`fixed right-0 top-0 z-40 flex h-full min-w-[75%] items-start bg-zinc-800 transition duration-200 ease-out ${
+		!mobileMenu ? 'translate-x-full' : 'translate-x-0'
+	}`}
+>
+	<div class="mx-6 my-10 grid w-full grid-cols-1 gap-7 text-xl">
+		<div class="flex justify-between">
+			<a href="/"><CowgillLogo class="max-w-[90px]" /></a>
+			<button on:click={() => (mobileMenu = false)}><IconX height="50" width="50" /></button>
 		</div>
+		{#each navLinks as link}
+			<a
+				class={($page.url.pathname === link[0] ? 'bg-pink text-zinc-800' : 'bg-zinc-700') +
+					' w-full rounded-lg px-5 py-3'}
+				href={link[0]}>{link[1]}</a
+			>
+		{/each}
 	</div>
 </div>
