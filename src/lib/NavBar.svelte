@@ -35,12 +35,12 @@
 	/>
 	<div class="absolute inset-x-5 inset-y-8 z-20 mx-auto max-w-screen-lg">
 		<nav class="flex justify-between">
-			<div class='h-20'>
-			<a href="/">
-				<CowgillLogo
-					class="max-w-[70px] duration-500 ease-in-out hover:max-w-[80px] sm:max-w-[90px] sm:hover:max-w-[100px] md:max-w-[120px] md:hover:max-w-[130px]"
-				/>
-			</a>
+			<div class="h-20">
+				<a href="/">
+					<CowgillLogo
+						class="max-w-[70px] duration-500 ease-in-out hover:max-w-[80px] sm:max-w-[90px] sm:hover:max-w-[100px] md:max-w-[120px] md:hover:max-w-[130px]"
+					/>
+				</a>
 			</div>
 			<div>
 				<div class="hidden sm:flex md:gap-7 lg:gap-10">
@@ -59,17 +59,17 @@
 			</div>
 		</nav>
 		<div
-			class="mt-6 flex justify-center gap-5 text-zinc-900 sm:mt-10 sm:text-lg md:gap-10 lg:gap-20"
+			class="mt-1 flex justify-center gap-5 text-zinc-900 sm:mt-10 sm:text-lg md:gap-10 lg:gap-20 lg:text-xl"
 			class:hidden={$page.url.pathname !== '/'}
 		>
 			<a
 				href={STRAVA_LINK}
-				class="flex h-10 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
+				class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
 				><IconStrava />Strava</a
 			>
 			<a
 				href={INSTAGRAM_LINK}
-				class="flex h-10 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
+				class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
 				><IconInstagram />Instagram</a
 			>
 		</div>
