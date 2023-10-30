@@ -1,5 +1,6 @@
 <script>
 	import IconHamburger from '~icons/ci/hamburger-lg';
+	import IconX from '~icons/octicon/x-24';
 
 	import meta from '$lib/meta.json';
 	import { page } from '$app/stores';
@@ -7,12 +8,21 @@
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
 	import { customHeaderImgSrc, customHeaderImgAltText } from '$lib/headerImage.js';
 
+	let mobileMenu = true
+
 	const navLinks = [
 		['/', 'Home'],
 		['/about', 'About'],
 		['/events', 'Events'],
 		['/contact', 'Contact']
 	];
+
+	$: {
+		$page.url.pathname
+		mobileMenu = false
+	}
+
+
 </script>
 
 <div class="relative overflow-auto sm:h-72 xl:h-96">
@@ -41,8 +51,27 @@
 				</div>
 			</div>
 			<div class="sm:hidden">
-				<IconHamburger class="text-4xl" />
+				<button on:click={() => mobileMenu=true}><IconHamburger class="text-4xl" /></button>
 			</div>
 		</nav>
+	</div>
+</div>
+
+<div class:hidden={!mobileMenu}>
+	<div class="fixed inset-0 z-30 bg-zinc-700 bg-opacity-80 backdrop-blur" role='presentation' on:click={() => mobileMenu=false}></div>
+	<div class="fixed right-0 top-0 z-40 flex min-w-[75%] items-start bg-zinc-800 h-full">
+		<div class="mx-6 my-10 grid w-full grid-cols-1 gap-7 text-xl">
+			<div class="flex justify-between">
+				<a href="/"><CowgillLogo class="max-w-[90px]"/></a>
+				<button on:click={() => mobileMenu=false}><IconX height="50" width="50" /></button>
+			</div>
+			{#each navLinks as link}
+				<a
+					class={($page.url.pathname === link[0] ? 'bg-pink text-zinc-800' : 'bg-zinc-700') +
+						' w-full rounded-lg px-5 py-3'}
+					href={link[0]}>{link[1]}</a
+				>
+			{/each}
+		</div>
 	</div>
 </div>
