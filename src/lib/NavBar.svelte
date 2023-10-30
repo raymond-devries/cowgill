@@ -48,7 +48,8 @@
 						<a
 							class={($page.url.pathname === link[0]
 								? 'bg-pink bg-opacity-90 text-zinc-800'
-								: 'text-white sm:hover:mt-2') + ' mt-3 rounded-lg px-5 py-3 duration-300 ease-in-out md:text-lg lg:text-xl'}
+								: 'text-white sm:hover:mt-2') +
+								' mt-3 rounded-lg px-5 py-3 duration-300 ease-in-out md:text-lg lg:text-xl'}
 							href={link[0]}>{link[1]}</a
 						>
 					{/each}
@@ -58,11 +59,11 @@
 				<button on:click={() => (mobileMenu = true)}><IconHamburger class="text-4xl" /></button>
 			</div>
 		</nav>
-		<div class="mt-1 flex items-center flex-col gap-6 sm:mt-10" class:hidden={$page.url.pathname !== '/'}>
-			<p class="rounded-xl text-4xl md:text-5xl font-bold drop-shadow-[0_3px_3px_rgba(0,0,0,0.7)] text-center">COWGILL TRAIL COLLECTIVE</p>
-			<div
-				class="flex gap-5 text-zinc-900 sm:text-lg md:gap-10 lg:gap-20 lg:text-xl"
-			>
+		<div class="mt-1 flex flex-col items-center gap-6 sm:mt-10" class:hidden={$page.url.pathname !== '/'}>
+			<p class="rounded-xl text-center text-4xl font-bold drop-shadow-[0_3px_3px_rgba(0,0,0,0.7)] md:text-5xl">
+				COWGILL TRAIL COLLECTIVE
+			</p>
+			<div class="flex gap-5 text-zinc-900 sm:text-lg md:gap-10 lg:gap-20 lg:text-xl">
 				<a
 					href={STRAVA_LINK}
 					class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"

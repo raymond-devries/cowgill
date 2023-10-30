@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .typography {
-	@apply prose prose-invert mx-auto prose-lg md:prose-xl;
+	@apply prose prose-lg prose-invert mx-auto md:prose-xl;
 }
 
 .btn-pink {
