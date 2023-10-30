@@ -30,7 +30,7 @@
 <div class="text-center">
 	<MarkDown content={contactData.body} />
 </div>
-<div class="rounded-xl bg-zinc-800 p-10">
+<div class="rounded-xl bg-zinc-800 p-5 sm:p-10">
 	<p class="text-2xl font-bold">{contactData.formTitle}</p>
 	<form
 		name="contact"
