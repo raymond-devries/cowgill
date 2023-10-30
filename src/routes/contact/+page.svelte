@@ -27,35 +27,62 @@
 
 <CustomHeaderImage imgSrc={contactData.customHeaderPhoto} altText={contactData.customHeaderPhotoAltText} />
 
-<MarkDown content={contactData.body} />
-<article>
-	<h3>{contactData.formTitle}</h3>
-	<form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" on:submit={handleSubmit}>
+<div class="text-center">
+	<MarkDown content={contactData.body} />
+</div>
+<div class="rounded-xl bg-zinc-800 p-10">
+	<p class="text-2xl font-bold">{contactData.formTitle}</p>
+	<form
+		name="contact"
+		method="POST"
+		netlify-honeypot="bot-field"
+		data-netlify="true"
+		on:submit={handleSubmit}
+		class="my-6 grid grid-cols-1 gap-3"
+	>
 		<input type="hidden" name="form-name" value="contact" />
-		<div>
-			<label for="firstname">
-				First name
-				<input type="text" id="firstname" name="firstname" placeholder="First name" required />
-			</label>
-			<label for="lastname">
-				Last name
+		<div class="grid gap-3 md:grid-cols-2">
+			<div>
+				<label for="firstname" class="block">First name</label>
+				<input type="text" id="firstname" name="firstname" placeholder="First name" required class="" />
+			</div>
+			<div>
+				<label for="lastname" class="block">Last name</label>
 				<input type="text" id="lastname" name="lastname" placeholder="Last name" required />
-			</label>
+			</div>
 		</div>
-		<label for="email">Email address</label>
-		<input type="email" id="email" name="email" placeholder="Email address" required />
-		<label for="message">Message</label>
-		<textarea type="text" id="message" name="message" placeholder="Message" rows="8" style="resize: vertical" />
+		<div>
+			<label for="email" class="block">Email address</label>
+			<input type="email" id="email" name="email" placeholder="Email address" required />
+		</div>
+		<div>
+			<label for="message" class="block">Message</label>
+			<textarea type="text" id="message" name="message" placeholder="Message" rows="8" />
+		</div>
 		<small>We'll never share your email with anyone else.</small>
-		<button type="submit">Submit</button>
+		<button type="submit" class="btn-pink sm:text-lg">Submit</button>
 	</form>
-</article>
+</div>
 
-<dialog bind:this={modal}>
-	<article>
-		<MarkDown content={contactData.successMessage} />
-		<footer>
-			<a href="/" role="button">Home</a>
-		</footer>
-	</article>
+<dialog class="relative z-20" bind:this={modal}>
+	<div class="fixed inset-0 bg-zinc-700 bg-opacity-80 backdrop-blur"></div>
+	<div class="fixed inset-0 z-30 w-screen overflow-y-auto">
+		<div class="flex min-h-full items-end items-center justify-center text-center">
+			<div class="mx-8 rounded-2xl bg-zinc-800 p-8 pb-20">
+				<MarkDown content={contactData.successMessage} />
+				<a href="/" class="btn-pink inline-block w-full sm:text-lg">Home</a>
+			</div>
+		</div>
+	</div>
 </dialog>
+
+<style lang="postcss">
+	form input,
+	textarea {
+		@apply form-input w-full rounded-xl border-2 bg-zinc-700 py-3 placeholder-zinc-300 focus:border-pink focus:outline-none focus:ring-0;
+	}
+
+	form label {
+		@apply mb-2;
+	}
+</style>

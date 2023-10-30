@@ -5,3 +5,7 @@
 .typography {
 	@apply prose prose-invert mx-auto md:prose-lg lg:prose-xl;
 }
+
+.btn-pink {
+	@apply w-full rounded-lg bg-pink py-5 text-center text-zinc-900;
+}

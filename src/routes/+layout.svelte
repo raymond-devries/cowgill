@@ -16,7 +16,7 @@
 </svelte:head>
 
 <body style="height: 100vh;" class="bg-zinc-900 text-white">
-	<NavBar />
+	<NavBar></NavBar>
 	<main class="mx-auto my-10 min-h-[60%] max-w-screen-lg">
 		<div class="mx-4 mb-16 sm:mx-8 md:mb-32">
 			<slot />
@@ -27,30 +27,30 @@
 			<div class="mx-4 flex flex-col flex-wrap content-between justify-between gap-8 sm:mx-8 sm:flex-row">
 				<div class="flex flex-col gap-3 md:gap-5">
 					<a href="https://www.instagram.com/cowgilltrailcollective/" class="flex items-center gap-1">
-						<IconInstagram />
+						<IconInstagram></IconInstagram>
 						@cowgilltrailcollective</a
 					>
 					<a href="https://www.strava.com/clubs/470714" class="flex items-center gap-1">
-						<IconStrava />
+						<IconStrava></IconStrava>
 						Cowgill Trail Collective</a
 					>
 					<div class="flex items-center gap-1">
-						<IconLocation />
+						<IconLocation></IconLocation>
 						Seattle, WA
 					</div>
 				</div>
 				<div class="flex flex-col gap-3 md:gap-5">
 					<a href="mailto: cowgill.trail@gmail.com" class="flex items-center gap-1">
-						<IconEmail />
+						<IconEmail></IconEmail>
 						cowgill.trail@gmail.com</a
 					>
 					<a
 						class="flex items-center gap-1"
-						href="https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&ctz=America/Los_Angeles"
-						><IconGoogleCalendar />Calendar</a
+						href="https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&amp;ctz=America/Los_Angeles"
+						><IconGoogleCalendar></IconGoogleCalendar>Calendar</a
 					>
 				</div>
-				<CowgillLogo class="max-w-[140px]" />
+				<CowgillLogo class="max-w-[140px]"></CowgillLogo>
 			</div>
 		</div>
 	</footer>
