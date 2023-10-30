@@ -1,5 +1,4 @@
 <script>
-	import '@picocss/pico';
 	import './app.css';
 
 	import IconEmail from '~icons/clarity/email-solid';
@@ -8,70 +7,52 @@
 	import IconLocation from '~icons/carbon/location-filled';
 	import IconStrava from '~icons/bi/strava';
 
-	import { page } from '$app/stores';
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
+	import NavBar from '$lib/NavBar.svelte';
 
-	const navLinks = [
-		['/', 'Home'],
-		['/about', 'About'],
-		['/events', 'Events'],
-		['/contact', 'Contact']
-	];
+	import '@fontsource/barlow-semi-condensed';
 </script>
 
 <svelte:head>
 	<title>🐮 Cowgill Trail Collective</title>
 </svelte:head>
 
-<body style="height: 100vh;">
-	<main class="container" style="min-height: 80vh">
-		<nav>
-			<ul>
-				<li>
-					<CowgillLogo maxWidth="70px" />
-				</li>
-			</ul>
-			<ul>
-				{#each navLinks as link}
-					<li>
-						<a role={$page.url.pathname === link[0] ? 'button' : null} href={link[0]}>{link[1]}</a>
-					</li>
-				{/each}
-			</ul>
-		</nav>
-		<slot />
+<body style="height: 100vh;" class="bg-zinc-900 text-white">
+	<NavBar></NavBar>
+	<main class="mx-auto my-10 min-h-[60%] max-w-screen-lg">
+		<div class="mx-4 mb-16 sm:mx-8 md:mb-32">
+			<slot />
+		</div>
 	</main>
-	<footer style="position: sticky; top: 100vh; background: var(--card-background-color);">
-		<div class="container">
-			<div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-content: space-between;">
-				<aside style="padding: 10px">
-					<nav>
-						<ul>
-							<li>
-								<a href="https://www.instagram.com/cowgilltrailcollective/"><IconInstagram /> @cowgilltrailcollective</a
-								>
-							</li>
-							<li><a href="https://www.strava.com/clubs/470714"><IconStrava /> Cowgill Trail Collective</a></li>
-							<li><IconLocation /> Seattle, WA</li>
-						</ul>
-					</nav>
-				</aside>
-				<aside style="padding: 10px">
-					<nav>
-						<ul>
-							<li><a href="mailto: cowgill.trail@gmail.com"><IconEmail /> cowgill.trail@gmail.com</a></li>
-							<li>
-								<a
-									href="https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&ctz=America/Los_Angeles"
-									><IconGoogleCalendar /> Calendar</a
-								>
-							</li>
-						</ul>
-					</nav>
-				</aside>
-				<div style="padding: 20px 10px">
-					<CowgillLogo maxWidth="140px" />
+	<footer class="sticky bg-zinc-800 py-10 text-lg text-pink-50 md:text-xl">
+		<div class="mx-auto max-w-screen-lg">
+			<div class="mx-4 flex flex-col flex-wrap content-between justify-between gap-8 sm:mx-8 sm:flex-row">
+				<div class="flex flex-col gap-3 md:gap-5">
+					<a href="https://www.instagram.com/cowgilltrailcollective/" class="flex items-center gap-1">
+						<IconInstagram></IconInstagram>
+						@cowgilltrailcollective</a
+					>
+					<a href="https://www.strava.com/clubs/470714" class="flex items-center gap-1">
+						<IconStrava></IconStrava>
+						Cowgill Trail Collective</a
+					>
+					<div class="flex items-center gap-1">
+						<IconLocation></IconLocation>
+						Seattle, WA
+					</div>
 				</div>
+				<div class="flex flex-col gap-3 md:gap-5">
+					<a href="mailto: cowgill.trail@gmail.com" class="flex items-center gap-1">
+						<IconEmail></IconEmail>
+						cowgill.trail@gmail.com</a
+					>
+					<a
+						class="flex items-center gap-1"
+						href="https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&amp;ctz=America/Los_Angeles"
+						><IconGoogleCalendar></IconGoogleCalendar>Calendar</a
+					>
+				</div>
+				<CowgillLogo class="max-w-[140px]"></CowgillLogo>
 			</div>
 		</div>
 	</footer>

@@ -7,35 +7,36 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"build-preview": "vite build && vite preview",
-		"lint": "prettier --plugin-search-dir . --write . && eslint .",
-		"format": "prettier --plugin-search-dir . --write .",
-		"cms-proxy": "npx netlify-cms-proxy-server",
-		"prepare": "husky install .husky"
+		"cms-proxy": "npx netlify-cms-proxy-server"
 	},
 	"devDependencies": {
-		"@iconify/json": "^2.2.102",
-		"@sveltejs/adapter-auto": "^2.0.0",
+		"@iconify/json": "^2.2.132",
+		"@sveltejs/adapter-auto": "^2.1.0",
 		"@sveltejs/adapter-static": "^2.0.3",
-		"@sveltejs/kit": "^1.20.4",
-		"eslint": "^8.28.0",
-		"eslint-config-prettier": "^8.5.0",
-		"eslint-plugin-svelte": "^2.30.0",
+		"@sveltejs/kit": "^1.27.0",
+		"@tailwindcss/forms": "^0.5.6",
+		"@tailwindcss/typography": "^0.5.10",
+		"autoprefixer": "^10.4.16",
+		"eslint": "^8.52.0",
+		"eslint-config-prettier": "^9.0.0",
+		"eslint-plugin-svelte": "^2.34.0",
 		"fast-average-color-node": "^2.6.0",
-		"husky": "^8.0.3",
-		"lint-staged": "^14.0.0",
-		"prettier": "^2.8.8",
-		"prettier-plugin-svelte": "^2.10.1",
-		"svelte": "^4.0.5",
-		"vite": "^4.4.2",
-		"vite-imagetools": "^5.0.8",
-		"watch": "^1.0.2"
+		"postcss": "^8.4.31",
+		"prettier": "^3.0.3",
+		"prettier-plugin-svelte": "^3.0.3",
+		"prettier-plugin-tailwindcss": "^0.5.6",
+		"svelte": "^4.2.2",
+		"tailwindcss": "^3.3.4",
+		"vite": "^4.5.0",
+		"vite-imagetools": "^6.0.0",
+		"watch": "^0.13.0"
 	},
 	"type": "module",
 	"dependencies": {
-		"@picocss/pico": "^1.5.10",
-		"netlify-cms": "^2.10.192",
+		"@fontsource/barlow-semi-condensed": "^5.0.17",
+		"netlify-cms": "^2.8.0",
 		"netlify-cms-app": "^2.15.72",
-		"unplugin-icons": "^0.16.5"
+		"unplugin-icons": "^0.17.1"
 	},
 	"lint-staged": {
 		"*.{js,svelte,css,md,svelte}": "npm run lint"

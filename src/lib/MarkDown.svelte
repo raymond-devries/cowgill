@@ -6,9 +6,17 @@
 	export let content;
 	let markdownDom;
 
-	const parsedContent = markdown(content, pictureTag);
-	onMount(() => pictureLoaded(markdownDom));
+	const tag = (imgSrc, altText) => pictureTag(imgSrc, altText);
+
+	const parsedContent = markdown(content, tag);
+	onMount(() => pictureLoaded(markdownDom, null));
 </script>
 
 <!-- eslint-disable-next-line svelte/no-at-html-tags -->
-<div bind:this={markdownDom}>{@html parsedContent}</div>
+<div class="typography" bind:this={markdownDom}>{@html parsedContent}</div>
+
+<style>
+	div :global(img) {
+		@apply my-7;
+	}
+</style>
