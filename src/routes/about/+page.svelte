@@ -13,9 +13,11 @@
 <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
 	{#each aboutData.articles as { link, title, photo }}
 		<a href={link}>
-			<div class="h-96 overflow-hidden rounded-xl bg-zinc-800">
+			<div class="overflow-hidden rounded-xl bg-zinc-800">
 				<header class="my-7 text-center text-lg"><b>{title}</b></header>
-				<Photo imgSrc={photo} altText={`${title} article cover photo`} class="h-full w-full object-cover" />
+				<div class="relative h-60 w-full overflow-hidden md:h-72 lg:h-80">
+					<Photo imgSrc={photo} altText={`${title} article cover photo`} class="absolute h-full w-full object-cover" />
+				</div>
 			</div>
 		</a>
 	{/each}
