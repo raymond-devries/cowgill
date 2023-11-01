@@ -23,6 +23,7 @@
 
 <svelte:head>
 	<meta name="description" content={contactData.metaDescription} />
+	<title>🐮 Contact</title>
 </svelte:head>
 
 <CustomHeaderImage imgSrc={contactData.customHeaderPhoto} altText={contactData.customHeaderPhotoAltText} />

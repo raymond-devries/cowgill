@@ -7,6 +7,7 @@
 
 <svelte:head>
 	<meta name="description" content={eventsData.metaDescription} />
+	<title>🐮 Events</title>
 </svelte:head>
 
 <h3 class="mb-7 text-xl sm:text-3xl">We have a Google Calendar!</h3>

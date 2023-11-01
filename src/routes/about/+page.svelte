@@ -6,6 +6,7 @@
 
 <svelte:head>
 	<meta name="description" content={aboutData.metaDescription} />
+	<title>🐮 About</title>
 </svelte:head>
 
 <MarkDown content={aboutData.body} />

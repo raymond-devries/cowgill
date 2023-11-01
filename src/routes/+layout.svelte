@@ -13,10 +13,6 @@
 	import '@fontsource/barlow-semi-condensed';
 </script>
 
-<svelte:head>
-	<title>🐮 Cowgill Trail Collective</title>
-</svelte:head>
-
 <body style="height: 100vh;" class="bg-zinc-900 text-white">
 	<NavBar></NavBar>
 	<main class="mx-auto my-10 min-h-[60%] max-w-screen-lg">
