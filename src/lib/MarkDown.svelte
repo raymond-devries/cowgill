@@ -7,7 +7,7 @@
 	let markdownDom;
 
 	const tag = (imgSrc, altText, credit) =>
-		pictureTag(imgSrc, altText, '', `@${credit}`, `https://www.instagram.com/${credit}`);
+		pictureTag(imgSrc, altText, '', credit ? `@${credit}` : '', `https://www.instagram.com/${credit}`);
 
 	const parsedContent = markdown(content, tag);
 	onMount(() => pictureLoaded(markdownDom, null));
