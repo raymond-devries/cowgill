@@ -7,7 +7,7 @@ const loaded = (image) => {
 	image.parentElement.parentElement.setAttribute('style', imgContainerStyleBase);
 };
 
-export const pictureTag = (imgSrc, altText, cssClass = '') => {
+export const pictureTag = (imgSrc, altText, cssClass = '', credit = '', creditLink = '') => {
 	const resizeSrc = `..${imgSrc}`;
 	const loadingStyle = `background: rgba(${primaryColors[resizeSrc]}); background-repeat: no-repeat; background-size: cover; filter: blur(5px);`;
 	const { src, width, height } = CMSimages[resizeSrc];
@@ -15,7 +15,10 @@ export const pictureTag = (imgSrc, altText, cssClass = '') => {
 	const avifTag = `<source srcset="${avifImages[resizeSrc]}" type="image/avif" />`;
 	const webpTag = `<source srcset="${webpImages[resizeSrc]}" type="image/webp" />`;
 	const pictureTag = `<picture style='opacity: 0'>${avifTag}${webpTag}${imgTag}</picture>`;
-	return `<div style='${imgContainerStyleBase} ${loadingStyle}'>${pictureTag}</div>`;
+	const creditTag = credit
+		? `<a href='${creditLink}' class='opacity-60 absolute bottom-0 m-2 text-xs p-1.5 bg-zinc-900 bg-opacity-50 rounded'>${credit}</a>`
+		: '';
+	return `<div style='${imgContainerStyleBase} ${loadingStyle}' class='relative'>${pictureTag}${creditTag}</div>`;
 };
 
 export const pictureLoaded = (dom) => {

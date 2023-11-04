@@ -6,7 +6,8 @@
 	export let content;
 	let markdownDom;
 
-	const tag = (imgSrc, altText) => pictureTag(imgSrc, altText);
+	const tag = (imgSrc, altText, credit) =>
+		pictureTag(imgSrc, altText, '', `@${credit}`, `https://www.instagram.com/${credit}`);
 
 	const parsedContent = markdown(content, tag);
 	onMount(() => pictureLoaded(markdownDom, null));
