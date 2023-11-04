@@ -1,10 +1,8 @@
 import { avifImages, CMSimages, primaryColors, webpImages } from '$lib/CMSimages.js';
 
-const imgContainerStyleBase = 'width: 100%; height: 100%; display: block; margin:auto;';
-
 const loaded = (image) => {
 	image.parentElement.removeAttribute('style');
-	image.parentElement.parentElement.setAttribute('style', imgContainerStyleBase);
+	image.parentElement.parentElement.removeAttribute('style');
 };
 
 export const pictureTag = (imgSrc, altText, cssClass = '', credit = '', creditLink = '') => {
@@ -18,7 +16,7 @@ export const pictureTag = (imgSrc, altText, cssClass = '', credit = '', creditLi
 	const creditTag = credit
 		? `<a href='${creditLink}' class='opacity-60 absolute bottom-0 m-2 text-xs p-1.5 bg-zinc-900 bg-opacity-50 rounded'>${credit}</a>`
 		: '';
-	return `<div style='${imgContainerStyleBase} ${loadingStyle}' class='relative'>${pictureTag}${creditTag}</div>`;
+	return `<div style='${loadingStyle}' class='relative'>${pictureTag}${creditTag}</div>`;
 };
 
 export const pictureLoaded = (dom) => {
