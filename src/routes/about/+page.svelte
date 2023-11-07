@@ -11,6 +11,9 @@
 
 <MarkDown content={aboutData.body} />
 <hr class="my-10 h-0.5 rounded border-0 bg-zinc-600" />
+<div class="typography text-center">
+	<h2>Articles</h2>
+</div>
 <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
 	{#each aboutData.articles as { link, title, photo }}
 		<a href={link}>
@@ -23,3 +26,5 @@
 		</a>
 	{/each}
 </div>
+<hr class="my-10 h-0.5 rounded border-0 bg-zinc-600" />
+<MarkDown content={aboutData.sponsorships} />
