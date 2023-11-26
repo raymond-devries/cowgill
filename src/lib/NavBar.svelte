@@ -32,6 +32,7 @@
 		imgSrc={$customHeaderImgSrc || meta.headerPhoto}
 		altText={$customHeaderImgAltText || meta.headerPhotoAltText}
 		class="h-full w-full object-cover"
+		containerClass="h-full"
 	/>
 	<div class="absolute inset-x-5 inset-y-8 z-20 mx-auto max-w-screen-lg">
 		<nav class="flex justify-between">
