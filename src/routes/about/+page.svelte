@@ -20,7 +20,12 @@
 			<div class="overflow-hidden rounded-xl bg-zinc-800">
 				<header class="my-7 text-center text-lg"><b>{title}</b></header>
 				<div class="relative h-60 w-full overflow-hidden md:h-72 lg:h-80">
-					<Photo imgSrc={photo} altText={`${title} article cover photo`} class="absolute h-full w-full object-cover" />
+					<Photo
+						imgSrc={photo}
+						altText={`${title} article cover photo`}
+						class="absolute h-full w-full object-cover"
+						containerClass="h-full"
+					/>
 				</div>
 			</div>
 		</a>
