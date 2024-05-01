@@ -53,11 +53,11 @@ export function markdown(src, imageHtml) {
 				'\n' +
 				(ol
 					? '<ol start="' +
-					  (num
+						(num
 							? ol + '">'
 							: parseInt(ol, 36) - 9 + '" style="list-style-type:' + (low ? 'low' : 'upp') + 'er-alpha">') +
-					  entry +
-					  '</ol>'
+						entry +
+						'</ol>'
 					: element('ul', entry))
 			);
 		});
@@ -73,16 +73,16 @@ export function markdown(src, imageHtml) {
 							? 'strong'
 							: 'em'
 						: sub
-						? p2
-							? 's'
-							: 'sub'
-						: sup
-						? 'sup'
-						: small
-						? 'small'
-						: big
-						? 'big'
-						: 'code',
+							? p2
+								? 's'
+								: 'sub'
+							: sup
+								? 'sup'
+								: small
+									? 'small'
+									: big
+										? 'big'
+										: 'code',
 					highlight(content)
 				)
 			);
@@ -143,7 +143,7 @@ export function markdown(src, imageHtml) {
 								row.replace(rx_cell, function (all, cell, ci) {
 									return ci ? element(sep && !ri ? 'th' : 'td', unesc(highlight(cell || ''))) : '';
 								})
-						  );
+							);
 				})
 			)
 		);
