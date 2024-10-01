@@ -45,20 +45,20 @@
 		<div class="grid gap-3 md:grid-cols-2">
 			<div>
 				<label for="firstname" class="block">First name</label>
-				<input type="text" id="firstname" name="firstname" placeholder="First name" required class="" />
+				<input type="text" id="firstname" name="firstname" placeholder="First name" />
 			</div>
 			<div>
 				<label for="lastname" class="block">Last name</label>
-				<input type="text" id="lastname" name="lastname" placeholder="Last name" required />
+				<input type="text" id="lastname" name="lastname" placeholder="Last name" />
 			</div>
 		</div>
 		<div>
 			<label for="email" class="block">Email address</label>
-			<input type="email" id="email" name="email" placeholder="Email address" required />
+			<input type="email" id="email" name="email" placeholder="Email address" />
 		</div>
 		<div>
 			<label for="message" class="block">Message</label>
-			<textarea type="text" id="message" name="message" placeholder="Message" rows="8" />
+			<textarea type="text" id="message" name="message" placeholder="Message" rows="8" required />
 		</div>
 		<small>We'll never share your email with anyone else.</small>
 		<button type="submit" class="btn-pink sm:text-lg">Submit</button>
