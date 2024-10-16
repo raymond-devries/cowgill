@@ -1,6 +1,6 @@
 ## Cowgill Website
 
-This website uses a combo of Svelte, Netlify CMS and pico.css to create a static site for cowgill.
+This website uses a combo of Svelte, Netlify CMS and Tailwind to create a static site for Cowgill.
 
 ## Developing
 
