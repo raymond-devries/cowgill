@@ -14,3 +14,4 @@ yarn.lock
 
 # ignored user files
 src/lib/drawdown.js
+src/**/*.json
