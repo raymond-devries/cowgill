@@ -1,49 +1,17 @@
 [
   {
-    "address": "Retreat (6900 East Green Lake Way N)",
-    "description": "it's the 4th monday of the month, which means a field trip! come get in some monday miles starting from retreat for a classic green lake loop*. those looking to wrap up their runs earlier can call it at the loop, or add on another 3 miles through ravenna! make sure to bring headlamps for the Big Dark. stick around afterwards to grab a dinner, treat, and/or bevvy from retreat. \n\n*our route will pass by the green lake community center ballot drop box for those needing to hand in their ballots. be cute and vote!!!\n\n~ this no-drop run is open to women, non-binary, and trans people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone :) ~",
-    "id": 1819931,
+    "address": "Outer Loop",
+    "description": "this month we are heading to point defiance for some urban trails \u0026 howdy bagels!! we will meet at the outer loop trailhead near lot A and meander through all the park has to offer before heading over to howdy bagels post-run for some fuel \u0026 social hangs 🥯\n\nroute options include 8 miles, 10 miles, and 14 miles, and all routes stay together for the first 7 miles or so 🥳\n\ndogs on leash welcome! be cute and carpool! we will be coordinating carpools in the womxn run the herd slack channel. please come prepared with the downloaded offline maps (message us if you don’t know how), layers for the cold \u0026 wet, and a first aid kit (we will have a few extra first aid kits to share)\n\n*this is a no-drop run open to women, trans, and non-binary folx who are comfortable in a space that centers the experiences of women. ",
+    "id": 1827011,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RZIXA5VAQD2LWOODJ754KAGEVMQT5SLOEUAZX2S7ZGJVWKD37TNRR7CRWRAHBQOXBR5QJGV63RCOIHQHKA4RHETANNG5LJN4GNPO4DI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RJZRELLVXEIW4RCOZAUET4HCS3S6JDFSF7TWJSEB36NDWH26FTPUXHUV52F35IORWUODF5NVXUSOQURJJ6XRUEV2PGLOR5WG4YG5OOY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/23R77W2AM6XQTLS73OMQMJZYQSU4C22XAFJE66CT4MJKZE2PLGPDU7RZNJBUTSIEFQ4IDUB7HF6AHOSNRYHS6IMPZWJ3AWKEJYRECXQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SIFG7O4YOZZOPJXOIFRAHGVTK4DDHWBZ6XPGT2UTAWS43RYVSFIRAODVM2UOY72UU63RSCCZHMYR3TTZI6EBWEZOM7GLCJ7EWNQSKOI="
       }
     },
-    "title": "womxn run the herd | retreat field trip",
+    "title": "womxn run the herd: weekend edition",
     "upcoming_occurrences": [
-      "2024-10-29T01:00:00Z"
-    ],
-    "women_only": false
-  },
-  {
-    "address": "fuel montlake (2300 24th Ave E)",
-    "description": "join us for some early morning urban trail miles! our route starts from fuel coffee in montlake and goes through the arb and interlaken to cover 5 miles and 400' of vert. make sure to bring a headlamp! stick around after for coffee from fuel. our only rule is that no one runs alone :) \n\n~ this no-drop, bi-weekly tuesday morning run is open to women, non-binary, and trans people who are comfortable in a space that centers the experiences of women ~",
-    "id": 1819937,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LWWO476JYOUGQG4CGG2RO4EDWRL5TNCDCFE5OF5I42GU2IUUOIVUMVNRD4NL3J76EW5JAQOMTZ3EP2U5EN6PIHSXKVP2DM6M3WHAH3Q=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/3RQTLF5BZB6IHY46AJIITR4SW4SYUY5JGQXWVVGNF3QJZR3OQZIHQBDC3JKB2NFUAQEBPQYOCJEZTTU42Q3YTF2PZT5PC4RBG6F36NY="
-      }
-    },
-    "title": "wrth | morning edition",
-    "upcoming_occurrences": [
-      "2024-10-29T13:30:00Z"
-    ],
-    "women_only": false
-  },
-  {
-    "address": "Harris \u0026 Hanford (Beacon Hill)",
-    "description": "Graze \u0026 Chill Halloween Edition - Wednesday 10/30 \nRun - 6:30pm\nPotluck - 7:30pm\nsee slack for address and potluck sign-up\n\nShorter Route (4 miles): https://www.strava.com/routes/3281751162567138470\nLonger Route (7 miles): https://www.strava.com/routes/3281751143492093094",
-    "id": 1813803,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/NN5DYM6L4E3J2UVUX6L3PA5PXXVCNUQGXQVIN67OZWOJFFM6MKT4SWUQNSOFFOCP5NWTQWZZ67WWK62EZ2RVSQLTD4KUH6AC5BCIERY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/APMKYNYQKB72U2ER2EAXDYEGA33VDLVTTQS3RELLTZ2HE3ML7ZUMROYCTLK7E2XTI656DD2ZVJU6WYMVXFURSY4V5AKTP3KLWRMDXBQ="
-      }
-    },
-    "title": "graze \u0026 chill halloween edition",
-    "upcoming_occurrences": [
-      "2024-10-31T01:30:00Z"
+      "2024-11-02T15:30:00Z"
     ],
     "women_only": false
   }
