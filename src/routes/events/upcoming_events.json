@@ -1,17 +1,61 @@
 [
   {
-    "address": "Outer Loop",
-    "description": "this month we are heading to point defiance for some urban trails \u0026 howdy bagels!! we will meet at the outer loop trailhead near lot A and meander through all the park has to offer before heading over to howdy bagels post-run for some fuel \u0026 social hangs 🥯\n\nroute options include 8 miles, 10 miles, and 14 miles, and all routes stay together for the first 7 miles or so 🥳\n\ndogs on leash welcome! be cute and carpool! we will be coordinating carpools in the womxn run the herd slack channel. please come prepared with the downloaded offline maps (message us if you don’t know how), layers for the cold \u0026 wet, and a first aid kit (we will have a few extra first aid kits to share)\n\n*this is a no-drop run open to women, trans, and non-binary folx who are comfortable in a space that centers the experiences of women. ",
-    "id": 1827011,
+    "address": "5000 West Green Lake Way N, Seattle, WA 98103",
+    "description": "Hills and flat. This workout is a combination of short, high intensity  repeats coupled with either a steady or threshold effort 10 minute segments. This is a good early or mid-season workout for any athlete. The high intensity repeats helps with muscle recruitment while the 10 minute segments will have more of an aerobic benefit. First, 4x45 sec hard on hills, followed by 10 minutes around Greenlake. Then, we will do another 4x45 seconds hard around Greenlake and finish it off with another 10 minute interval. If you are in the beginning stages of a training block, it is best to do the 10 minute effort around a 7 RPE or half marathon effort. If you are in the more advanced stages of a training block, the 10 minute repeats should be done at a 8 RPE or 10k effort or a tad slower.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\nA group will leave for a warm up at 6:30, start drills + strides at 6:50, and werkout starts at 7am. The werkout will take place on the hilly loop in Lower Woodland\n\nWerkout:\n2 mi warm up\nform drills + strides\n45 sec, uphill, hard, 9 RPE\n60 sec, downhill, recovery\nRepeat x4, 2 min recovery after set\n10 min @10k-HM effort on flat\n3 min recovery\n45 sec, flat, 9 RPE\n45 sec, flat, recovery\nRepeat x4, 2 min recovery after set\n10 min @10k-HM effort on flat\n2 mi cooldown\n\nPlease RSVP if you plan on joining.",
+    "id": 1837992,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5SP7LDWUQOFU3E2LJQGK5A7JMHN4EG5H5MGMGM43L2JS4G77CV4ICFOU5CNEAHQDGTTT5MXCKLDPW5PIYN4BOVT53JELKMNYBL6E75I=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EXBSNMJQIWID5DF465VSGB24JGWHA5MIAXFFYIFNFDVQFSRZGIJ2CRVLSXQEJGJP23ZNDV5HUBDI3ZOOGQZ6QZ5L7YULXWTWKKIMCVA="
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
       }
     },
-    "title": "womxn run the herd: weekend edition",
+    "title": "Werkout Wednesday 🐄 2 x [4x45 sec + 10 min]",
     "upcoming_occurrences": [
-      "2024-11-02T15:30:00Z"
+      "2024-11-13T14:30:00Z"
+    ],
+    "women_only": false
+  },
+  {
+    "address": "Squak Mountain Access Trail, Issaquah, WA 98027",
+    "description": "Join us on the east side of Squak this week for a hefty climb and cruisy descent!\n\nSunrise is at 7:15am so make sure to bring a headlamp and, as always, be prepared with your own navigation. \n\nRoutes:\n\n6.5 mile, 2300 ft: https://www.strava.com/routes/3291218591802556088\n8.1 mile, 2600ft: https://www.strava.com/routes/3291219063530285260",
+    "id": 1837148,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FTVF4GOP3SFLKBBI4HMSUUHTHX2YDZO7CPLQQAQ4GMNO2HAF2DNJPLVJ5YJ5DIKQOVPPOMNSYFVPTIVWVGZ5JMKXB4QQBVWWSCUOEIQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TDQA7UXBK73YDHQYVRZITAPGKY4BXIQBKHSXNPEVC3QD5XXNPMLTARXXBONKZ52JKVXE55FO7N6KE4E2DDVMLCYHAM4XS3RLIVWPQJA="
+      },
+      "map": {
+        "id": "r3291219063530285260",
+        "summary_polyline": "}z_aHhkzgVdEQnFnC`J}@rBeEmAwCdDyAvAzFpGeAhCgJlI{Dg@yHjAaI~Bt@_AhBzIxE}CNnBxA@lEdAyAnAfA{@j@zErDc@`BnAYu@fDjAEOnDdFYtDxCHbChDYKvJ~AnCqAv@d@nAiD`BN~SiDrEl@`EuBEeCfHs@xVkHrNvGrILvBzE|CyClSqCj@_A`G{@wI_FaM_HeCeHPsMyKpPqOHqHtDuEyE}Ew@eGpC{GU_CmGsEmBaIrJmBy@{I|L_AjBeCcCP|A}ErD_CtDZ`@_Hl@PqAcEb@mCiAdAr@gFoAXb@aB{EsDz@k@oAgAeAxAAmEoByA|CO{IyE~@iB_Cu@kA`If@xHmIzDiCfJqGdAwA{FeDxAlAvCsBdEaJ|@oFoCeEP"
+      }
+    },
+    "title": "Thirsty Thursday | East Squak",
+    "upcoming_occurrences": [
+      "2024-11-14T14:30:00Z"
+    ],
+    "women_only": false
+  },
+  {
+    "address": "Sugarloaf Trailhead",
+    "description": "Come join us for our November Smooth Mooves this Saturday, Nov 16th at 9am to run in the ACFL! All routes start from Sugarloaf Trailhead. There will be a post-run social in Anacortes at the Brown Lantern.\n\nSee Slack for the carpool thread and post-run social info.\nPlease remember offline maps, layers for inclement weather, and reach out with any questions!\n\nRoutes:\n6 mi, 2200 ft | https://www.strava.com/routes/3291298777615372778\n8 mi, 2400 ft | https://www.strava.com/routes/3291298295557247830\n11 mi, 2900 ft | https://www.strava.com/routes/3291298065558793420\n14 mi, 3700 ft | https://www.strava.com/routes/3291297591302762700",
+    "id": 1837292,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "Smooth Mooves - ACFL",
+    "upcoming_occurrences": [
+      "2024-11-16T17:00:00Z"
     ],
     "women_only": false
   }
