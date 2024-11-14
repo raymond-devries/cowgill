@@ -1,41 +1,21 @@
 [
   {
-    "address": "5000 West Green Lake Way N, Seattle, WA 98103",
-    "description": "Hills and flat. This workout is a combination of short, high intensity  repeats coupled with either a steady or threshold effort 10 minute segments. This is a good early or mid-season workout for any athlete. The high intensity repeats helps with muscle recruitment while the 10 minute segments will have more of an aerobic benefit. First, 4x45 sec hard on hills, followed by 10 minutes around Greenlake. Then, we will do another 4x45 seconds hard around Greenlake and finish it off with another 10 minute interval. If you are in the beginning stages of a training block, it is best to do the 10 minute effort around a 7 RPE or half marathon effort. If you are in the more advanced stages of a training block, the 10 minute repeats should be done at a 8 RPE or 10k effort or a tad slower.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\nA group will leave for a warm up at 6:30, start drills + strides at 6:50, and werkout starts at 7am. The werkout will take place on the hilly loop in Lower Woodland\n\nWerkout:\n2 mi warm up\nform drills + strides\n45 sec, uphill, hard, 9 RPE\n60 sec, downhill, recovery\nRepeat x4, 2 min recovery after set\n10 min @10k-HM effort on flat\n3 min recovery\n45 sec, flat, 9 RPE\n45 sec, flat, recovery\nRepeat x4, 2 min recovery after set\n10 min @10k-HM effort on flat\n2 mi cooldown\n\nPlease RSVP if you plan on joining.",
-    "id": 1837992,
+    "address": "535 W McGraw St, Seattle, WA 98119",
+    "description": "Grazing in Queen Anne!  Bring a headlamp =)\n\nRoutes:\n4miles | 548ft | Pace Group 10min\nhttps://www.strava.com/routes/3291841619746093392 \n7miles | 915ft | Pace Groups 8:30, 10min\nhttps://www.strava.com/routes/3291839200600558132 \n9.4 miles | 1327 ft | Pace Groups 7:45, 8:30, 10min\nhttps://www.strava.com/routes/3291837939441807924 \n\nThe Good Society Brewing post-run-10pm\nTargy’s Tavern 10pm-late\n",
+    "id": 1838706,
     "route": {
       "map_urls": {
-        "light_url": "",
-        "dark_url": ""
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/KRILMWNS4NCCIUBYSU4HJAV2MZXGBDHIKIX3Q6KRGEVDKY5FD3HX5MSRHTLAFWQDEZDSZWM4JRDAEQV7RNGORAR52OI7H2MZDBXYOTY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RNDLUT2OIL57DYWZ6Y6ZJF6OMAH5BZKXSFNOLDT2FK6XHDDBBLTKBBH5SPPOLGI4TTVOMNDQW37BLXJADY7TLWHPL7OGVEMOKV5WGEQ="
       },
       "map": {
-        "id": "",
-        "summary_polyline": ""
+        "id": "r3291837939441807924",
+        "summary_polyline": "krwaH`lziVLoWznAsAOl\\nDiDIhAmDlHg@pHt@r@eJnRhDjHjIsDhAt@oF|\\iDvCeW`@cC_KeFfC@peA~EzNHnXsE`PqNvC?|GvK|CBzFmElN{IzLeD~PsJjR`BdAiDYqEtGqHwQ~DiFjBgFk@aBpDcI}BsE}BUsAsG`BmOcBgAcA{MrD@Ouh@nD_ATkBoE{BJgOcPY}CcGMqQwFaG}Mc@g@q~@LwGhCwCbAqGbC??kBxDADbKfA|Bld@LKw_@"
       }
     },
-    "title": "Werkout Wednesday 🐄 2 x [4x45 sec + 10 min]",
+    "title": "Thirsty Seconds",
     "upcoming_occurrences": [
-      "2024-11-13T14:30:00Z"
-    ],
-    "women_only": false
-  },
-  {
-    "address": "Squak Mountain Access Trail, Issaquah, WA 98027",
-    "description": "Join us on the east side of Squak this week for a hefty climb and cruisy descent!\n\nSunrise is at 7:15am so make sure to bring a headlamp and, as always, be prepared with your own navigation. \n\nRoutes:\n\n6.5 mile, 2300 ft: https://www.strava.com/routes/3291218591802556088\n8.1 mile, 2600ft: https://www.strava.com/routes/3291219063530285260",
-    "id": 1837148,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FTVF4GOP3SFLKBBI4HMSUUHTHX2YDZO7CPLQQAQ4GMNO2HAF2DNJPLVJ5YJ5DIKQOVPPOMNSYFVPTIVWVGZ5JMKXB4QQBVWWSCUOEIQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TDQA7UXBK73YDHQYVRZITAPGKY4BXIQBKHSXNPEVC3QD5XXNPMLTARXXBONKZ52JKVXE55FO7N6KE4E2DDVMLCYHAM4XS3RLIVWPQJA="
-      },
-      "map": {
-        "id": "r3291219063530285260",
-        "summary_polyline": "}z_aHhkzgVdEQnFnC`J}@rBeEmAwCdDyAvAzFpGeAhCgJlI{Dg@yHjAaI~Bt@_AhBzIxE}CNnBxA@lEdAyAnAfA{@j@zErDc@`BnAYu@fDjAEOnDdFYtDxCHbChDYKvJ~AnCqAv@d@nAiD`BN~SiDrEl@`EuBEeCfHs@xVkHrNvGrILvBzE|CyClSqCj@_A`G{@wI_FaM_HeCeHPsMyKpPqOHqHtDuEyE}Ew@eGpC{GU_CmGsEmBaIrJmBy@{I|L_AjBeCcCP|A}ErD_CtDZ`@_Hl@PqAcEb@mCiAdAr@gFoAXb@aB{EsDz@k@oAgAeAxAAmEoByA|CO{IyE~@iB_Cu@kA`If@xHmIzDiCfJqGdAwA{FeDxAlAvCsBdEaJ|@oFoCeEP"
-      }
-    },
-    "title": "Thirsty Thursday | East Squak",
-    "upcoming_occurrences": [
-      "2024-11-14T14:30:00Z"
+      "2024-11-15T02:30:00Z"
     ],
     "women_only": false
   },
@@ -56,6 +36,26 @@
     "title": "Smooth Mooves - ACFL",
     "upcoming_occurrences": [
       "2024-11-16T17:00:00Z"
+    ],
+    "women_only": false
+  },
+  {
+    "address": "Brooks Trailhead",
+    "description": "“drop in for a no drop run!”\n\nnot set route, no set pace, just a common place to meet up and find company for your monday miles! start the week off right and join us at 6:00pm every first, second, and third monday of the month at the trailhead store! \n\nthis event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone :) \n\n*4th/5th monday will typically be field trip runs at outside locations announced on the cowgill strava page ",
+    "id": 1839737,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "womxn run the herd",
+    "upcoming_occurrences": [
+      "2024-11-19T02:00:00Z"
     ],
     "women_only": false
   }
