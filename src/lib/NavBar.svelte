@@ -18,7 +18,7 @@
 		['/about', 'About'],
 		['/events', 'Events'],
 		['/contact', 'Contact'],
-		['/code-of-conduct', 'Code of Conduct'],
+		['/code-of-conduct', 'Code of Conduct']
 	];
 
 	$: {
