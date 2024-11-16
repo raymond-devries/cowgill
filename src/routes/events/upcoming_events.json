@@ -1,45 +1,5 @@
 [
   {
-    "address": "535 W McGraw St, Seattle, WA 98119",
-    "description": "Grazing in Queen Anne!  Bring a headlamp =)\n\nRoutes:\n4miles | 548ft | Pace Group 10min\nhttps://www.strava.com/routes/3291841619746093392 \n7miles | 915ft | Pace Groups 8:30, 10min\nhttps://www.strava.com/routes/3291839200600558132 \n9.4 miles | 1327 ft | Pace Groups 7:45, 8:30, 10min\nhttps://www.strava.com/routes/3291837939441807924 \n\nThe Good Society Brewing post-run-10pm\nTargy’s Tavern 10pm-late\n",
-    "id": 1838706,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/KRILMWNS4NCCIUBYSU4HJAV2MZXGBDHIKIX3Q6KRGEVDKY5FD3HX5MSRHTLAFWQDEZDSZWM4JRDAEQV7RNGORAR52OI7H2MZDBXYOTY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RNDLUT2OIL57DYWZ6Y6ZJF6OMAH5BZKXSFNOLDT2FK6XHDDBBLTKBBH5SPPOLGI4TTVOMNDQW37BLXJADY7TLWHPL7OGVEMOKV5WGEQ="
-      },
-      "map": {
-        "id": "r3291837939441807924",
-        "summary_polyline": "krwaH`lziVLoWznAsAOl\\nDiDIhAmDlHg@pHt@r@eJnRhDjHjIsDhAt@oF|\\iDvCeW`@cC_KeFfC@peA~EzNHnXsE`PqNvC?|GvK|CBzFmElN{IzLeD~PsJjR`BdAiDYqEtGqHwQ~DiFjBgFk@aBpDcI}BsE}BUsAsG`BmOcBgAcA{MrD@Ouh@nD_ATkBoE{BJgOcPY}CcGMqQwFaG}Mc@g@q~@LwGhCwCbAqGbC??kBxDADbKfA|Bld@LKw_@"
-      }
-    },
-    "title": "Thirsty Seconds",
-    "upcoming_occurrences": [
-      "2024-11-15T02:30:00Z"
-    ],
-    "women_only": false
-  },
-  {
-    "address": "Sugarloaf Trailhead",
-    "description": "Come join us for our November Smooth Mooves this Saturday, Nov 16th at 9am to run in the ACFL! All routes start from Sugarloaf Trailhead. There will be a post-run social in Anacortes at the Brown Lantern.\n\nSee Slack for the carpool thread and post-run social info.\nPlease remember offline maps, layers for inclement weather, and reach out with any questions!\n\nRoutes:\n6 mi, 2200 ft | https://www.strava.com/routes/3291298777615372778\n8 mi, 2400 ft | https://www.strava.com/routes/3291298295557247830\n11 mi, 2900 ft | https://www.strava.com/routes/3291298065558793420\n14 mi, 3700 ft | https://www.strava.com/routes/3291297591302762700",
-    "id": 1837292,
-    "route": {
-      "map_urls": {
-        "light_url": "",
-        "dark_url": ""
-      },
-      "map": {
-        "id": "",
-        "summary_polyline": ""
-      }
-    },
-    "title": "Smooth Mooves - ACFL",
-    "upcoming_occurrences": [
-      "2024-11-16T17:00:00Z"
-    ],
-    "women_only": false
-  },
-  {
     "address": "Brooks Trailhead",
     "description": "“drop in for a no drop run!”\n\nnot set route, no set pace, just a common place to meet up and find company for your monday miles! start the week off right and join us at 6:00pm every first, second, and third monday of the month at the trailhead store! \n\nthis event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone :) \n\n*4th/5th monday will typically be field trip runs at outside locations announced on the cowgill strava page ",
     "id": 1839737,
