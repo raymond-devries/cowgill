@@ -1,1 +1,20 @@
-null
+[
+  {
+    "description": "“drop in for a no drop run!”\n\nnot set route, no set pace, just a common place to meet up and find company for your monday miles! start the week off right and join us at 6:00pm every first, second, and third monday of the month at the trailhead store! \n\nthis event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone :) \n\n*4th/5th monday will typically be field trip runs at outside locations announced on the cowgill strava page ",
+    "id": 1839737,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "womxn run the herd",
+    "upcoming_occurrences": [
+      "2024-11-19T02:00:00Z"
+    ]
+  }
+]
