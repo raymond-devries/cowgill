@@ -16,5 +16,41 @@
     "upcoming_occurrences": [
       "2024-11-19T02:00:00Z"
     ]
+  },
+  {
+    "description": "We'll be running through Seward park this week! Please meet here ( Don't forget to download maps and bring a headlamp! \n\nWhile this is not explicitly a no-drop event, we expect natural grouping.\n\nThis event is open to women, non-binary, and trans people who are comfortable in a space that centers the experiences of women.",
+    "id": 1842526,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5FIA6BJVMBCB5VXGTYWK36Q2HVDRSHTZ65PQ7HL26X5SNB7A6I2HIJYK6WDQJP77FSSFWKAXGTTTLT62GU7VLUNGEYPSXW4JI2UIRWQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TKY3UEHDOYK54MLDDL4CDGWTQIUTVNH766IB3LU5IFBHYNY7LMTTKWK3FWNKQ6KZDAYRFAKF54OWA456J7LF5PJUXYWWWGL5VCW4UFQ="
+      },
+      "map": {
+        "id": "r3293634943851292794",
+        "summary_polyline": "mjfaHxkeiViB[_GoOkCgCmGxCuK[uPxCmG_AyAiIzA_GdD`AbB{BjFjG|DPtIkDfBnElCaDN_FfKgD?rLvDdE^`IfMPh@~Ej@s\\{AmJeQoS_C]hAnNbMxAzBjGNxImAaEcGJaMcIkDIwJzG{JeH{CQ{J~EuCrM{@iMhAoCbSoM~Mg@nBvB|@|KlHqArLfH{ArZzFhCiBlC"
+      }
+    },
+    "title": "Tuesday Trail Turn Up - Seward Park",
+    "upcoming_occurrences": [
+      "2024-11-20T02:30:00Z"
+    ]
+  },
+  {
+    "description": "Firsts at Cougar! Carpool thread in Slack.\n\n5.3mi, 900’ https://www.strava.com/routes/3293457546900540784\n7.4mi, 1300’ https://www.strava.com/routes/3293461800449771512\n9.8mi, 1800’ https://www.strava.com/routes/3293462503152091834\n\nBring headlamps and navigation! DM us with any questions.",
+    "id": 1842548,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/UFLYV6EJGEAIFEXZYXM7DYUSCB6GEGU7R7RS6ROZZ6YJTZ6CXCZDIXY54KGDCCYNQ2NQRWEDELQUMO3K5ENURCZDHTG2MCMU4D4MFIY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/VNKWJUUAL6CQYNJPIFUOEG55UX7GE4GFLCRKEHWE3OUIPYKDWC3LUZXV3AIZCNWFNQAC7CVVCCLN3SL3UA7NLCH37MHDKZQXQ6KWAZA="
+      },
+      "map": {
+        "id": "r3293461800449771512",
+        "summary_polyline": "urcaH|yihV~@hGvDe@nEiHrJeFAgF~CoEfHPxBkBJuE}AaBpBaKiAeJfC_DeD_HkAoOgE}Cl@mIw@eC`CgSjD_@bApHx@QAtGjGhGbBqPg@}DdTQtDpFNlLmG~LyBzK|DFlFhHbDiFm@vHpBjBkCvJbBtG_@jNhDnCxAnM?b\\f@|GxAHyApHdDdMrAc@xCtDo@xDrBc@{@fA`AxFsA`BaI}@cLwX}HuEeDb@xFaIr@kBoAX~CoH_B{YaDbNqBgKmCbJyRtIgHI|IgYiF_CcQh@LdBsJdFyFzHmCR_AiG"
+      }
+    },
+    "title": "Thirsty Thursday",
+    "upcoming_occurrences": [
+      "2024-11-21T14:30:00Z"
+    ]
   }
 ]
