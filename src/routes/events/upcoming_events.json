@@ -4,8 +4,8 @@
     "id": 1842548,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/QPMCJTBXI26JKCK3BA5HLIHXN7XBKBHIWNFUNLB4G6LKKT77Z4O5B4ORVACX6YEECDUNKIBLQR66PW4JK62DALTJJEUKNASIPINHMBI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/33QW2SAO233QM7TF3BNCFYF7FUYPU7GXEH26UNC6EMXRRFHCIIQTP24ORC6DWW2QJDMNLGBL2P7UVMULIDDW3VH7AHOAIJX6QHTYTFI="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZY4YSX3GPIM3CIYI3FQVSP4OY52A3AGVMNPPIDYXCMVEM6GB3BA3RYKLYKID7MG7P32NFHVPKTPHCFRC3B4TUO5LAPN27V7MAXOPDAA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/T7TCMV6SJWDL6Q6I7U4TOBD25MIXZDCLWNXSJKRHQBM5FRS3DHNG5NX3ZFTSRLURO4WUDTGLOC5UHAANEBWYTMF36GIU5X5HINBVDTY="
       },
       "map": {
         "id": "r3293461800449771512",
@@ -18,12 +18,30 @@
     ]
   },
   {
+    "description": "Come join us for an evening of running at Wallingford, Arboretum, and Interlaken!\n\nMeet up at North Transfer Station Playground\nSocial at Fremont Brewing until 9pm. Pac Inn until late\n\nRoutes:\n8.8 Mi | 870' | Pace Groups 7:45, 8:30, 10:00min\nhttps://www.strava.com/routes/3294210470974195152\n\n6.5 mi | 577' | Pace Groups 8:30, 10:00min\nhttps://www.strava.com/routes/3294214344194192820\n\n3.0 mi | 255' | Pace Group 10min\nhttps://www.strava.com/routes/3294217078127803208\n",
+    "id": 1844321,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/VNC2P2T3MEX4DVEE3VNDVUFYXGPVW3EWRUBBFFRI3Q53IOAPH6V43ZZFL6EHPXL6OPYF2V3HNOBZW3TUGZDLAKL6WDYQAKBWVMBPDNI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6JW3AIEEE6IZDZMQUKK4NZXHVW4MGJEZKIMG7ITW26CC2A7FMOGL6OFLSRDPAXGVYGNILQ7CAJBICVOBD4TLWDN4Z575XRHQ5CAYM2A="
+      },
+      "map": {
+        "id": "r3294210470974195152",
+        "summary_polyline": "ynyaHlhuiV?qg@sEgCgYm_@kCoTxCwA?cSlKgM|Je^jDHvHmL`BaRu@yKpHG@cBjO}BxBoSlUWBmVaEU}BsEnAsDbBN`A{BrMeCxJvEbL_ArBqDzC[bL~ElBhDxAoAaAs@jCj@kHpKkOjETpAgC`FVbEdEaAg@vn@qJS{DmDoCzAw@dClElEyGJiDnCxD~H_HQcCzBHlGsApFaFrGsGtBeG`NiASGwFqUFuHnG_A{AmFrEuJ~I\\zB{VaR}@pLfHnf@hVd[xGxDD`g@"
+      }
+    },
+    "title": "Thirsty Seconds | NTSP",
+    "upcoming_occurrences": [
+      "2024-11-22T02:30:00Z"
+    ]
+  },
+  {
     "description": "welcome to this week’s womxn run the herd event! we are headed to madrona for our monthly field trip to enjoy some madison park miles — here’s what you can expect:\n\n- quick name/pronoun/ice breaker circle\n- a 6 mile no-drop run (with options to cut it shorter)\n- a girl dinner themed friendsgiving (girl dinnersgiving?) potluck to follow the run\n- lots of gratitude \u0026 good vibes\n\nexact address for the event, carpooling, and the potluck sign up spreadsheet can be found on the #womxnruntheherd slack channel!! please come prepared with a headlamp, extra warm/dry layers, and some girl dinner to share!\n\n*this event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone :) \n\n(we will be back to our regular routine of 6pm @ the brooks trailhead on monday, december 2nd)",
     "id": 1843486,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/AGU542U47KA34XMISWPCZ23CT2DPFS23IDEQD23KG7DDOFM5LINH6FKAZ4Z4IKM5VAH6AAD6JD2EFBJYH4FUDCTOVAVTYSXHONBEV3Y=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/4NQ2BT7GRRKYJ4GCKWTKT4U2ZYRY6PAPK6KOADD33SP6HUISYRPN2OJNTZNEABKJIWHTKJI3CY2XBDV7D4TSBEIAELWXX52AI2W7AZY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/WRPRR2U27LHVURPNUZZS2JBWUZAXAHGXVIJRUWI6YFB5TGKJVEYZXOUJ62WOX6TVTBYXXC2WM7ATKQUTFVMDEOYC5GQ2HN5CDNF62KY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MVYEHMM7DWPJSEBDNSHJMSIGTDWKTVNJZRKZN4KO3S5TILF7RBMA7O25KKYZ7DGCI3FNMCZY5L6PDDA565MTJADZCKECJDB5TCCTVEI="
       },
       "map": {
         "id": "r3293992525172739128",
