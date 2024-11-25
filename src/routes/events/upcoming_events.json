@@ -4,8 +4,8 @@
     "id": 1843486,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/UO3B3EPQKERYIMBM5FQO3XQVCII4F7YUJKJN77627OYR6REJZB4WUHQI2CYE36XX4EYOQMZFF32AQ2IU6HKWKOGQ6XTNG7L7KCDUPBQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/VV63PGA7NYAFYDAZJT5Q2NYTACZRFH7I6MSOGCBQGOFV4UYTHCTKLUOZIMTQONLWZF3FPXZMM3SLZO4XEZWD7KU4JB5MATPQOF6E3BQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/YEKSU4MQH4VOIMLBFZ4OIF5CUZB24HTHCMDZFYMEHP3MZKPIPDXERD54XAK3M3FYIHCB53T3KOAZJLPBYX4BDJOINLOV7BKZSAUUU2A=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/IH7AJ6L5FC3CU2K4QRADXFNEWMTZZQ4NVMHE6D6YFXLMDZT2BULIBOOQNI66JRWBXEBRR3Y2YWRWGXROZRFLSVVRDLORZZRAZQNXXZI="
       },
       "map": {
         "id": "r3293992525172739128",
@@ -18,12 +18,30 @@
     ]
   },
   {
+    "description": "join us for some early morning urban trail miles! meet at the discovery park east parking lot (where the visitors center is) and bring your headlamps. our route is 5 mi with 550' of vert. \n\n~ this no-drop, bi-weekly tuesday morning run is open to women, non-binary, and trans people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone :) ~",
+    "id": 1847505,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/QCR7D6D7EPFJTRB3W4ILD3G2AYDZPT2QYRO4EPWJZIFF335YMQCONE37DKPB7MDCFCRUXFZMULH5ZTCKVUYUSCKOV43DVAYKNOBSTWI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PHZZOOJ6QIGFZGJN5LXSV4FO66AFFVL72HXGE3LSMDR4EPSSVP2QOE4TZOZP5PSS2PSU677FQ55HGPXVK6XMZS53BXVU2IWPEA2OC5Y="
+      },
+      "map": {
+        "id": "r3295992889844497068",
+        "summary_polyline": "se{aHzpbjVoAwBmSpIiBvC_DtZqCpC|A~FqC`DrB`DyDfCmAzGbHxMw@vEh@vOrIjKpEbSiAtQyCxCqB}BaDmXcLiYaMcNSqDbCFdC`DrAmElQ_AxJ{F^dEfEfHpLbGrA{DNgJdMcNbBeKs@sTfAgYgAcGxAwC_AiDPcGqCwCyBrBaKgAm@ZbCjGuCdF"
+      }
+    },
+    "title": "wrth morning edition | disco",
+    "upcoming_occurrences": [
+      "2024-11-26T14:30:00Z"
+    ]
+  },
+  {
     "description": "Welcome to the best Thanksgiving you will ever experience. It's Cowsgiving IV everybody!!!\n\nJoin us for a morning trail run at East Tiger. Note the later start than usual, as most people should have the day off of work. I know one thing I'm thankful for this Cowsgiving: federal holidays!\n\nRoutes:\n13.3: https://www.strava.com/routes/3294447303330077496 \n11.7: https://www.strava.com/routes/3294441629654471254\n8.2: https://www.strava.com/routes/3294442445951042996\n3.8: https://www.strava.com/routes/3294443869552304952\n\nFollowing the run, we will be hosting a Thanksgiving hang (start whenever) and potluck (starting at 6:30pm) back in Seattle. Carpool thread and potluck address on slack!\n\nBring navigation, and DM us with any questions!",
     "id": 1844642,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/4ZV42T3AYNG54NGKQLBNWJS7UEY2WQB6MVRBX34QF3HM6JB32KBZALPB7J75DU4NETPLE4PORR7V27GDYBTXMKCAEAF4LFCD3CMQHJA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LZD532Q2BRQIINAX3WPJNQL72Q4FXRAFJ4WWHVF2WHRR77SGBZFOHG63BBY3NXZ2O2VKG5NSM6IWJRJXK4ERVU7EMBT6YAKWDMEXN7A="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RAJJOCDEBL5MOBBOA6CUTSDCBGT4LVGYRD4D6C4KESNOW5NV7AQ22IHYF6GN4U5WVBLMSBLP7KYAH72EZH5J7IMUITTGKTMP3UBZNDY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/I3X53GZFBQR3YM7JVRDFZUBQ63T6EFUWR7MZHSX4ECCTKRU7DAYK2HUME4Z5UKA74TYM6J5AEPXWL4ABEGQ2JHSRARZKTIAZLCJJ5ZY="
       },
       "map": {
         "id": "r3294441629654471254",
