@@ -1,29 +1,11 @@
 [
   {
-    "description": "join us for some early morning urban trail miles! meet at the discovery park east parking lot (where the visitors center is) and bring your headlamps. our route is 5 mi with 550' of vert. \n\n~ this no-drop, bi-weekly tuesday morning run is open to women, non-binary, and trans people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone :) ~",
-    "id": 1847505,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/I3WFRXR7M2FB6XGQ3HY5234IZIALNYJMWLMJVYA5ZHK5ZF4KYMJKNC7ZVF3F537TZT7S7Q4LKBCYV3CMH6A6Q4OWLAIS4JO66GXMRSI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XNORZAEZDE54A4Z4SISHHYSINFOFBPFIGWYACRWA2UULYN6AKVZE3NYK43JLRIER7ZZC5UZX7MYHDO6BBVWIIP5DFPFHLZ7EKGPO2OA="
-      },
-      "map": {
-        "id": "r3295992889844497068",
-        "summary_polyline": "se{aHzpbjVoAwBmSpIiBvC_DtZqCpC|A~FqC`DrB`DyDfCmAzGbHxMw@vEh@vOrIjKpEbSiAtQyCxCqB}BaDmXcLiYaMcNSqDbCFdC`DrAmElQ_AxJ{F^dEfEfHpLbGrA{DNgJdMcNbBeKs@sTfAgYgAcGxAwC_AiDPcGqCwCyBrBaKgAm@ZbCjGuCdF"
-      }
-    },
-    "title": "wrth morning edition | disco",
-    "upcoming_occurrences": [
-      "2024-11-26T14:30:00Z"
-    ]
-  },
-  {
     "description": "Welcome to the best Thanksgiving you will ever experience. It's Cowsgiving IV everybody!!!\n\nJoin us for a morning trail run at East Tiger. Note the later start than usual, as most people should have the day off of work. I know one thing I'm thankful for this Cowsgiving: federal holidays!\n\nRoutes:\n13.3: https://www.strava.com/routes/3294447303330077496 \n11.7: https://www.strava.com/routes/3294441629654471254\n8.2: https://www.strava.com/routes/3294442445951042996\n3.8: https://www.strava.com/routes/3294443869552304952\n\nFollowing the run, we will be hosting a Thanksgiving hang (start whenever) and potluck (starting at 6:30pm) back in Seattle. Carpool thread and potluck address on slack!\n\nBring navigation, and DM us with any questions!",
     "id": 1844642,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/AHSLQ42FJRFCQIEISE4BWHVRZ4OBO3YFITZVBSXXHACCHSPAYJAGRFIPJQXHYMVZ5E5UGYASZB2K2J64I4DBJF7DSD6WUS24LUMJ7KQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LOG2CPNXIN6KU4HWJRKJU62B54X3THPUNU4G5DWCPJKU65VCAINTHVQEUGX2XFKLJ2KP5B323YHNTYWAEWG3H53RBLMRCZBCEWRCKII="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/S6IYR4JTUKBSU4IENITXB4JK5Z5M2H3YDL77F5J3EK57H4HPJQATENB4NEWYPR5LJMWM5CLL5X4OTPMWDM77O7E4QJR42XRHJEEAZUA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/QP3WHMDUMTQAOQAN7GSQH6QLA2D5BTXAANXRZ2KPBSHHMBZF7JHW27OOTSHVURNRMISEOTUYVLYTHCHAYI7WNTOL5T6UWLOLMRP42JI="
       },
       "map": {
         "id": "r3294441629654471254",
