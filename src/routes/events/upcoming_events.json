@@ -1,20 +1,38 @@
 [
   {
-    "description": "Welcome to the best Thanksgiving you will ever experience. It's Cowsgiving IV everybody!!!\n\nJoin us for a morning trail run at East Tiger. Note the later start than usual, as most people should have the day off of work. I know one thing I'm thankful for this Cowsgiving: federal holidays!\n\nRoutes:\n13.3: https://www.strava.com/routes/3294447303330077496 \n11.7: https://www.strava.com/routes/3294441629654471254\n8.2: https://www.strava.com/routes/3294442445951042996\n3.8: https://www.strava.com/routes/3294443869552304952\n\nFollowing the run, we will be hosting a Thanksgiving hang (start whenever) and potluck (starting at 6:30pm) back in Seattle. Carpool thread and potluck address on slack!\n\nBring navigation, and DM us with any questions!",
-    "id": 1844642,
+    "description": "this month we are heading north to explore\nchuckanut! we will meet up at 9am in the Lost Lake Parking Lot (coordinates marked above) and do a quick intro/icebreaker AND A RAFFLE before heading out for the run!\n\nroute options include 9 miles or 13 miles and both routes stay together for the first 5 miles or so \u0026 will have designated leaders 🥳\n\ndogs on leash allowed! be cute and carpool! we will be coordinating carpools in the womxn run the herd slack channel. please come prepared with the downloaded offline maps (message us if you don’t know how), layers for the cold \u0026 wet, and a first aid kit (we will have a few extra first aid kits to share). \n\n*this is a no-drop run open to women, trans, and non-binary folx who are comfortable in a space that centers the experiences of women. ",
+    "id": 1856549,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MA5DMCJZ3HIMC7EP7E7RPNUN3PI6GA3GBE6HERXBN2RSNNXHLGHCA3EWYZU3NP55LBFZF2TWV6D6TAMJURDQ3E2WKAEPFFV6WXYX7CY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6KBF55G2FPMXPPWN64QXTNC44Z3P7DPYRMG4D3EWK4DJXBYNX7YILVCJGD33CI7HEAPSK77G22Z3DMPG6BKJHWMUT7NCKUWTHI33A6A="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/HBVQXTAOFVL4RA6HJFLQVM4G5JEJMSBFT6T5FQXU3JS6J2CDKWJLUKYS4XBIWMWWSTLUEF3DDKLXODLPESAX3VXW2VOLLXRXXIBNCMA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EH7MVKE425TZCYMOEWB5CD4IEZ5D2DGVX4CCL3FFSIFQUTFYO34J6YMBXW3EFQHBKZ5GBVFOJQG2UHZJ5UIESRSTH6FUI73IVJCOJKQ="
       },
       "map": {
-        "id": "r3294441629654471254",
-        "summary_polyline": "ocv`HfufgVeDiE`AuZeDtRwDdJiN~LtGbEYxEpA`EsEnL@zGhCbGsBnJsFiFqEs@sGXwCbEkFb@wNcO_DqJqD}@iGnFeHrRuAp[uCfA_Ve@jWZhCsBZiFs@k@r@j@[hFiCrBkW[qBiIaDsBuA{FoFqDoNwCwCyFqAkPBgKlGgJvMwJ~JkDsNqDoSjGjOk\\~HkJkYjExKe_@u[~Xe@u@~AaMzFoFvB{IbL_PrBeQ~PgStJmCpc@~E~DlEmCm@vD|IjCiFa@}UkC_FQoF{AzBaDsIp@iN|BsBi@}DrB{BdIhG|NdCdKbIx@nCg@hBvCvEhHbERnFnCtFe@zBjEtIs@yE|IfXbD`AfHpLhD~\\KtGyAh@y@nHeA|XdDhE"
+        "id": "r3299879604667585480",
+        "summary_polyline": "ur|gHphrjV@ZCZ[fAw@rBSfA@l@Ih@]\\o@b@gAh@s@Pm@Hq@AoBWqB[kBc@mBYeAAmAFVk@j@YLs@z@iAxAeCJu@Li@GSg@@YVYJa@FV_A\\k@r@a@`@o@Fi@g@XQABc@COSFU@C[YIIYBeAOo@c@s@M[YOWFNt@B|@St@a@XMZY?Hu@QyAUWi@Ag@F_@b@Ct@SXWQIk@So@MW[Gs@Fa@J}@Aw@c@MQOm@Ei@SY_ASa@@i@^]Hu@Im@Zc@b@a@Hi@FSQa@Ot@o@^WYIcA?MYSIQ[HGb@?v@[h@c@AQQY\\EVDT?\\Q\\YT}Bb@i@Ho@a@mAI_AQ_AEeCJu@Bu@XRJj@NPFu@L_AGoAHoAEu@HQAu@J}B]_DBqCp@@J|BE|BHjDVtCh@@Xh@HZZX^FTGd@[n@}@zAcErAyFjAsDVyAd@s@j@iAtBoFXgANgAXyA^yDX_Ah@yAnAcCf@]~@eAJQAQOIk@b@UHWIIWHSf@?NIPY`@yAx@iBLIT?f@XN@JA@QWk@O}@K[QYAQDILGXFfAYpBPXQdAaBv@c@Zm@Tu@Da@Ga@OKEYNY\\Sz@uA`CaDn@m@^aBTm@Ju@AQ]}@I_AMs@Uk@a@e@gAcAaAc@w@FYSUYwBu@s@@e@Iu@AyCb@}AHy@PmAHg@`@sAJqAVs@Fm@OU[QeAY[ESe@H_@QOH@Zf@dAKJcASu@?iAQo@?SPKXJj@^H^XRn@XPh@h@^j@p@b@RH^@ZNRPHj@VPV@dAb@Rr@CXn@`ALb@RVf@G^FHXI\\SN@P\\PFb@\\Xf@xARFDZD`DEnASz@Yn@WXWfAEZKVUHKP[GONEZWFe@c@Uc@Ck@K}@Dc@Su@GgAs@sBIk@uAuBQa@SqAm@{B[[u@c@QQIQUeAOSGA?q@c@Iq@c@m@GWQ_@F]OeAA_@H_@?m@Hk@A]Jq@?[NiAFiAZk@?c@R_AD[Fk@R[XYPeAXw@HQF_@HgAr@c@@]Xi@HWNSZa@Ps@?w@b@]FKN_@R{@v@g@F}@r@aAd@YXWHWZkCnAiAdAg@FUHe@?SISHGPU?k@XQX_AZWPg@?s@j@e@HgAj@]?i@Ye@FYE]Fg@`@]FSb@O`ASVy@GYF]Zi@?MFKb@Ej@m@fA[Xa@l@k@l@_@ZQDQb@Qn@Wh@BE{@bAUHQb@s@b@]GWI]F_A|@uBrAU`@a@vA]t@KHMIEQGGK?YR_@Nc@ZUHGr@YZG`@SPW?q@[UPSHUXGv@Qj@YPs@@QF]`@Ob@OPi@RIb@KNUFw@@o@XQX[PUFQPKZW@[Ao@FGH@PKFU@s@Xc@Hk@b@[`@S?o@b@U?UXUHOXu@b@]@QNe@@MNGV\\Ld@DZGlB_ArAa@n@Gd@Qp@Fr@Ih@Op@FTIHYb@QfBe@RONQx@k@nAQb@c@Rc@f@Id@Y~@s@vAm@|@Qf@HfA[l@c@nB_AZa@tAYf@Xv@Qj@u@RQn@}@n@Uj@_@`@_AZQl@EdBqAf@G_AzBwBdCiA`BgB|Bm@l@oA~@mBz@cAnAq@l@mApA}@z@uCfAgDjBiAt@cBjB}BrBuBlCg@d@{@r@aAb@_B|@Yl@J`@l@Hn@YvCkB|@[dAYhC}@^IZ?RPHhDHfAf@zAb@xB\\hAVj@r@Zv@Pr@Dr@?Fa@X[\\QHW]Ai@?a@Iq@Hs@?c@Ia@c@d@?b@OXQMIm@IU_@e@]^?b@H^@hASTQXIb@Yo@?e@Fq@Y|@OKSQQUGj@m@NY`A?t@G|ASnBu@x@EZSz@?fAu@f@?~AeAn@}@pAIb@Id@k@fCuBj@Yv@}@z@kBfAiBf@m@Ju@Ru@Vs@Z[t@a@j@IXQl@m@`@Yn@Yf@e@|@Qz@s@^Qr@?pBkB`Bc@b@?`@Id@}@VYl@Q~AqAfAs@bAFl@GTQKc@UOIKRQ`@G~AFnAYTQ\\k@x@a@ZSfAOb@K|@EAe@Lc@LINAh@JrAQTQLYDk@OsDFm@LYT[^HNPNF^@PFpAzBBHDfALb@AXMl@Br@Gl@Mb@sAfAG`@f@tBFj@Vv@F`@hB~Et@dCp@zDBh@CpC\\~CK|B@t@IPDt@InAFnAM~@Gt@OQKk@YSCt@Kt@DdCP~@H~@`@lAIn@c@h@U|B]X]PU?WE]DPX@Pi@b@w@Zc@?IFPZRHLXbA?XH_@Vu@n@`@NRPh@G`@Ib@c@l@[t@H\\Ih@_@`@A~@RRXDh@Nl@LPv@b@|@@`@Kr@GZFZt@A?FPHj@VPRYBu@^c@f@Gh@@TVPxAIt@X?L[`@YRu@C}@Ou@VGXNLZb@r@Nn@CdAHXXHBZTARGBNCb@P@f@YGh@a@n@s@`@]j@W~@`@GXKXWf@AFRMh@Kt@yAdC{@hAMr@k@XWj@lAGdA@lBXjBb@pBZnBVp@@l@Ir@QfAi@n@c@\\]Hi@Am@RgAv@sBZgAB[A["
       }
     },
-    "title": "Thirsty Thursday: Cowsgiving IV",
+    "title": "womxn run the herd: weekend edition",
     "upcoming_occurrences": [
-      "2024-11-28T17:00:00Z"
+      "2024-12-08T17:00:00Z"
+    ]
+  },
+  {
+    "description": "run @ 6:30 pm\npotluck \u0026 cookies from 7:30 on\nroutes tbd\nmore info on #graze_and_chill slack",
+    "id": 1852900,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "graze \u0026 chill \u0026 cookies",
+    "upcoming_occurrences": [
+      "2024-12-11T02:30:00Z"
     ]
   }
 ]
