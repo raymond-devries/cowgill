@@ -4,8 +4,8 @@
     "id": 1856549,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/HBVQXTAOFVL4RA6HJFLQVM4G5JEJMSBFT6T5FQXU3JS6J2CDKWJLUKYS4XBIWMWWSTLUEF3DDKLXODLPESAX3VXW2VOLLXRXXIBNCMA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EH7MVKE425TZCYMOEWB5CD4IEZ5D2DGVX4CCL3FFSIFQUTFYO34J6YMBXW3EFQHBKZ5GBVFOJQG2UHZJ5UIESRSTH6FUI73IVJCOJKQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CMIT2L7QO3AI5RMK3RET2VA72QKCZ2S3WQSRZJEWSMCYW4S7YUE66FZKTOJGFTNB3YMPDJ2H2YDA3DU2PO2DHSQKMCORH4FOSYJX5CY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/R3CMDKE2GXY3NQYGLKS5HVC2P2PWEJXKOITLUFZAH5JCSMMCRYZDIJ3CRLOBU6XZ63IWRQKW4OA3P6VEZCMX2ZTEFBOYX36OXM63VRI="
       },
       "map": {
         "id": "r3299879604667585480",
@@ -15,6 +15,24 @@
     "title": "womxn run the herd: weekend edition",
     "upcoming_occurrences": [
       "2024-12-08T17:00:00Z"
+    ]
+  },
+  {
+    "description": "“drop in for a no drop run!”\n\nnot set route, no set pace, just a common place to meet up and find company for your monday miles! start the week off right and join us at 6:00pm every first, second, and third monday of the month at the trailhead store! \n\nwhat to expect:\n- 6:00pm gather \u0026 mingle\n- 6:05 icebreaker \u0026 introductions \n- 6:10pm depart for run\n- 7:00pm return to Brooks\n\nthere will be a leader there to guide anyone interested in a 4-6 mile route, but you’re also welcome to buddy up and do your own thing! monday nights are for getting what you need :)\n\nthis event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone ❤️\n\n*4th/5th monday will typically be field trip runs at outside locations announced on the cowgill strava page ",
+    "id": 1858420,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "womxn run the herd",
+    "upcoming_occurrences": [
+      "2024-12-10T02:00:00Z"
     ]
   },
   {
