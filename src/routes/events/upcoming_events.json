@@ -18,6 +18,24 @@
     ]
   },
   {
+    "description": "join us for some early morning urban trail miles! meet at the Caffe Vita near Third Place Books in Seward and bring your headlamps! our route is 5 miles with 500ft of vert.\n\nwhat to expect:\n- 6:30am meet and mingle\n- 6:35am introductions and icebreaker\n- 6:40am begin run\n- 7:30am ish finish run\n- option to get coffee \u0026 hang post-run at Cafe Vita\n\nthis no-drop, biweekly Tuesday morning run is open to women, nonbinary, and trans people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone :)\n\n*no drop means nobody will be  left to run by themselves. we will always adjust our paces to meet the needs of the group. Tuesday morning runs typically range anywhere from 9min/mile to 15min/mile pace",
+    "id": 1859373,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/E6VOQ2V4F6TISEGAL6W36K2UN4OQWANJBRD5DO6JHCNNOCOR4JUOZSQGPPBB4NLOSTC5GU275UUBNONRWWIJKUQDO22IYGIW2Q4QFBI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/YPP6OT32H7TGCO6N22XFE2FNGDFUR43NSC7ZYNLRY4EJ4AWMFOWFUBG2EOKQJCBIG63MDXHMEZLS7KNZQCNRPFDUUOOAV2ORXFOQNRY="
+      },
+      "map": {
+        "id": "r3301247373650949342",
+        "summary_polyline": "ahgaHz|giVfFwAv@a^nXwSn@qKzBaDr@cO_@qCgMQGiDvBqAsDbBb@iDwDeE?sLgKfDO~EmC`DgBoEyKtDsFgCa@iCsDdBeDaAbBgGrGyCxE?zJdHvJ{GjDHtMfHj@nFgBdF~JOdB_DTnSgB|FBrFdExArXb]sRsCkFl@gc@xe@kGrB"
+      }
+    },
+    "title": "womxn run the herd: morning edition",
+    "upcoming_occurrences": [
+      "2024-12-10T14:30:00Z"
+    ]
+  },
+  {
     "description": "run @ 6:30 pm\npotluck \u0026 cookies from 7:30 on\nroutes tbd\nmore info on #graze_and_chill slack",
     "id": 1852900,
     "route": {
@@ -40,8 +58,8 @@
     "id": 1858894,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TXK2TWWZRXAA2UXSGCA7IRCM4ZY4ABNLBNVGQNYJAXDB6LZU67U4A3B5SNJZ6QNDRDJKQWAHPZZO7LNERJ6QOME3BJQIM4FQFK2UELQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EQFBHMF3ZPL3GDYNFX3GAKWYS24AOMDQ5CFSWJ6XOC4LYAQ7YN47HZR72XTFIH33SNBNLVPFPXSB3T5PMGMGGTLOYNDJKAXKEXMX2XA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MRQRQSVB3MVKP4GKBYLDKZCVBLY2Z7QB5MPE3OLPEYGNEDJEVWW3X5CF7AF7KNQ3NQKBLVBUJZBGWTXVJZDTEGY37EI5GLE6HS5SOJQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/UABGPP6V6FKTHGI2HIYG2MSKX7OYB5CNRYIH2VAY5TX6RTFHLVBXXVPRK4PD7DRWMKF2VWUJLOSZEQBC263ESZVFIZOGD3RAQGRUUTQ="
       },
       "map": {
         "id": "r3301054018915339980",
@@ -58,8 +76,8 @@
     "id": 1858886,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/3IPPFP45TGYP7VR6AI6QZJY5QM3CBBSDU3ZHW2XN6A776BXTK2GRJXOJ6YPYH75735J7PIMXD7NEJEQNZ3NUMBCJOUXQ57T4N7FYUNA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PUW5N2GYLP4XJJGO2GONZWQMKXSAQDRU2EEMSTRYE67GVA7B52RLB7BKL7SB32UMMY75EYBQG5FJI5SSRHBOND4U23RLNSIUNWXTHWY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/2AJAABFEBSAGRGDH7VAETBINUB7AO4BWXGUO42NM25A7RC73Z2MB57U3JZONAFICF2TLA2TVPACY4IHNQW6SRLTL2OY5XAP3RMK3ZKQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TH5PU4JXDI5P57D2LHFYAQPG6DJGJOUJIGCYR2NXNIOKTTV5RFEW6ULQAPGM6W24RS7CAUE7XNEWRD5GHQZQGGHMN777WVAQ3M7UQPI="
       },
       "map": {
         "id": "r3301042704030856698",
