@@ -4,8 +4,8 @@
     "id": 1858894,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XAZJPXVPOTUZN6FSQ5MRS3TADVP4I6HUBW7R3R4YGVY3YR3DJ22DDH5UAHXNLXV2F4ARXGC36FJAJCGWE7W5DRNTS7XKU64AOSINICA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZVXG47TFTBUT3ZTS4BJOM5MOFEGKZEEC5DSPJFGODU5WP65BEA3KLWABXBNSKK76KW3GRAHCK3FKNHAID4CVZVTL6WCNMYUWJS7FQDQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RFM75CSTWDM2KZJOQYILG633TQVTIRTVDS7CJOYFTYRGP6QG3M5SBHGOXVTSQ5TFOVWUYL5HLSLZE7N56XBX7YWDAQZB7YKRS62HO6Y=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/VLFYSITMU3YDPNVMKLT5YO64WEIAL5627AV7M4OSU3GHKCK3ELBYBMVIE6Z36PVC3BMEGEOFOKZ3TYHFKRDG7YK27AYSKX37SH3IU3A="
       },
       "map": {
         "id": "r3301054018915339980",
@@ -18,12 +18,30 @@
     ]
   },
   {
+    "description": "Back to the classic meet-up spot for a Queen Anne run you won't want to miss. Need to stretch those legs out after zooming on the trails at First's Hoka demo? Then come enjoy some of the best views Seattle has to offer!\n\nRoutes:\n3.5mi | 335' | Pace Group 10 +/- min/mi\nhttps://www.strava.com/routes/3301973366737427228\n\n6.0mi | 650' | Pace Groups 8:30, 10+/- min/mi\nhttps://www.strava.com/routes/3301963458445589370\n\n8.0mi | 900' | Pace Groups 7:45, 8:30, 10 +/- min/mi\nhttps://www.strava.com/routes/3301972660025378192\n\nFremont Brewing Post-Run Social\nPac Inn until late",
+    "id": 1861164,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/54XEOSYZJS6YSOQT6CBRH63P2MEMQA7N2VRO5Z7H3JYYEM53C3H6IF5UVBC7LJEMSKZV3EM3DWGW4U5HKSST6ZZ7YPG2JG4GRFIAQ4Q=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MUVGQVCGVLJPG36WYTISSOT2OLJAWNSRXE5RBUVENQQRD5GV2YK4CIH7QZQPST7B23L6NVPVUACYDAWPGGN3LHDELBB5PF7CR6IUKKQ="
+      },
+      "map": {
+        "id": "r3301972660025378192",
+        "summary_polyline": "_nyaHbhuiVtEZcGpaAvRPf@oBeFjEgCnHhRa@DxEvG`ACxXvUSLsEfBe@Fet@tRHnAvAtRwA\\vA|HHdApF_DpAhKnT?zLqAxCX~\\zOPk@zY}CrQgB`DcJhAyFlGeETKbFup@IyAaAMsMyT]yCdCgJ?QbD{H`AkH_c@rByHIaFcEmFoFYbTes@tHkQ`DqBgFvCgN_AzG}{@BuDuEA"
+      }
+    },
+    "title": "Thirsty Seconds | NTSP",
+    "upcoming_occurrences": [
+      "2024-12-13T02:30:00Z"
+    ]
+  },
+  {
     "description": "Saturday: We’ll be hosting an aid station for the Deception Pass 50k. See Slack for volunteering details.\n\nSaturday night: Free \u0026 sheltered camping with a fire at Raymond’s family farm near Burlington (thanks Raymond!). See Slack for camping details.\n\nSunday: Meet at North Chuckanut TH Sunday morning for several route options exploring the Chuckanut area. Social post-run at GRUFF brewing. For all the routes be prepared with navigation!\n\nThe longest route runs ends at GRUFF Brewing! Please coordinate carpooling if wanting this option! Bring your ID since no minors are allowed at GRUFF brewing.\n\n7.9 miles 1,839ft\nhttps://www.strava.com/routes/3301040869257493196\n\n11.8 miles, 2603ft\nhttps://www.strava.com/routes/3301040607622139596\n\n16.6 miles, 3754ft\nhttps://www.strava.com/routes/3301041369865179852\n\n21.3 miles, 4557ft (ends at GRUFF Brewing Co.)\nhttps://www.strava.com/routes/3301042704030856698\n",
     "id": 1858886,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/M66A2RFWW4HKS5LP62DLZULL3XJPMIB7473Y4242ZJN6JGV7OGA37EAOLENUZKYU6OPGQ5DZRB47JCVUWL2GY6KWH7V4V4CNEHFRK7Q=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/3YA5VNLMPEUVTZLTFPSFOIRLEGELMNXMMS5MWMH2GZVA7NSIQQC47QER6ZYPGQE6O7GVF5WL33YMC2PSJ3TCKNSLN3QUFMJV5MLKENY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/BQNTW42R3IDZ55BWXFAJF2FFOPRCW24DAWDR5VKOEXJHRPMC7IR35Z6BJFTURZ2DBIPZUDK26FRI7RA2A3FI7LKIVTVMICBDOWF5TSI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/OSXYDSS3ZTBVZWIAEO5FBTU7UC2YYIPN3KUCNGA6DUP5WAGYTWZGGLPFQAFW3V4ABVID5YVOAWJRBPL43W4B73ZURRLMOZ63EHNYBGA="
       },
       "map": {
         "id": "r3301042704030856698",
