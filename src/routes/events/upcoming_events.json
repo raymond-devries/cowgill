@@ -1,29 +1,11 @@
 [
   {
-    "description": "run @ 6:30 pm\npotluck \u0026 cookies from 7:30 on\nmore info on #graze_and_chill slack",
-    "id": 1852900,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EGYVJMJVM6P3TJ3DEX5LC7M3CBF6KCBJH4YG2JINZ6BFYZZ24RIFAM3JOL7HPPJKZZK6MG2UQN7EP6EKQCACEKZ7PT3TBSJ42SWCSRA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/S47EO7J2ZGAKRJ6ZND35H5JWOITQBL5GZNBNG6CVRF5UOQGH4VNLNLNLAAR2AZPT7XMLZTNTCM3VXLD47H4WOWEY4KT5MF2R5Z35J3A="
-      },
-      "map": {
-        "id": "r3298484510198076808",
-        "summary_polyline": "ozhaHt~hiVAbP_E?kF`DuCmBiJhAEfIeJJE`Yj|@Se@aNwDmGLuA|\\?Dm`@xUNDoa@`[E?kJhDvEfB?l@_PpFe@@yNiKmAsEhAwY~[@qNw]e@AsMqMfEDd_@o\\DLvf@"
-      }
-    },
-    "title": "graze \u0026 chill \u0026 cookies",
-    "upcoming_occurrences": [
-      "2024-12-11T02:30:00Z"
-    ]
-  },
-  {
     "description": "Hilly tempos, yum! This week, we turn our attention to some up AND downhill running in a longer interval format. We will take the hilly loop (with a slight detour by the high tree) by storm working hard on the 50th hill up, recovering across the top, and then running the downhill hard only to do it time and time again. The goal of this workout is to build some muscular resistance to breakdown in the downs, and to work that aerobic system on the ups. This is a time and distance based werkout meant for all ability levels.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\nA group will leave for a warm up at 6:30, start drills + strides at 6:50, and werkout starts at 7am. The werkout will take place on the hilly loop with a slight variation. To see route map, please reference map posted in Slack.\n\nWerkout:\n2 mi warm up\nform drills + strides\n.65 mi, 180ft gain from base of soapbox hill, up 50th, to tree on the hill // 8 RPE, 10k-HM effort (blue)\n2 min, .1 mi jog down to trail junction // easy jog (brown)\n.4 mi, 80ft loss, uphill to bathrooms and down road to tennis court // 8 RPE, 10k effort (black)\n2 min, .25 mi jog to base of soapbox hill // easy jog (orange)\nRepeat x4-5\n2 mi cooldown\n\nPlease RSVP if you plan on joining. ",
     "id": 1859640,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PRPTD6YP4KHOUESQWDYYS4IF6BXZZYOJOF7DVDMTEVPX5BFHFGNPG4ICVNCMCTGGC3VWKMNBVGJDVMCYFSRIUCSZFW6E32J34XLPFXI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6YYOVGMWJ7ZNSYEERW5VTDD7RQCKAMQHRLKR65B5D4AOXJCTEFJVA5EIZZB763YUBMDBROL4JIZKDBRMFA5YXHRWPW4CGFW3QQF3W4I="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/IMDBU53Z2ZL6SEOSVWMETYO7TNZUP2UOLNLR5PGJI7Y2Y35WI2BTVFDWIRLVWXTFR7KTEUNV4E3LUGYL32B7XM2I3LPMLLZTPHNDQGI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/UFGE6EC2U3LOJ3FRE2S6BBWTNE4QLWPLVQYQC7GTKTNLEZTI7UNOVYY5QX2SCMEHYHQNDKDIZJ3QROKRQN5FSNJMBLHPVRHHIPU27ZA="
       },
       "map": {
         "id": "r3301323764085132510",
@@ -40,8 +22,8 @@
     "id": 1858894,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/NJAA6FHHHJR6MQYTJ6XBYPIPG6YHX2VKQ3AE4OH2DJ6PW5ULMJMUF2L4OVNO73M75ITKQRYNPFDDBMJCWSZUOI2BKADNPPKEXQPRXZY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TRA3XMXKXJHHPPF2GYSTQV62DGDJ5KEXC4IT7HOVRXUMQFN2YFRGW3YITWYGBEBAL24ASKNYKGRVYKPT664ND63C4TQSPQML5BIYTCQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FX5HOYOWYB26UTYJJLTNUZTZV4GATUO4OHL32V54WZOWBOROENDPLZHPHLB43OWHSDM5LAMJD2EW7DJTKUI3CLJMNGXJ7XPYGFA4ZUY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/USDVBLI5RC2GI4QNOBR3SGH2D7CDTJAUYCOY7NATSFAFBADNNEUHRCOP5SD55FAW562GB2SYXPAEAFMWJDRX56HWLDVJ3WWILNXEZYQ="
       },
       "map": {
         "id": "r3301054018915339980",
@@ -58,8 +40,8 @@
     "id": 1858886,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PPT6I5JBMU5H525EUHMXHJBBTBDZX3OYGECNK5NU6ZDKYF4DODQOKJ6XXWGV3CANQ33RZYJYZXELHCNOK2HW7HDO54LM6A567WY3LUQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6MF35BMWNITKKJUUWQNKDVZQ2C6FCWXHXGWZR7VAVSUOGFBLVW6OHJUXUHLP6WHAOTRIWG4DFVOOGTAV6CMEKNNFPB4URVRUCB7GYFY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/273WCWTQX4YPSILL4AJXDVENU6NHLBXNXMMCWPWR3KOXYUI3D4ZIYCXSZTZAZ2GMMILVL2DOFLBXBLM6LIV6V4GFMTS7A6DYPZC3QDQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZEMLKCT5DPY3PODSRATOHYGILWU3SDGKE2QYMRPIMOM7OBTVS4DLP4FFWOKRIVP4PYONYZHYFTNR57NQHS3WBKPZXVJ56GY2V6UUAKA="
       },
       "map": {
         "id": "r3301042704030856698",
