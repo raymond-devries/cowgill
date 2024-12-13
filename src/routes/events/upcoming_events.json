@@ -1,29 +1,11 @@
 [
   {
-    "description": "Back to the classic meet-up spot for a Queen Anne run you won't want to miss. Need to stretch those legs out after zooming on the trails at First's Hoka demo? Then come enjoy some of the best views Seattle has to offer!\n\nRoutes:\n3.5mi | 335' | Pace Group 10 +/- min/mi\nhttps://www.strava.com/routes/3301973366737427228\n\n6.0mi | 650' | Pace Groups 8:30, 10+/- min/mi\nhttps://www.strava.com/routes/3301963458445589370\n\n8.0mi | 900' | Pace Groups 7:45, 8:30, 10 +/- min/mi\nhttps://www.strava.com/routes/3301972660025378192\n\nFremont Brewing Post-Run Social\nPac Inn until late",
-    "id": 1861164,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/WPNIH3VGBHZ2ACEU6HDB6CZW3XJ4BI7RI4YC3BOTCML5W4KNOWLTXB6O5ULTR67W65MXAM23DIN3AJQWLPUVXB6TDHGUPPAOI552EPI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6JFZD2RHVBHCWPIPH7RHPLGUPIHZK4T5JCICPP6T3EGINFHGQ74N7TKIEKKSCTLOGURCZHY5IRUAYGQKVUA2LFDBEY453ADWINCNYAY="
-      },
-      "map": {
-        "id": "r3301972660025378192",
-        "summary_polyline": "_nyaHbhuiVtEZcGpaAvRPf@oBeFjEgCnHhRa@DxEvG`ACxXvUSLsEfBe@Fet@tRHnAvAtRwA\\vA|HHdApF_DpAhKnT?zLqAxCX~\\zOPk@zY}CrQgB`DcJhAyFlGeETKbFup@IyAaAMsMyT]yCdCgJ?QbD{H`AkH_c@rByHIaFcEmFoFYbTes@tHkQ`DqBgFvCgN_AzG}{@BuDuEA"
-      }
-    },
-    "title": "Thirsty Seconds | NTSP",
-    "upcoming_occurrences": [
-      "2024-12-13T02:30:00Z"
-    ]
-  },
-  {
     "description": "Saturday: We’ll be hosting an aid station for the Deception Pass 50k. See Slack for volunteering details.\n\nSaturday night: Free \u0026 sheltered camping with a fire at Raymond’s family farm near Burlington (thanks Raymond!). See Slack for camping details.\n\nSunday: Meet at North Chuckanut TH Sunday morning for several route options exploring the Chuckanut area. Social post-run at GRUFF brewing. For all the routes be prepared with navigation!\n\nThe longest route runs ends at GRUFF Brewing! Please coordinate carpooling if wanting this option! Bring your ID since no minors are allowed at GRUFF brewing.\n\n7.9 miles 1,839ft\nhttps://www.strava.com/routes/3301040869257493196\n\n11.8 miles, 2603ft\nhttps://www.strava.com/routes/3301040607622139596\n\n16.6 miles, 3754ft\nhttps://www.strava.com/routes/3301041369865179852\n\n21.3 miles, 4557ft (ends at GRUFF Brewing Co.)\nhttps://www.strava.com/routes/3301042704030856698\n",
     "id": 1858886,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PICLSLCLJOD6CKRG55IMDLJJGZ2Z2KGH75H7JXSDUI6USIWZ4ETODYSL6R74222J7RRW6K5FH6D724MWXKGZ6RAI224GKGJDVSMCZRA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/NWSHSY3UUI4IYO7GT4WWM5ZYSYIYJB7OPPSMZLR2S5ZFBCPTT2BIQBXPW7AN5LLMPWZAG3LR65PFJBMDGTTS6TMLEKBNCZAPUSQML5A="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/24RKJVNI5FHZX4JWVC6TKQ6YLD267D3SCEBV76K33Q32OUYRKINBG7PCYWZHJNQGCRPKHIK4OKHMQHSE3XXNETHA6DRJJ2HFQ2CRCPQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/NSHIJBRTCSXTYMTLPU6RFLWYTDRYNCG3TC4HH32GJPVS6RPWGVTW7Q3Y76SZXATVGPJ2ZE72KOLPT6JIBTLWPSFLZHZTEMHUQESR4QY="
       },
       "map": {
         "id": "r3301042704030856698",
