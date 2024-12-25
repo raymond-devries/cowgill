@@ -4,8 +4,8 @@
     "id": 1868135,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/JZLKEXEWJHP2EP4SJOJUI3GUANVFCJTV3MOQBPLTP556TPVMONSQQUSZALMBOWWVHND46A63KNW2UABTHAKQRPZZVRBZBSB2MMZ2PAQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/VE5CCQZH2SCPLH65WFVFHWNEZBDJODRJDPF37BMM6OITUPY2AZMBYEBEFZTEMLXI4KLCCGT6IXSFGL4XOOXLQS64ULFFVD7BNDYXDYY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CEZOECW5J6B4PYKSAQSKM7E42SLPAPC2GARXBWQPG2R37U35LFXVGWMB6AMUQRPDXNWH7EFGNFDVFSH456NWX3L5ZXLSLU5IQ4GGIZI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DKGYJBUWX44NKI2BE4S7S3WZD4XPK5KZF7KYNJFFP345OA3CVX7BTHMSVN4RPQF45NSSQOCUXM4G35IIN2ZYIIYYPUZVQC3YI7YFZHA="
       },
       "map": {
         "id": "r3305332878806721130",
@@ -15,6 +15,24 @@
     "title": "Werkout Wednesday 🐄 Cougar trail werk, 8:30 AM start",
     "upcoming_occurrences": [
       "2024-12-25T16:30:00Z"
+    ]
+  },
+  {
+    "description": "Come on out to the iconic Q20 where drinks are cheap and you can bring in any food - including from the convenient aisles of QFC! Enjoy one of the three routes and the company of good people!\n\nRoutes:\n3Mi | 200' | Pace Groups 10+/- min/mi\nhttps://www.strava.com/routes/3306827063293732714\n\n5.5 Mi | 400' | Pace Groups 8:30, 10+/-\nhttps://www.strava.com/routes/3306713853245668022\n\n9mi | 800' | Pace Groups 7:45, 8:30 10+/-\nhttps://www.strava.com/routes/3306720512711871734\n\nPost-Social at Q20 (QFC bar)\n\nHeadlamp! \n\nNote: you may want to bring  your own navigation in case there are not enough leaders due to the holidays",
+    "id": 1870508,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ANKPHOGOZ2VKRTSPUO5HEQFIB2KRM4MNDE6PIFGQJFAJ5DBKK22CQPDRJCQITYY7MZQQDAE32BOBSD22CQCSO6MXFXVXAH4NODF7YGQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RYTDHFUTCEF4W47JPOW4OLTA7IPG5MVCN3X6R522XLCJX37MJH3LXUKWYKECLMLNWFMZWDYXUMAQMY7C7T5LZFIZYTSISA2PKIK7RVY="
+      },
+      "map": {
+        "id": "r3306720512711871734",
+        "summary_polyline": "gb|aHlcmiVnGeBEeTtEyCxBrGlMuA`B{CcCsC~@iKmD}BQmEbEFh@aGjEeHXqObDcBvBeHfKuGx@sGdFt@vAoCpGyAToCaDeAcBvAi@wBDlDmHnCgViC{BvByAiCkXx@g@rA}VMKuo@cObU?mNdDeCaA}F|CgPyEsWuPiYwP_N\\fPoJgAF}JwD}Dz@iF{@{AiBnIaGvAOvE_EfIp@lDbA]@pJnK~@N`eAdAzJhBlE`NoAhJzItMoC\\fTxG`Lk@Q~@tHeGjBnCfIzDxCzS~ClEpDzA`FPjGsBbLoNjUd@dHfIB"
+      }
+    },
+    "title": "Thirsty Seconds | Q20",
+    "upcoming_occurrences": [
+      "2024-12-27T02:30:00Z"
     ]
   }
 ]
