@@ -4,8 +4,8 @@
     "id": 1875049,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/BQ4IQLL7TPI5CPEKNDLRDJXODYMAGAXZEMHH6DRF5YM6OXKWNZLFCCEVEHWO45GNBDNLKYY655D2ZFSIJWZRPJQMWIWBO3TVB3J2UPA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CDGYDMMSCYYHJI6DR4JE3G4DICWZZSEL6I7YP7PM3XFHHZTORPLJRCV6XILE3XG5RXQTNN7TLKOXARVTBHKE562LTZ3BXUIR5NCBF2A="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TN4TI3BJMZT323IAZH35AC6SNNGIQXSMWKWYUNQGVY5PMDQWF4YX67DWGI2DT575NHEYOP7GEWREMELHNGLMFG2OZ4AN2KXULLOFCXI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/VBG5XX4OY3FKN66QDS5PCJT64WMO65JR5PG6L2PNX4JWCZCPHO4TOFXMR6PAB52L3HKG75PWXFXRWW27EWMERXQ6LYIFM5VUITFEUAY="
       },
       "map": {
         "id": "r3309227579434892534",
@@ -15,6 +15,24 @@
     "title": "Werkout Wednesday 🐄 NYE Edition/Late start time",
     "upcoming_occurrences": [
       "2025-01-01T18:30:00Z"
+    ]
+  },
+  {
+    "description": "Come join us for Thirsty Firsts! 2025 and Squak is back 😎 All routes will bop between both Cougar and Squak, leaving from the Margaret's Way TH.\n\n Routes:\n\n9.5mi | 2700'\nhttps://www.strava.com/routes/3309336684633177334\n\n8.5mi | 2650'\nhttps://www.strava.com/routes/3309336403057288304\n\n6mi | 1900'\nhttps://www.strava.com/routes/3309335266239062128\n\nRemember headlamps and offline navigation:)",
+    "id": 1875257,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/KFZZVGYM43RUBS72TV4UWCHMJVRIJYKVL62LRL6U74VYEXPZO6633CZHK3CEPNUW3VVMB3Z5V335H7DZQZHCNPKBP4BO7KWIW25REVA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/22465NHQH6TCZGLNIDBJSTEMMRDFVBTJA5UE7NVOALGBFDFIWPL2X4KRK6LO3NUF3VMBVOI4C6NECPH6U2Q5ZB2PDK25BCWDNVDFE3A="
+      },
+      "map": {
+        "id": "r3309336684633177334",
+        "summary_polyline": "ez}`HvddhVoAvFoLqGyDtJwEdB?fDyGfAeCxFvBm@TxAuE~GuDdOiFbGcBlIq@wBsFxC}@qFoCu@w@jDwBh@b@qF}BiB`C}Bo@u@|F{DkBiB`AeEnCQaByAhAoA_@gA^fAiAnA`BxAkCrBrAQn@jIrC?|@}BtA|@bAsEPdFfAcEl@jBfDqOWkL`APCkBf@fA?qAfBrDr@oHv@rBCoXcFyTxMwZcIaQNwZwF{RjEaKRgK|DqHcCoKlAgApEdAq@aHjF~DFwEjMjGd@wAvBjAoA`EVbG{DxBmB`HfO_FsBlHlBk@m@dCrA|@xGkIlDYUaDT`DjE`D_BdHyGbBcFtE`A|@dCiBgAvEvCgCmA|GxEk@aDxJ`LkI|AfAyCxKpAvCoDpM`BdJzA|@eBxAYrDlEvCsAfJfBlHtCuEhDj@uAb@cFnV_G?`@~CqD_D{Ga@w@z@nCZHlCwFrG"
+      }
+    },
+    "title": "Thirsty Thursday",
+    "upcoming_occurrences": [
+      "2025-01-02T14:30:00Z"
     ]
   }
 ]
