@@ -4,8 +4,8 @@
     "id": 1875257,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/3RPHI2RW45BA6VLOWDZNJ2VIZPUMKN7MPDQCWAWU2WI2FXUWKZ5ACYODU2LMQU6X73S272PX2L4EAW66DNN74ZEWB5JXIFYK3TT4FJY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/C6KRGI3M3JIQOXNKCWUEHFMSZQPNDJOE4DP6PYN47SEXDRP3LWG3JFPVSZU2TT6WMW24CMLYRHB6BSCWWM52ESLTCU7M3XAOANG7QDY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MS3EGATYG3B2OF6DNCWYJX6H36QLRXFGFNK3RA2O2UELDFEJQEQNKLC6LNTBREB67TLVYE2OUCZKKEL3SDJ6DL4Y42J6D3AAM3ZUNDA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/7LJGSACZ4FP5FSJHD7PKNCXOBVAJC4JVWWJP37B2DDNB6CBHYU2WVX43NQ6JMR75TUCZ5UEUBBFD43C6GMDN7PRYNQCHARFGS7OFJPQ="
       },
       "map": {
         "id": "r3309336684633177334",
@@ -15,6 +15,24 @@
     "title": "Thirsty Thursday",
     "upcoming_occurrences": [
       "2025-01-02T14:30:00Z"
+    ]
+  },
+  {
+    "description": "New Year, Same Seconds. Come join for a classic romp up and around, ending with some good times over at Fremont Brewing, settling in with good cheer!\n\nRoutes:\n\n3mi | 175' | Pace Groups 9-10min\nhttps://www.strava.com/routes/3309695722746400540\n\n6.3mi | 650' | Pace Groups 8:30, 9-10min/mi\nhttps://www.strava.com/routes/3309696311259586332\n\n8.7mi | 950' | Pace Groups 7:45, 8:30, 9-10min/mi\nhttps://www.strava.com/routes/3309696095432652288\n\nFremont Brewing until 9pm\nPac Inn until late\n\nDon't forget your headlamp!",
+    "id": 1876038,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/VI5W23EBGQYVEQJ7W53YU5FDK5P54ABAFUP75P6JV3FCFKUWLCVG3TINUEDJACT47HBA5KEVZHP2CXDN4Q2VXWEOIQR3SUHK34BX5GY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DQRTIZDIBCLHQIWCDIOE7MEK6XSWBGW7KJNVGN7SA2AFPVSOWYBFLDSGA4SZMQKVSHIMB5RTH3CXXFK6SPGPBBMHJBSGAWBTF2SFIXI="
+      },
+      "map": {
+        "id": "r3309696095432652288",
+        "summary_polyline": "enyaH|guiVAgg@g_@u`@wG_d@x@}OpEhBzKaLhJ}\\fEPbD}JjCyBVk\\`Rt@nDhIhBs@|L`GvRcAzDvGrIeAcBwDfCwEjEdDpJVJn^xBzRfP}Gx@vAkAvBvAhIEbh@hD|@tBtKiFrHvAhJtOPqHdAKpNwAlDhD|GUvJuBr@EjP_LtGiSSr@RWjj@KwAZvAdKNK`Fg@k@}AnDwEaEee@e@?~EsOpA_u@]dGqbAaEc@"
+      }
+    },
+    "title": "Thirsty Seconds | NTSP",
+    "upcoming_occurrences": [
+      "2025-01-03T02:30:00Z"
     ]
   }
 ]
