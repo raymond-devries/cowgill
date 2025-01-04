@@ -1,11 +1,29 @@
 [
   {
+    "description": "“drop in for a no drop run!”\n\nnot set route, no set pace, just a common place to meet up and find company for your monday miles! start the week off right and join us at 6:00pm every first, second, and third monday of the month at the trailhead store! \n\nwhat to expect:\n- 6:00pm gather \u0026 mingle\n- 6:05 icebreaker \u0026 introductions \n- 6:10pm depart for run\n- 7:00pm return to Brooks\n\nthere will be a leader there to guide anyone interested in a 4-6 mile route, but you’re also welcome to buddy up and do your own thing! monday nights are for getting what you need :)\n\nthis event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone ❤️\n\n*4th/5th monday will typically be field trip runs at outside locations announced on the cowgill strava page ",
+    "id": 1878238,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "womxn run the herd",
+    "upcoming_occurrences": [
+      "2025-01-07T02:00:00Z"
+    ]
+  },
+  {
     "description": "Join us for a Black Canyon Training Run with HOKA and Cowgill Trail Collective at Seven Hills Running Shop!\n\n3.3 miles, 360ft https://www.strava.com/routes/3310125815591192578\n\n6.5 miles, 678ft https://www.strava.com/routes/3310127501668613428\n \n\nEvent Timeline\n6:00pm-6:30pm: Arrive early for HOKA demo shoes and find nearby parking\n6:30pm-6:45pm: Go over announcements, take a group photo, and explain route/safety overview\n6:45pm: Demo run starts\n7:15pm: 5K Group returns to shop\n7:45pm: 10K Group returns to shop\n7:45pm-8:15pm: Hang out at the shop with food and refreshments, check out vendor booths\n8:15pm: Raffle starts\n8:30pm: Event finishes\n\nRaffle includes one Black Canyon Ultras entry!\n\n",
     "id": 1877182,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FJ65SVRJU6BYTNG3RZKCFY4XXEVNLTWZHTF3V5JP742HHHAL23472Z7HNX6QUK7VN7HSQSY3K2TGPZ3HZ4PIQ3MSWZSMD7UNTK3UB2A=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TU2TKQWYL5ONFCQJAXS36C4FPWRSZRDPRCLIS7XNK4BFPERVAEYDLCLMP2WNG7GYOSKLPRU2G4DIMZUMIF4HO3UNKOOZBKDX33HCK4A="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/NTHJCXECN35GA6ET6FF77JSJQPYX64LCLVPI7ZI73B527WFMDBHICFKWDUP5WXM6423542JQZR4RAUOX6UHPRUICJU4RQBI4ETHFO7I=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/WZLB6JCPZCGVWHPKPCIHCUZUR5PJ7ELMGR5TIHBXL7TVBLQH4PJ33H6DA5AQOOLESA5RQ2MJ4CNPINL7JG4T75HRRB6IPOLID7NVWZA="
       },
       "map": {
         "id": "r3310127501668613428",
