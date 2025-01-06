@@ -22,8 +22,8 @@
     "id": 1877182,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/BAKU2PIADXTMUQNKWYATEGPTUCPIOWMWFM6KYJ4SXDXSANVOZOOQAINJMZVSVEGQTKVCBBWXGWKZFY6XKEGX63FJPELO6LVIOWQDPIA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/WBULFMU5SPHUM3DU2BZJF7JITT4QOMSMYNK3ZAYZYXAHBIPALVCATEBSJR3BH5HVYZ4P2IIFKSH27JT77LSVQNBJ43YT7UYE6AZP4OQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/67Z32ZCPO5TX725PRXBRC5DV3E4BCZIC5NJ7XAW7ATFZDMYWOCJAOVCBAANIXAZ4PEKRHEEIZDYJLA5FOWHMQ5OSKBNDZKBREVZRG3Q=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/NA6GX6GOUDJ37GX4U3CO736HLRQ3RCVVJVNXXAOATB7TK5HJCJM6EBZQSEKRSRFF5IVA5NSFGCPVHCEK7UBOGBZD5ODY46YPLR7B6ZY="
       },
       "map": {
         "id": "r3310127501668613428",
@@ -36,12 +36,30 @@
     ]
   },
   {
+    "description": "Firsts is at High Point TH! Carpool thread in Slack.\n\n5.9mi, 1200’  https://www.strava.com/routes/3311417296634955050\n7.7mi, 2200’   https://www.strava.com/routes/3311415884130990378\n9.0mi, 2800’ https://www.strava.com/routes/3311416480080548138\n\nBring headlamps and navigation! DM us if you need help with either 🔦 🗺️",
+    "id": 1880669,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CMSLFYQ33AS7N73WAQIIPLVLHPTN6XMAQMASKHZQMUPGMHVDUGEGOOUXNL2D2B2RODRKBQYNZ6ICWNDSYTAL37XAZWHMKAAXUA2HGGA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/Z45RPRFDMINSJIBZ3I432EDW3EABKPHM4BPDFT3ZYLEYZ6S3O237L6NELWYGXXY6DD2ZFAHQVQNBFLPWBUKS54HVJRFILSUWWDH3YCA="
+      },
+      "map": {
+        "id": "r3311415884130990378",
+        "summary_polyline": "wbbaHxfrgVE_DaCcBJeVqBcPjB{\\e@uSmLo[zOe@lEsBe@eA~Q`EvH{DvFGcAsDvBuLFqMnEeJ}LkUY_StAThOgVhUmJnGdJgBtSbHdLn@dJfFrG|I`D|BfDF~IrBnEi@pIsCrIuD_By@mEaAjJiDgFsCwLiJrEeDkAmEdHoDZzBnOsBxHmCRiArEbFfOjCrBZeAtAnCSpCgPgBoMj@_DnE|ArNiDwAFrBsC_AeArBmBiBTgAgC|@c@wAj@|Go@tG{EpAm@nD~@`WrB|FC|E_B?~BpH]fGkJuCwAqF"
+      }
+    },
+    "title": "Thirsty Thursday",
+    "upcoming_occurrences": [
+      "2025-01-09T14:30:00Z"
+    ]
+  },
+  {
     "description": "NTSP =) Bring a headlamp!\n\n4.7 miles, 381ft 10+ min/mile\nhttps://www.strava.com/routes/3311403183740431606\n6.9 miles, 672ft 8:30 and 10 min/mile\nhttps://www.strava.com/routes/3311402438059442474\n8.3 miles, 910ft 7:45, 8:30, and 10 min/mile\nhttps://www.strava.com/routes/3311400804157094186 \n\nPost run social at Fremont Brewing until 9 then Pac Inn until late\n\n",
     "id": 1880493,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5YE3G4AAGHJX4RUHGFKZOODZSOQK572R45RCERJLDB55S7DKGB2K3FV6V6IKI2BEAA6UKHG2RPYF33N4BS7COYIJ74SUHPWOFHRHX4I=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/HHEXU6OI73IDWQASZ44OCSNKZUJXKC5BHTXFULTOQNMMXJ47K5WY6NWALVQHIMCPV2AFBT4NNYWD2AONS7BHBL7DHKNXQ6CMW5JR4OY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MAZDAU5SEJEWSTNV77WA67UWDRVINJSLQABF3X5CRY2WALVTKNEGXZ6UU4M4OVQT6RJUHX3NVI35ZTRG25M6KWQ2SCXV3VDBVS4C4LA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RYAGXPR477ZFUELENXYPTMCMUAIC4IOVV5UADFKP6GECZJKFTL6W7LF6OSGUYI4LM5V4RRJM4EBYEE36FJ3CD2JXZNH577PB4L2K3CI="
       },
       "map": {
         "id": "r3311400804157094186",
@@ -58,8 +76,8 @@
     "id": 1880604,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RH5ZM66FLCI5CMG437DJMMSKQFHM3BZHMBUBBCVSBXIOAJAAS6BK7YE2AL6E2MKYBAGVRBNBZCDNGRH3LYXSYH7GDSCNMLBHT5K55QY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6KIXG7W5NPDV4S7GCGLE3RTSEYAYQNLUIA2ZJBDARFP2ZOF7GM3NVWSM7FI3IBNYMTL4QKKP24FGPXRW7NZTTE72UJ6WGG7UAGOL45Y="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/4MURCEQDMFKT7NTS63FFHNM6BR27EDSSOWUUWQHVJJDZAWD3GJFP3UAJO2TH5KCGDL2YBCSHU2KNSF4APJDJU7LSNUF3Y6OGGY6TWGQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/S3FOIHMNOVNMTPOBSTDXJSIP7UJ57YTVOTZGN4TF5ELNAH73WK6D52RJX66ZR6KFHE3ILEY3VQQT2ZTSEU65KJYFK23K3XXLE3Q6IWI="
       },
       "map": {
         "id": "r3311419417078900982",
