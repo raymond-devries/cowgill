@@ -22,8 +22,8 @@
     "id": 1877182,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/NTHJCXECN35GA6ET6FF77JSJQPYX64LCLVPI7ZI73B527WFMDBHICFKWDUP5WXM6423542JQZR4RAUOX6UHPRUICJU4RQBI4ETHFO7I=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/WZLB6JCPZCGVWHPKPCIHCUZUR5PJ7ELMGR5TIHBXL7TVBLQH4PJ33H6DA5AQOOLESA5RQ2MJ4CNPINL7JG4T75HRRB6IPOLID7NVWZA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZLZLHF2MU6LG2TZ6ZMWRESCEE34ZDJT4LJJ2CY2I35XSFQDDI6JTDWMYXO7MZYFSLUXRNM3Q776U4V2J5SACRSOGFIGXZYLDGVZVSKA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/OYY53WZGOXBZ72YDYUTK5HXN55B44BA5WQVJOSIPRUTH6JQ75AW6ICDZPBOL7W7X63RMFOUSRBG7O3RBENYSP5OINF562ZWNGSUMW5Q="
       },
       "map": {
         "id": "r3310127501668613428",
@@ -33,6 +33,24 @@
     "title": "Black Canyon Training Run PNW",
     "upcoming_occurrences": [
       "2025-01-09T02:30:00Z"
+    ]
+  },
+  {
+    "description": "NTSP =) Bring a headlamp!\n\n4.7 miles, 381ft 10+ min/mile\nhttps://www.strava.com/routes/3311403183740431606\n6.9 miles, 672ft 8:30 and 10 min/mile\nhttps://www.strava.com/routes/3311402438059442474\n8.3 miles, 910ft 7:45, 8:30, and 10 min/mile\nhttps://www.strava.com/routes/3311400804157094186 \n\nPost run social at Fremont Brewing until 9 then Pac Inn until late\n\n",
+    "id": 1880493,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/2FYQ5Y232GFEN55E37YXZDIH2DIYIETTJ4VY3N7FSOOZL3LO2INEQOJIGQLISTUBJCHU7UQA3H5DQ7MVYJJ2WLYVXCALKUSBY5GKXZY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PO2PARARTLRVRSOMVNWHGRI5AY6IJX62MPIEG7XVRXQ4RQYL2DSDEOIOEFDLUYHVZIMGZRSSK6F6WU3RT4RCSFEQKWT33VPKCTHVI3Q="
+      },
+      "map": {
+        "id": "r3311400804157094186",
+        "summary_polyline": "qnyaHbhuiVfFZcGpaAnQO_D~BkYnz@cIli@cNb[yB`Kv@|LrIbNr@vH_@vJ_HvLcCzKh@fUtHTc@bL}Ft@S`I`ErDzCFNxAbD@AgGtHU_@aCbCBv@yBf|@h@~D_CwEgD?wNcOY}@oA{BmGEiNkJ_HiJc@Do~@y@{MaFgQg@sLxBiC|TBJgOz@e@kAqBv@iKw@gOwEQ@ua@iNoAlGsaAgF["
+      }
+    },
+    "title": "Thirsty Seconds | NTSP",
+    "upcoming_occurrences": [
+      "2025-01-10T02:30:00Z"
     ]
   }
 ]
