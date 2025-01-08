@@ -1,29 +1,11 @@
 [
   {
-    "description": "Werkout with friends!! Come join us for a werkout this Wednesday, January 8th at 6:30am at Greenlake. We are doing the classic 2/2/2 minutes workout around Greenlake. The goal of this workout is to work on changing pace at a harder effort. This is a time/effort based workout meant for all ability levels.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\nA group will leave for a warmup at 6:30, start drills + strides at 6:50, and werkout starts at 7am\n\n2 min, 8 RPE, threshold effort, ~5k pace\n2 min, 7 RPE, steady effort, ~10k-HM effort\n2 min, 6 RPE, steady effort, ~marathon pace\nRepeat x4-6\n20 min cooldown\n\nWe should be finished around 8:15\n\nPlease RSVP if you plan on joining.",
-    "id": 1880787,
-    "route": {
-      "map_urls": {
-        "light_url": "",
-        "dark_url": ""
-      },
-      "map": {
-        "id": "",
-        "summary_polyline": ""
-      }
-    },
-    "title": "Werkout Wednesday ",
-    "upcoming_occurrences": [
-      "2025-01-08T14:30:00Z"
-    ]
-  },
-  {
     "description": "Join us for a Black Canyon Training Run with HOKA and Cowgill Trail Collective at Seven Hills Running Shop!\n\n3.3 miles, 360ft https://www.strava.com/routes/3310125815591192578\n8-8:30 min/mile group, and a 10+ min/mile no drop group with a sweeper. \n\n6.5 miles, 678ft https://www.strava.com/routes/3310127501668613428\n8-8:30 min/mile group, and a 10+ min/mile no drop group with a sweeper. \n\nEvent Timeline\n6:00pm-6:30pm: Arrive early for HOKA demo shoes and find nearby parking\n6:30pm-6:45pm: Go over announcements, take a group photo, and explain route/safety overview\n6:45pm: Demo run starts\n7:15pm: 5K Group returns to shop\n7:45pm: 10K Group returns to shop\n7:45pm-8:15pm: Hang out at the shop with food and refreshments, check out vendor booths\n8:15pm: Raffle starts\n8:30pm: Event finishes\n\nRaffle includes one Black Canyon Ultras entry!\n\n",
     "id": 1877182,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/HTJN3QFNRY72R47D623LL5JWBPJGZORHZIFZHTTZCWQUQC5FTKBDVPJ7CXTIRZC2FEQ4BJ2FMETYRJXPD26MX2AEEQAADUEX5ALDR5Q=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/U7Z6TZQGZAE7TJKQPSATM4DSZZHCJV3M6BQKP4ALRTYA4LREDR43VNAOXWI3AZDAOFXAFGVMENQ5VLPINZSXFGTDUH5SMUMLBABOJBI="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XZTPTPYMQA35K6YFEVBUIFOCMGWX7PCV7U5PO4D4QGOKMK4OKW5UFFMNHTTATSR2IG4Y2BJBIM5FOO5MU2Q4OMLQ5T7YRU5SLGNZWTA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5M4KGXZSDGDL73DHUTF2HRZX7X7L7KQL27HU4RR2KARQHVDKM3SWA54IFTUF2VAVMAKZLBU64CV6BKHU2R56KWY5FKDXND54BOVWY7I="
       },
       "map": {
         "id": "r3310127501668613428",
@@ -40,8 +22,8 @@
     "id": 1880669,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/7DWGV7GS35MKA2CSYT5I5QBADJ6KIMY2PJJKI4DMNSUERXGS6EM4JY7HSRWPR6HKYKBRQTLR2LMAT2PRBDTQPPTGJ6U5VQTKDLFVT4Y=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/7RVA4UMPUPJSJFTB3BYMB3GVN5CKSCCVT3CZL5KZNH6PJG3ZQUMM5UFWZRB47KPD6QJK2R2ZVKSJFLPCC4EET32VX4AG3OXYF6ELK3Y="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/7A7QXXY5DDA2JOC3ZZRXAYTK46DYRMLNBIIOLETPXS6F6ZT5X3KE2PUI4CDUWSK67I32P4ICY6BF25LAWVN44KTWT34IRSH5S3YFJ4Y=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/7TGF375G5E7JPXBU7V5LKDUIIMXFWANFPZXEDIG5YQEJBSH7OBDRIL6WWMEHFPRGR5WDXSHHUDYZ6EAUCVAYOFGBEYVJ6NDIHZBKMGQ="
       },
       "map": {
         "id": "r3311415884130990378",
@@ -58,8 +40,8 @@
     "id": 1880493,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PFRHF7AQCZNSCTFDG4IOP5MIG2QPQJ6O62KARFB2PDPSBGQW5MYRSKTZ4MZO5ZQOJUA33FO4AIICRBSAY55B3SI5Z3PILVULATGPRTI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZC2MKR4G4F2IJ3AQQZ3QG5NOED3LSULIOCSJAJJ5W6ZH3UGMGZUFRLVG764ADEQHD43M3UC3GVQLUXO7PWWITHAYO4ZP3ICRQLE3JNA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/3NH4IVK26T7XBK4VIAXZM7HGPSMK7INWCIDLLAGD55GD7GXKUY6TJ5JJA7LOXP6J44D33DAGGXUFEQLGXJ7Y3KM7XHMPH4UP4W4MYRY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FBMHC7R5ZMO4KJSX4RAAN2AJMSJ3ACB227ULIW6EU55T62LU7ZB6FAKYFZFKDEXHPT6MJSMPJKPL7IUSVF6VVEM6ZWEHLZJ7ZOZX6BQ="
       },
       "map": {
         "id": "r3311400804157094186",
@@ -76,8 +58,8 @@
     "id": 1880604,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MQI4QSJKS4PON7SNXX5Y25BPLOYQTKA2OFV67ZRK5Y546N2NSNEHK56DLEYS7NJI6HDRQDJ4H23MNIQ3IYG2IMMGGWZNJIENKO4T6KY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZHTFY34AJOJCGJU2LO6UQIONIYJGULA4OKVLGAGWDKJUVGKOWGLCNDXDB3RCJYJZLQWO6P7EUCR7BNGTJ7TV2MRRTOF7FU3ZR4LY3UI="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FUGIQMHE2MZ72DX2246HVNBZAGAXYOXGACX4U34XZJNLEVQCUUYJXM57MUJJY4ILH5RHGIUPN7AQQNX2KDYJ5K2545Y5GD67PCLO6LY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/JU7BYBSIUDY2M4QJ7DDFECQD6CE3CLOOQ3M6B5MK2IINOGL457COH3YKK2IHQHKNNZV2JQ723UJWM5LD2TECYVZ6OECC3SYT43BYS2Y="
       },
       "map": {
         "id": "r3311419417078900982",
