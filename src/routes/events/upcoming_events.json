@@ -1,29 +1,11 @@
 [
   {
-    "description": "Firsts is at High Point TH! Carpool thread in Slack.\n\n5.9mi, 1200’  https://www.strava.com/routes/3311417296634955050\n7.7mi, 2200’   https://www.strava.com/routes/3311415884130990378\n9.0mi, 2800’ https://www.strava.com/routes/3311416480080548138\n\nBring headlamps and navigation! DM us if you need help with either 🔦 🗺️",
-    "id": 1880669,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/YNMXUPP5ZQH5AGRAX3JPRTWIDZZL334J4ZKF7UZ5C2BB6CU2MJH35UZARBPB3LVV3RL2QHFB627USJSPPOLNFU7GBOLVW6EJ5YHW3XA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PZ4QHBXUPMGXYOGLDDYSNFNT6KZUVFIGNHN3KUCPH65D2YGWYHCRBKM5VDTCJ5TVLKKG3HBLEPNMUEKT42CWGBXSQDA2E4KZUHJA7SQ="
-      },
-      "map": {
-        "id": "r3311415884130990378",
-        "summary_polyline": "wbbaHxfrgVE_DaCcBJeVqBcPjB{\\e@uSmLo[zOe@lEsBe@eA~Q`EvH{DvFGcAsDvBuLFqMnEeJ}LkUY_StAThOgVhUmJnGdJgBtSbHdLn@dJfFrG|I`D|BfDF~IrBnEi@pIsCrIuD_By@mEaAjJiDgFsCwLiJrEeDkAmEdHoDZzBnOsBxHmCRiArEbFfOjCrBZeAtAnCSpCgPgBoMj@_DnE|ArNiDwAFrBsC_AeArBmBiBTgAgC|@c@wAj@|Go@tG{EpAm@nD~@`WrB|FC|E_B?~BpH]fGkJuCwAqF"
-      }
-    },
-    "title": "Thirsty Thursday",
-    "upcoming_occurrences": [
-      "2025-01-09T14:30:00Z"
-    ]
-  },
-  {
     "description": "NTSP =) Bring a headlamp!\n\n4.7 miles, 381ft 10+ min/mile\nhttps://www.strava.com/routes/3311403183740431606\n6.9 miles, 672ft 8:30 and 10 min/mile\nhttps://www.strava.com/routes/3311402438059442474\n8.3 miles, 910ft 7:45, 8:30, and 10 min/mile\nhttps://www.strava.com/routes/3311400804157094186 \n\nPost run social at Fremont Brewing until 9 then Pac Inn until late\n\n",
     "id": 1880493,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EFXVRCI77Q7QETNITNLDAQAFPYAWRDFUUMK3Z6YR34I5EPETSIW2CUKXA7TQJYEW6TYC6B2ONTZSTWQFGGY7FTB5JIPMV3BAAQ5OMPA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/HYEPBSHYCWC7Z5U3LJS4EL3JS7VEBOFAYTRJBDRJELKTAOT5JKEQC2D6X2HM4XCTLUDN7DKZ7SKIL5Z6EV744AG4SATCXQRIE53YALA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/L5IBLQPC5DCLQ4PEC56YDAXWCIT7QWFZE6HWP2GF6SUJR4D2NN4GQEZ2UXGM42TRLVMH2IMJ3CNSNIB3N5UHI3YG7RZIKWUXILMXSXQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/2W7GKGNBKF75GVL653QE4ILL2XAQKLYGEVCBJLIIVZGTRWW7YQVHRUVQGCJFFZSP24KQVFM3EOK4ABIS2POVVKM2FOHJ3JU4TFSTF7Q="
       },
       "map": {
         "id": "r3311400804157094186",
@@ -40,8 +22,8 @@
     "id": 1880604,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DUHFPBYYMJFIATQDSSM36KFIWEF4NZPE4EZAVZAFBRW2RZEZBUNKJRQLTNACPHBXQI44JURTX5NJXXD2KSFP62FU7UKTHJFSXLEJXRA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/TESFQBPZFAFZU4JZBMKZRRYPSR6ECQ4ARZIIJVPEJSA4G6TV5MGPWDEBAGTFLHDZRZBZXOEQ2CPEKPWWW7HJZWMYYOIRUXCO65M7JAY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SUTLIQWDETDM2QET3T74OVYZYRGI2I4C65EXNWIGJIFLCL53I4R2FPSNQSTM7WFHRNGBHNWA2JFLVTTRYLTCH667OZGDMETDDBQ2H5Y=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SHVPGK5XRJZ5TFXY4K2IZDWBEL6NSDNHOUAAIZDAV3WNJVKHREUTULE33WWYWNYPPBVJ54UQET3OLQ6J5DWPX7VASXBFIRHPLGNWNAQ="
       },
       "map": {
         "id": "r3311419417078900982",
