@@ -24,7 +24,6 @@
 		// Construct the final formatted string with AM/PM included
 		return `${weekday} ${time} ${period.toUpperCase()} ${month} ${day}`;
 	};
-	console.log(upcomingEvents);
 </script>
 
 <h1 class="text-6xl">{eventsData.title}</h1>
