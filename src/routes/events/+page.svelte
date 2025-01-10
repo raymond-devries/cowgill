@@ -1,5 +1,5 @@
 <script>
-	import eventsData from './events.json';
+	import eventsData from '$lib/content/seattle/events.json';
 	import MarkDown from '$lib/MarkDown.svelte';
 	import upcomingEvents from './upcoming_events.json';
 	import IconStrava from '~icons/bi/strava';

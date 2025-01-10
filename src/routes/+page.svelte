@@ -1,5 +1,5 @@
 <script>
-	import homeData from './home.json';
+	import homeData from '$lib/content/seattle/home.json';
 	import MarkDown from '$lib/MarkDown.svelte';
 </script>
 

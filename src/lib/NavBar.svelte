@@ -4,7 +4,7 @@
 	import IconInstagram from '~icons/mdi/instagram';
 	import IconStrava from '~icons/bi/strava';
 
-	import meta from '$lib/meta.json';
+	import meta from '$lib/content/seattle/meta.json';
 	import { page } from '$app/stores';
 	import Photo from '$lib/Photo.svelte';
 	import CowgillLogo from '$lib/CowgillLogo.svelte';

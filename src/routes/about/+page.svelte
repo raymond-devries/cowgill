@@ -1,5 +1,5 @@
 <script>
-	import aboutData from './about.json';
+	import aboutData from '$lib/content/seattle/about.json';
 	import MarkDown from '$lib/MarkDown.svelte';
 	import Photo from '$lib/Photo.svelte';
 </script>

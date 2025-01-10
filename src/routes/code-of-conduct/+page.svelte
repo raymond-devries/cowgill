@@ -1,5 +1,5 @@
 <script>
-	import codeOfConduct from './code-of-conduct.json';
+	import codeOfConduct from '$lib/content/common/code-of-conduct.json';
 	import MarkDown from '$lib/MarkDown.svelte';
 </script>
 

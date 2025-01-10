@@ -7,12 +7,28 @@ media_folder: src/media
 public_folder: /media
 
 collections:
-  - name: pages
-    label: Pages
+  - name: common
+    label: Common
     editor:
       preview: false
     files:
-      - file: 'src/lib/meta.json'
+      - file: 'src/content/common/code-of-conduct.json'
+        label: Code of Conduct
+        name: code-of-conduct
+        fields:
+          - {
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
+          - { label: Body, name: body, widget: markdown }
+  - name: seattle
+    label: Seattle
+    editor:
+      preview: false
+    files:
+      - file: 'src/content/seattle/meta.json'
         label: Meta
         name: meta
         fields:
@@ -23,7 +39,7 @@ collections:
               help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500)
             }
           - { label: Header Photo Alt Text, name: headerPhotoAltText, widget: string }
-      - file: 'src/routes/home.json'
+      - file: 'src/content/seattle/home.json'
         label: Home Page
         name: index
         fields:
@@ -36,7 +52,7 @@ collections:
           - { label: Header Image, name: headerImage, widget: image }
           - { label: Header Image Alt Text, name: headerImageAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
-      - file: 'src/routes/about/about.json'
+      - file: 'src/content/seattle/about.json'
         label: About
         name: about
         fields:
@@ -55,7 +71,7 @@ collections:
               - { label: Link, name: link, widget: string }
               - { label: Photo, name: photo, widget: image }
           - { label: Sponsorships, name: sponsorships, widget: markdown }
-      - file: 'src/routes/events/events.json'
+      - file: 'src/content/seattle/events.json'
         label: Events
         name: events
         fields:
@@ -67,7 +83,7 @@ collections:
             }
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }
-      - file: 'src/routes/contact/contact.json'
+      - file: 'src/content/seattle/contact.json'
         label: Contact
         name: contact
         fields:
@@ -87,14 +103,83 @@ collections:
           - { label: Body, name: body, widget: markdown }
           - { label: Form Title, name: formTitle, widget: string }
           - { label: Success Message, name: successMessage, widget: markdown }
-      - file: 'src/routes/code-of-conduct/code-of-conduct.json'
-        label: Code of Conduct
-        name: code-of-conduct
+  - name: boise
+    label: Boise
+    editor:
+      preview: false
+    files:
+      - file: 'src/content/boise/meta.json'
+        label: Meta
+        name: meta
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Header Photo,
+            name: headerPhoto,
+            widget: image,
+            help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500)
+          }
+          - { label: Header Photo Alt Text, name: headerPhotoAltText, widget: string }
+      - file: 'src/content/boise/home.json'
+        label: Home Page
+        name: index
+        fields:
+          - {
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
+          - { label: Header Image, name: headerImage, widget: image }
+          - { label: Header Image Alt Text, name: headerImageAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
+      - file: 'src/content/boise/about.json'
+        label: About
+        name: about
+        fields:
+          - {
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
+          - { label: Body, name: body, widget: markdown }
+          - label: Articles
+            name: articles
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Link, name: link, widget: string }
+              - { label: Photo, name: photo, widget: image }
+          - { label: Sponsorships, name: sponsorships, widget: markdown }
+      - file: 'src/content/boise/events.json'
+        label: Events
+        name: events
+        fields:
+          - {
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - file: 'src/content/boise/contact.json'
+        label: Contact
+        name: contact
+        fields:
+          - {
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
+          - {
+            label: Custom Header Photo,
+            name: customHeaderPhoto,
+            widget: image,
+            help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500
+          }
+          - { label: Custom Header Photo Alt Text, name: customHeaderPhotoAltText, widget: string }
+          - { label: Body, name: body, widget: markdown }
+          - { label: Form Title, name: formTitle, widget: string }
+          - { label: Success Message, name: successMessage, widget: markdown }

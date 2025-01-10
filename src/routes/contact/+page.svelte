@@ -1,5 +1,5 @@
 <script>
-	import contactData from './contact.json';
+	import contactData from '$lib/content/seattle/contact.json';
 	import MarkDown from '$lib/MarkDown.svelte';
 	import CustomHeaderImage from '$lib/CustomHeaderImage.svelte';
 
