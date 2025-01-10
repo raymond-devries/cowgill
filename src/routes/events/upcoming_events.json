@@ -1,29 +1,11 @@
 [
   {
-    "description": "NTSP =) Bring a headlamp!\n\n4.7 miles, 381ft 10+ min/mile\nhttps://www.strava.com/routes/3311403183740431606\n6.9 miles, 672ft 8:30 and 10 min/mile\nhttps://www.strava.com/routes/3311402438059442474\n8.3 miles, 910ft 7:45, 8:30, and 10 min/mile\nhttps://www.strava.com/routes/3311400804157094186 \n\nPost run social at Fremont Brewing until 9 then Pac Inn until late\n\n",
-    "id": 1880493,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/L5IBLQPC5DCLQ4PEC56YDAXWCIT7QWFZE6HWP2GF6SUJR4D2NN4GQEZ2UXGM42TRLVMH2IMJ3CNSNIB3N5UHI3YG7RZIKWUXILMXSXQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/2W7GKGNBKF75GVL653QE4ILL2XAQKLYGEVCBJLIIVZGTRWW7YQVHRUVQGCJFFZSP24KQVFM3EOK4ABIS2POVVKM2FOHJ3JU4TFSTF7Q="
-      },
-      "map": {
-        "id": "r3311400804157094186",
-        "summary_polyline": "qnyaHbhuiVfFZcGpaAnQO_D~BkYnz@cIli@cNb[yB`Kv@|LrIbNr@vH_@vJ_HvLcCzKh@fUtHTc@bL}Ft@S`I`ErDzCFNxAbD@AgGtHU_@aCbCBv@yBf|@h@~D_CwEgD?wNcOY}@oA{BmGEiNkJ_HiJc@Do~@y@{MaFgQg@sLxBiC|TBJgOz@e@kAqBv@iKw@gOwEQ@ua@iNoAlGsaAgF["
-      }
-    },
-    "title": "Thirsty Seconds | NTSP",
-    "upcoming_occurrences": [
-      "2025-01-10T02:30:00Z"
-    ]
-  },
-  {
     "description": "Northern Mooves! Carpooling and more logistics in the #smoothmooves slack channel\n\nSaturday 1pm (parking lot across from the Deep Cove Kayak Centre)\n6.2 miles, 1732ft\n https://www.strava.com/routes/3311430466808928502\n10.5 miles, 3110ft\n https://www.strava.com/routes/3311429995230376234\n\n\nSaturday night housing and social graze: Stay in a hostel (HI Vancouver Jericho Beach) for ~$30 or sleep in your car nearby. We will go out to the local bars/restaurants Saturday night by foot. Run or walk between places!\n\nSunday 9am (parking lot near the restroom at White Pine Beach)\n7.7 miles, 2364ft \nhttps://www.strava.com/routes/3311422323615216938 \n11.4 miles, 3245ft\n https://www.strava.com/routes/3311418500243385642 \n18.7 miles, 5657ft\n https://www.strava.com/routes/3311419417078900982\n\n",
     "id": 1880604,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SUTLIQWDETDM2QET3T74OVYZYRGI2I4C65EXNWIGJIFLCL53I4R2FPSNQSTM7WFHRNGBHNWA2JFLVTTRYLTCH667OZGDMETDDBQ2H5Y=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SHVPGK5XRJZ5TFXY4K2IZDWBEL6NSDNHOUAAIZDAV3WNJVKHREUTULE33WWYWNYPPBVJ54UQET3OLQ6J5DWPX7VASXBFIRHPLGNWNAQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LQXIMNSVRL4XFHNVZRSMNEAG2YE64W7LUQ7W764Z7CL246MIBZITEVOMEY2G4FDSZCS77VTCUQKIS7XS2NXTP3HUNCUT7CO6MKDX6RY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/BHKHEE4UFTYTK2F2ODDTIE5J63CJP4QSZJKKHI4DCUIWJPX5654ZQTO2GDKGMX3SFMLGCWHKZFWWPIWIX75QCP2YIFIX5QTJR2Z7M6I="
       },
       "map": {
         "id": "r3311419417078900982",
