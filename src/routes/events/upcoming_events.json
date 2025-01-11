@@ -4,8 +4,8 @@
     "id": 1880604,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LQXIMNSVRL4XFHNVZRSMNEAG2YE64W7LUQ7W764Z7CL246MIBZITEVOMEY2G4FDSZCS77VTCUQKIS7XS2NXTP3HUNCUT7CO6MKDX6RY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/BHKHEE4UFTYTK2F2ODDTIE5J63CJP4QSZJKKHI4DCUIWJPX5654ZQTO2GDKGMX3SFMLGCWHKZFWWPIWIX75QCP2YIFIX5QTJR2Z7M6I="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DNIROJXDPT4TTCXFG3SAGE4UN25WCVTALQP5NOBCRLNFNAKSWKPZNUUYZQFVA3EDU3CZ6GEWZLBZ2P4A2QZR75F3LN2DSI2J4ZS2ZSQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/IUONJE4WYR2IUGMN2CNWVNMVK62XEOIAKRRK4NI6Y6Y7G45V6APO6VATRW2CQ2QWHRWAY4IC5HZAR3ILF6DCBIRGE2WL4XWYO4DMF7Y="
       },
       "map": {
         "id": "r3311419417078900982",
@@ -15,6 +15,24 @@
     "title": "Northern Mooves",
     "upcoming_occurrences": [
       "2025-01-12T17:00:00Z"
+    ]
+  },
+  {
+    "description": "“drop in for a no drop run!”\n\nnot set route, no set pace, just a common place to meet up and find company for your monday miles! start the week off right and join us at 6:00pm every first, second, and third monday of the month at the trailhead store! \n\nwhat to expect:\n- 6:00pm gather \u0026 mingle\n- 6:05 icebreaker \u0026 introductions \n- 6:10pm depart for run\n- 7:00pm return to Brooks\n\nthere will be a leader there to guide anyone interested in a 4-6 mile route, but you’re also welcome to buddy up and do your own thing! monday nights are for getting what you need :)\n\nthis event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone ❤️\n\n*4th/5th monday will typically be field trip runs at outside locations announced on the cowgill strava page ",
+    "id": 1885378,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "womxn run the herd",
+    "upcoming_occurrences": [
+      "2025-01-14T02:00:00Z"
     ]
   }
 ]
