@@ -4,8 +4,8 @@
     "id": 1886232,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5LP2ZZC2QBHH6NJISG2YRADGKIDVTDLVU57XTZUNSQGKWZ7655ORTGYRCGXERAVSFH72RSFOIPAKP5SNFNACYMHAYBFPDD4NJR6GWNA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6QMV6KT6SWQTVOUKKD4B255I3HAOF2OIHCSZJJKWJCU5JBSTS5J6WP74IAOHWFIVLOIJ4NSA7HYUKOWG3G3OICA6APCB6I7YX5DRAIA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XGIPW76JB3T7FO2OC6CWTTI2RHQTG2VEEME5UIMXOHAZTJ5NQ2JA7NK3RXFTVY2NWRZKFFQZ46MSJAISWSBV5AIJFI3Q4W6VWLQ7VQA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/QGYQ5MQOH3I2NWIBWVRGBFRK6J3S3X3CEMBJ64246FYGIB2PJOF7N74FDFAAQGQLMOI3WREZ5KYBUS2BMPROW7SMUJLCVFM5V7U4IWA="
       },
       "map": {
         "id": "r3313725229540597938",
@@ -15,6 +15,24 @@
     "title": "Tuesday Trail Turn Up - Arboretum",
     "upcoming_occurrences": [
       "2025-01-15T02:30:00Z"
+    ]
+  },
+  {
+    "description": "New Year, new you! It's January 14th and we are all about that werk. This weeks werkout is a good steady state effort designed to build endurance by developing ability to be efficient and strong at moderate hard paces. The werkout will be around the Lower Woodland Hilly loop and is comprised of 10 minute intervals at a steady effort. We will take the uphills hard to tire ourselves out and then cruise on the rest. This is a time and distance based werkout meant for all ability levels.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\n A group will leave for a warm up at 6:30am, start drills + strides at 7:50, and werkout starts at 7am.\n\nWerkout:\n2 mi warm up\nform drills + strides\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs (optional)\n2 mi cooldown\n\nPlease RSVP if you plan on joining. ",
+    "id": 1887722,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "Werkout Wednesday 🐄 3-4x10 min",
+    "upcoming_occurrences": [
+      "2025-01-15T14:30:00Z"
     ]
   }
 ]
