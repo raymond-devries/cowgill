@@ -4,8 +4,8 @@
     "id": 1886232,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XGIPW76JB3T7FO2OC6CWTTI2RHQTG2VEEME5UIMXOHAZTJ5NQ2JA7NK3RXFTVY2NWRZKFFQZ46MSJAISWSBV5AIJFI3Q4W6VWLQ7VQA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/QGYQ5MQOH3I2NWIBWVRGBFRK6J3S3X3CEMBJ64246FYGIB2PJOF7N74FDFAAQGQLMOI3WREZ5KYBUS2BMPROW7SMUJLCVFM5V7U4IWA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SWMYRGO4A7IFW4T2HHPXDJLMPDFEOY4MHUBC55APQ5NARSDV5REENJ2XR3HZ4TG4W3XEWTWWRG4CXXU7CXBHANW7KQZ4YFHDJGU6N7A=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/WFBUAMJM3NR2HQURGMU6XLYUICLGJHWJCNRFRX2UZFCRNCEW2HK25AW3R5ZB7GIFS3CZNDR6HJQPOGTHUW6KM7XA6K4JFTDN6HR674I="
       },
       "map": {
         "id": "r3313725229540597938",
@@ -33,6 +33,24 @@
     "title": "Werkout Wednesday 🐄 3-4x10 min",
     "upcoming_occurrences": [
       "2025-01-15T14:30:00Z"
+    ]
+  },
+  {
+    "description": "Dirty couch and Boxcar Ale House. Bring a headlamp!\n\n4.2 miles, 541ft 10+ min/mile\nhttps://www.strava.com/routes/3312954760989524116\n7.1 miles, 948ft 8:30 and 10 min/mile\nhttps://www.strava.com/routes/3312953733519276334\n9.1 miles, 1151ft 7:45, 8:30, and 10 min/mile\nhttps://www.strava.com/routes/3312954144130929966\n\nPost run social at Dirty couch until 9 then Boxcar Ale House until late. Karaoke at Boxecar!\n",
+    "id": 1888164,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/B3XZRSQN4YV5SRMSPR2MT3Q5EU2G63BLIZTJI4KI3SBJS5ZYSKBG53WAYSJRUSZC5ZCEBBKSC3PZIYQ2AIEPUI6LPGVNYBBVN74LTMQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6SX62BELA5NF6LU3VIWOB3PVCJOCFDVIP6BWIXKVBBSSEIRE5AR3EH7HE225XK2727UTRWD2XHLGYFRKLXDDIJ55S2JPU2TJHVOYUQI="
+      },
+      "map": {
+        "id": "r3312954144130929966",
+        "summary_polyline": "sz{aHxo_jV|BjIyBpHItWeFBuCrF_GVkF`PoAzi@hHP]nF{FbAcEbX{E@n@dMgEvCrExHlD?zD|GF~@mBcBlC|Ek@bBaHqDHbE`MbNbLhYbBvHzBp_@xJ}`@gB{HzAbDbBgHSyFtAsDtDsBLmGtAmAeCkEyCLmEgFuC_MgKHnCuGgAcGHgFpAgC_AiHpEeRt@{KrLgDTbCbIFjJqDzFbGh@fVhFj@`F}BfGpNr]BQqFfCgDMq_@xCwLeAwAeArAoDw@EkD`E@AiHY_FqICOqa@{Ia@c@cG_`@POyAyCGcEsDa@{I_THuFnJiCiJ"
+      }
+    },
+    "title": "Thirsty Seconds | Dirty Couch",
+    "upcoming_occurrences": [
+      "2025-01-17T02:30:00Z"
     ]
   }
 ]
