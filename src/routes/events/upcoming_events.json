@@ -18,30 +18,12 @@
     ]
   },
   {
-    "description": "Firsts is at East Squak! Carpool thread in Slack.\n\n6.5mi 2300’ https://www.strava.com/routes/3314426258893436900\n\n7.5mi 2400’ https://www.strava.com/routes/3314425892257049572\n\n9.4mi 2900’ https://www.strava.com/routes/3314425368813673914\n\nBring headlamps and navigation! DM us if you need help with either 🔦 🗺️",
-    "id": 1888311,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FJTCFKRZHYNRFLIJUSIUNCM76OML2HRA722GQQKXZZKOH6L634RJB3JKBIIA772VJDUU2QX7V5CVVXOELSLHVBHA7CSK7P3VSF2MKWA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EJWO2UPYCEX5OTKYKZRJYEAJ7XSLLZAO47DC6VAWWRZMMTMFX75YP77WPEPOCXEEFHFNETBY5JOXEZWCKP5AJVJBLJ7GGQXYX3YVTZA="
-      },
-      "map": {
-        "id": "r3314425892257049572",
-        "summary_polyline": "}z_aHhkzgVdEQnFnC`J}@rBeEmAwCdDyAvAzFpGeAhCgJlI{DQoQlAk@lBfAeAvAzIxE}CNnBxA@lEdAyAnAfA{@j@zErDc@`BnAYu@fDjAEOnDdFYzCrBb@hDdD_@G|J~AnCuEhFa@fKz@fEsDbHl@`EuBE{@dE_FwA{D~CzBpGFjFeEpHVfDiDjGyHnAiFzFo@|Bz@vEaM_KpPqOHqHtDuEyE}Ew@eGpC{GU_CmGsEmBaIrJmBy@{I|L_AjBeCcCP|A}ErD_CtDZ`@_Hl@PqAcEb@mCiAdAr@gFoAXb@aB{EsDz@k@oAgAeAxAAmEoByA|CO{IyE~@iB_Cu@kA`If@xHmIzDiCfJqGdAwA{FeDxAlAvCsBdEaJ|@oFoCeEP"
-      }
-    },
-    "title": "Thirsty Thursday - Firsts",
-    "upcoming_occurrences": [
-      "2025-01-16T14:30:00Z"
-    ]
-  },
-  {
     "description": "Dirty couch and Boxcar Ale House. Bring a headlamp!\n\n4.2 miles, 541ft 10+ min/mile\nhttps://www.strava.com/routes/3312954760989524116\n7.1 miles, 948ft 8:30 and 10 min/mile\nhttps://www.strava.com/routes/3312953733519276334\n9.1 miles, 1151ft 7:45, 8:30, and 10 min/mile\nhttps://www.strava.com/routes/3312954144130929966\n\nPost run social at Dirty couch until 9 then Boxcar Ale House until late. Karaoke at Boxecar!\n",
     "id": 1888164,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/T5FCOXN5I2MHGLVRJGFHBBT5EVDUD63HBTZBJK6PVW22OKREFYGO466BTEXAYQWSYFJ47ORFJ2736ADRNRDCTVXRQNECCOV2IXLD57Q=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CV2HC3UNJDS6LQVRWGMUCBYCEN3UH3RYJTQQHAW5CSMXYUM7PMMGOHSNVUSZ6VCELKFNB5C3PM272WHQQ3XZ75TLAMFRRVWFV6SGW2Q="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LIKBKPR6UTBUIE7H4BBQAX33YXIKJGSFC4JBN3TUOVXMEVWSTQSZ65YUDKI3RCOKQ3OGLZBVRBAMHRBPKUM6M3OR2RCKF5NYRFAQCOQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CRCI5G5HXAM6MAD56XN5WCSK3GY36MRLRR3QJKN4PFDHUP2JJ6EVLN72JJHFJF7BBY46JAAGFGXLOCNZHSG6656TRZ52O7B4O3QULLQ="
       },
       "map": {
         "id": "r3312954144130929966",
