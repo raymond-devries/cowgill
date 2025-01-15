@@ -1,23 +1,5 @@
 [
   {
-    "description": "Join us this week for Tuesday Trail Turn Up at the Arboretum! \n\nPlease RSVP on Strava, download maps and bring a headlamp! While this is not explicitly a no-drop event, we expect natural grouping.\n\nRoutes:\n7.2 mi - https://www.strava.com/routes/3313725229540597938\n4.7 mi - https://www.strava.com/routes/3313725848643121924\n\nThis event is open to women, non-binary, and trans people who are comfortable in a space that centers the experiences of women.\n\nMeet up location -\u003e 47.641286, -122.294993\n2300 Arboretum Dr E, Seattle, WA 98112",
-    "id": 1886232,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SWMYRGO4A7IFW4T2HHPXDJLMPDFEOY4MHUBC55APQ5NARSDV5REENJ2XR3HZ4TG4W3XEWTWWRG4CXXU7CXBHANW7KQZ4YFHDJGU6N7A=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/WFBUAMJM3NR2HQURGMU6XLYUICLGJHWJCNRFRX2UZFCRNCEW2HK25AW3R5ZB7GIFS3CZNDR6HJQPOGTHUW6KM7XA6K4JFTDN6HR674I="
-      },
-      "map": {
-        "id": "r3313725229540597938",
-        "summary_polyline": "s|waHdxliVzA{DsKiUwHcB_BbEqAmCeIYjDr@GhFsAvCvBpDeBfOjAdC\\|Q{EvINjq@fFb@\\y\\|B@rDtIhC}@|KvH|@iBpQIdDzHvJaAmEmEfEaFzDlDpGx@{@aCcH}BaF_K|FkNFwAuBAl@kDrEgFtAiHpJyBIuBxGk@tH}KqCa@|@t@iBfA}AaDuL_FcDl@yA~CcL~@yLuEeLzBu@lC`LbGvH{DvJvEfNoO~CdJxJt@kHtBwGmIgB`IcKvC}S}@mGqDmHo@"
-      }
-    },
-    "title": "Tuesday Trail Turn Up - Arboretum",
-    "upcoming_occurrences": [
-      "2025-01-15T02:30:00Z"
-    ]
-  },
-  {
     "description": "New Year, new you! It's January 14th and we are all about that werk. This weeks werkout is a good steady state effort designed to build endurance by developing ability to be efficient and strong at moderate hard paces. The werkout will be around the Lower Woodland Hilly loop and is comprised of 10 minute intervals at a steady effort. We will take the uphills hard to tire ourselves out and then cruise on the rest. This is a time and distance based werkout meant for all ability levels.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\n A group will leave for a warm up at 6:30am, start drills + strides at 7:50, and werkout starts at 7am.\n\nWerkout:\n2 mi warm up\nform drills + strides\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs (optional)\n2 mi cooldown\n\nPlease RSVP if you plan on joining. ",
     "id": 1887722,
     "route": {
@@ -36,12 +18,30 @@
     ]
   },
   {
+    "description": "Firsts is at East Squak! Carpool thread in Slack.\n\n6.5mi 2300’ https://www.strava.com/routes/3314426258893436900\n\n7.5mi 2400’ https://www.strava.com/routes/3314425892257049572\n\n9.4mi 2900’ https://www.strava.com/routes/3314425368813673914\n\nBring headlamps and navigation! DM us if you need help with either 🔦 🗺️",
+    "id": 1888311,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FJTCFKRZHYNRFLIJUSIUNCM76OML2HRA722GQQKXZZKOH6L634RJB3JKBIIA772VJDUU2QX7V5CVVXOELSLHVBHA7CSK7P3VSF2MKWA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EJWO2UPYCEX5OTKYKZRJYEAJ7XSLLZAO47DC6VAWWRZMMTMFX75YP77WPEPOCXEEFHFNETBY5JOXEZWCKP5AJVJBLJ7GGQXYX3YVTZA="
+      },
+      "map": {
+        "id": "r3314425892257049572",
+        "summary_polyline": "}z_aHhkzgVdEQnFnC`J}@rBeEmAwCdDyAvAzFpGeAhCgJlI{DQoQlAk@lBfAeAvAzIxE}CNnBxA@lEdAyAnAfA{@j@zErDc@`BnAYu@fDjAEOnDdFYzCrBb@hDdD_@G|J~AnCuEhFa@fKz@fEsDbHl@`EuBE{@dE_FwA{D~CzBpGFjFeEpHVfDiDjGyHnAiFzFo@|Bz@vEaM_KpPqOHqHtDuEyE}Ew@eGpC{GU_CmGsEmBaIrJmBy@{I|L_AjBeCcCP|A}ErD_CtDZ`@_Hl@PqAcEb@mCiAdAr@gFoAXb@aB{EsDz@k@oAgAeAxAAmEoByA|CO{IyE~@iB_Cu@kA`If@xHmIzDiCfJqGdAwA{FeDxAlAvCsBdEaJ|@oFoCeEP"
+      }
+    },
+    "title": "Thirsty Thursday - Firsts",
+    "upcoming_occurrences": [
+      "2025-01-16T14:30:00Z"
+    ]
+  },
+  {
     "description": "Dirty couch and Boxcar Ale House. Bring a headlamp!\n\n4.2 miles, 541ft 10+ min/mile\nhttps://www.strava.com/routes/3312954760989524116\n7.1 miles, 948ft 8:30 and 10 min/mile\nhttps://www.strava.com/routes/3312953733519276334\n9.1 miles, 1151ft 7:45, 8:30, and 10 min/mile\nhttps://www.strava.com/routes/3312954144130929966\n\nPost run social at Dirty couch until 9 then Boxcar Ale House until late. Karaoke at Boxecar!\n",
     "id": 1888164,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/B3XZRSQN4YV5SRMSPR2MT3Q5EU2G63BLIZTJI4KI3SBJS5ZYSKBG53WAYSJRUSZC5ZCEBBKSC3PZIYQ2AIEPUI6LPGVNYBBVN74LTMQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6SX62BELA5NF6LU3VIWOB3PVCJOCFDVIP6BWIXKVBBSSEIRE5AR3EH7HE225XK2727UTRWD2XHLGYFRKLXDDIJ55S2JPU2TJHVOYUQI="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/T5FCOXN5I2MHGLVRJGFHBBT5EVDUD63HBTZBJK6PVW22OKREFYGO466BTEXAYQWSYFJ47ORFJ2736ADRNRDCTVXRQNECCOV2IXLD57Q=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CV2HC3UNJDS6LQVRWGMUCBYCEN3UH3RYJTQQHAW5CSMXYUM7PMMGOHSNVUSZ6VCELKFNB5C3PM272WHQQ3XZ75TLAMFRRVWFV6SGW2Q="
       },
       "map": {
         "id": "r3312954144130929966",
