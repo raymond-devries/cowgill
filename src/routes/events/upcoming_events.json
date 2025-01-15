@@ -1,29 +1,11 @@
 [
   {
-    "description": "New Year, new you! It's January 14th and we are all about that werk. This weeks werkout is a good steady state effort designed to build endurance by developing ability to be efficient and strong at moderate hard paces. The werkout will be around the Lower Woodland Hilly loop and is comprised of 10 minute intervals at a steady effort. We will take the uphills hard to tire ourselves out and then cruise on the rest. This is a time and distance based werkout meant for all ability levels.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\n A group will leave for a warm up at 6:30am, start drills + strides at 7:50, and werkout starts at 7am.\n\nWerkout:\n2 mi warm up\nform drills + strides\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs\n1 min, recovery\n10 min, 7 RPE on ups, 6 RPE on flats/downs (optional)\n2 mi cooldown\n\nPlease RSVP if you plan on joining. ",
-    "id": 1887722,
-    "route": {
-      "map_urls": {
-        "light_url": "",
-        "dark_url": ""
-      },
-      "map": {
-        "id": "",
-        "summary_polyline": ""
-      }
-    },
-    "title": "Werkout Wednesday 🐄 3-4x10 min",
-    "upcoming_occurrences": [
-      "2025-01-15T14:30:00Z"
-    ]
-  },
-  {
     "description": "Firsts is now at Cougar! Carpool thread in Slack.\n\n5.4 1000’ https://www.strava.com/routes/3314464232077562298\n\n7.4 1400’ https://www.strava.com/routes/3314463680536714076\n\n10.4 2000’ https://www.strava.com/routes/3314461392866850652\n\nBring headlamps and navigation! DM us if you need help with either 🔦 🗺️",
     "id": 1888407,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/3CXYUZAKJXTT4VM4IMG3XFKTXUZASLDY4O347WMWVP27C2GPRBDOW6EGIGCWLF7SYNRXWVA27ODJ5ZMFXPWVZHHWKZEESZMIT6LXODY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/473NQIFNFFECVSTYLDGINQ4OFB7NOPPSNLOWHVJWXBOHS33HTT2TY2WKRIOVZ64LMV5YW37WF5TEKD47BIHJYQSG3CUO7GV4YTEAJ4Q="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MEAB5YXDCXXNH67JNF7FEUB5R3E62XEPAO5R6C2ETAR2WEC3CQ7YNDE4ZOVVLEWQU2LCDL2V4IQ2NRIAZK4SCOPNX7ASM4DHUI5TOZY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/2STKGONUVOYVC2AN4WYRRDCFDYC7PFGG73HFWEGEOD6EBOGN6H3PAYYHJIGKPK6APH3BUXUOTDB22TTH2X6WT2UQ7WP7DBA3C6HD66Q="
       },
       "map": {
         "id": "r3314463680536714076",
@@ -40,8 +22,8 @@
     "id": 1888164,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CNRNS6ISKJOAA42CGJFFTZKCFNFDICQDIIRRPT63VOZOQ7F3GKR6LZSHRMPC2ZI6WRYEPOJQRAEBDYLAUR6FIYM57ZY7UPBAJFVKJGQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/KOSAQ7J6BASL657ONFCEV3IM6ADPOGDAOHRQLKEMUAXSYOWB6YW724UMG6YEC6YICYFNDWZV5TPXYNUKI5GOVDKFSVEBPYCZO2Z7DGQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZJOBHKORZ7NC6VSTZKBBEVOCEDLVQ5GJKEWGNPJCHAWI7W4B4FGE7NIAGDHOOJMEOLGQ327OM2YCMHIKT67EKMML34ZM6VSVWXNCJZQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/Q42RR3E6ESUIQHEQQFMQ645KY7O73KQYXFAMWKCLTARZYKEJZKXAFFJCDZXETUQJSND54QNMBYGCOPE6U35NNFC5N5FKVTP7HKU65IQ="
       },
       "map": {
         "id": "r3312954144130929966",
