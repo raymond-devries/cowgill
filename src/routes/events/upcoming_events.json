@@ -4,8 +4,8 @@
     "id": 1888407,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MEAB5YXDCXXNH67JNF7FEUB5R3E62XEPAO5R6C2ETAR2WEC3CQ7YNDE4ZOVVLEWQU2LCDL2V4IQ2NRIAZK4SCOPNX7ASM4DHUI5TOZY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/2STKGONUVOYVC2AN4WYRRDCFDYC7PFGG73HFWEGEOD6EBOGN6H3PAYYHJIGKPK6APH3BUXUOTDB22TTH2X6WT2UQ7WP7DBA3C6HD66Q="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/KGPHMAEWZEBEPDIMW2X4BGDD4TMSFNMUZREZLHVYIN4NS52CQSZXYBBMBQLTCNGYUXJBB4Z22PSOOBGRXKUVNTU66PUR7GFX5CPNMHI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CROQ7NQELG5UW4ZXUNJCUOEQSU7GY2PSEEGF54V4KDMND3LCVCB3EUFSKIGJ2LFBOBMI624CM7GD7CAPATYFE52DEV4QOFAZQDJWLMA="
       },
       "map": {
         "id": "r3314463680536714076",
@@ -22,8 +22,8 @@
     "id": 1888164,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZJOBHKORZ7NC6VSTZKBBEVOCEDLVQ5GJKEWGNPJCHAWI7W4B4FGE7NIAGDHOOJMEOLGQ327OM2YCMHIKT67EKMML34ZM6VSVWXNCJZQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/Q42RR3E6ESUIQHEQQFMQ645KY7O73KQYXFAMWKCLTARZYKEJZKXAFFJCDZXETUQJSND54QNMBYGCOPE6U35NNFC5N5FKVTP7HKU65IQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/L6DKMUOQAF7VK5Q4LLCQJ7BXOWCRXVZU5AIF5L3A7R2GRQBR6O5MG4EIMALRFLJOEJH7LVXUIRTX4K2FJOKEFRLZXAE62F437NTZ4VI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/N5RHNTPTEQ44XS3NEVZYHGXVPRIVDSLBJMSRQFSHPLT5J57GWFPDRE44NQI567HJNO2WIIH5JLKPY6QMCTQJYQG25ZO7Y4KV7JZTZ4A="
       },
       "map": {
         "id": "r3312954144130929966",
@@ -33,6 +33,24 @@
     "title": "Thirsty Seconds | Dirty Couch",
     "upcoming_occurrences": [
       "2025-01-17T02:30:00Z"
+    ]
+  },
+  {
+    "description": "Join Cowgill and HOKA on January 25th at 9 AM for an intro to trail running! \n\nWe will meet at Cable Line Trailhead at Tiger Mountain in Issaquah. \nNo parking passes are required at this trailhead.\n\nThere will be two routes. Each with two pace groups. All groups will be no-drop. \nTrail running paces vary according to terrain. One pace group will be running at a 10 min/mile road effort and the other group will be running at a 13+ min/mile road effort. Please pick the group that works best for you. We will also have several re-groupings at trail intersections and sweepers for each pace group to ensure no one gets left behind. \n\nRoutes: \n3.8 miles, 263ft - https://www.strava.com/routes/3314689850364105564\n5.9 miles, 927ft - https://www.strava.com/routes/3314690194323817914\n\nThis event is sponsored by HOKA who will provide demo trail shoes and raffle prizes. The raffle will include HOKA swag and two free pairs of HOKAs. \n\nDon’t have trail runners? Not to worry! We will have HOKA trail running shoes available for you to try out. While we will have limited quantities, priority will be given to those who are new to trail running. Please try and arrive 10 minutes early to ensure you get a pair. \n\nThere will be a post-run social at Blazing Bagels in Issaquah. Come chat with trail runners of all experience levels and connect with runners who share similar goals to you!\n",
+    "id": 1889216,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/VFLEP77WJ5P4GFYZADONDKSGLVVJKGQIB2K23GEXX7IAD2PR75VFJJHQDYAMD4ATMFBCQQZV7XJ3377VDBSP6V2AWG3FBHK4DL2PM3Q=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/OCU7L54H5DL766MDZK5PODTJEAI2AN2Z24IALODNX7TKYWNLFWC7RQ6HUWNBRU7C4YJ3V2BJNZGKDJU627ZHLI22BCGTWVGQ6ZWHVLY="
+      },
+      "map": {
+        "id": "r3314398735268026810",
+        "summary_polyline": "wibaHxwpgVxB|Wa@|L`CbB|ApKmEn@wGhLg@`YmFxp@|Jr\\dAvLvIlCwBaKhBaBh@gPnDwD~BE|@oC`EZ~BuG`CyA`YbKjAaC{@qLrCmIa@wC`DoCF_Mr@{@^zB|C_HPqDcC_BfCeGoJyk@kG{BoFeJqKrI}IwEqCb@SfAnEhHeDpUqCtByJaD}AqKaCcB`@}L{BcX"
+      }
+    },
+    "title": "Cowgill X HOKA: Intro to Trail Running",
+    "upcoming_occurrences": [
+      "2025-01-25T17:00:00Z"
     ]
   }
 ]
