@@ -1,11 +1,29 @@
 [
   {
+    "description": "\"drop in for a no drop run!”\n\nnot set route, no set pace, just a common place to meet up and find company for your monday miles! start the week off right and join us at 6:00pm every first, second, and third monday of the month at the trailhead store! \n\nwhat to expect:\n- 6:00pm gather \u0026 mingle\n- 6:05 icebreaker \u0026 introductions \n- 6:10pm depart for run\n- 7:00pm return to Brooks\n\nthere will be a leader there to guide anyone interested in a 4-6 mile route, but you’re also welcome to buddy up and do your own thing! monday nights are for getting what you need :)\n\nthis event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone ❤️\n\n*4th/5th monday will typically be field trip runs at outside locations announced on the cowgill strava page ",
+    "id": 1890817,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "womxn run the herd",
+    "upcoming_occurrences": [
+      "2025-01-20T17:00:00Z"
+    ]
+  },
+  {
     "description": "Join Cowgill and HOKA on January 25th at 9 AM for an intro to trail running! \n\nWe will meet at Cable Line Trailhead at Tiger Mountain in Issaquah. \nNo parking passes are required at this trailhead.\n\nThere will be two routes. Each with two pace groups. All groups will be no-drop. \nTrail running paces vary according to terrain. One pace group will be running at a 10 min/mile road effort and the other group will be running at a 13+ min/mile road effort. Please pick the group that works best for you. We will also have several re-groupings at trail intersections and sweepers for each pace group to ensure no one gets left behind. \n\nRoutes: \n3.8 miles, 263ft - https://www.strava.com/routes/3314689850364105564\n5.9 miles, 927ft - https://www.strava.com/routes/3314690194323817914\n\nThis event is sponsored by HOKA who will provide demo trail shoes and raffle prizes. The raffle will include HOKA swag and two free pairs of HOKAs. \n\nDon’t have trail runners? Not to worry! We will have HOKA trail running shoes available for you to try out. While we will have limited quantities, priority will be given to those who are new to trail running. Please try and arrive 10 minutes early to ensure you get a pair. \n\nThere will be a post-run social at Blazing Bagels in Issaquah. Come chat with trail runners of all experience levels and connect with runners who share similar goals to you!\n",
     "id": 1889216,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XNMTB5NGNW7JNLOVI5FQWZMNIAHYOVOJRDYD2WFLXAEKUVWJBACWRDFMGZFG7FZHW6AYQ5CSGZEUO72FMBDFC75RCJEDSL4PKDGXQLI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/M367RS74QGSM4H5KMCGMLF67BMESOYWSXXTB2JUOTQAT2Q2FSK26CES7SEEUZYOXYY32Y5GP6L5AQVLZD6XEC5XNTYAYVWMVTTBJFUQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DSZD3AOHHFB37WI6YUC3WTRKHRJUMFRYDJMIYVOSUOBCCGUKOUIODKKNP43AZARC25YPVRGTQC3Z6TJUCJE4E7ARJYACX2Z2SGR3BBI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LLWGK77FAW55DIVQSMF5B4PRJBJLSMRLPMULPQ7UD65I3BQ5FW7IQEBKZXHOLV57IVQ5YUCCHZB4ZUVFTLYVALWO27UP3Q4O3T562ZQ="
       },
       "map": {
         "id": "r3312219009553939500",
