@@ -1,9 +1,10 @@
 <script>
-	import contactData from '$lib/content/seattle/contact.json';
 	import MarkDown from '$lib/MarkDown.svelte';
 	import CustomHeaderImage from '$lib/CustomHeaderImage.svelte';
-
+	import { getPageContent, pages } from '$lib/pageContent.js';
 	let modal;
+
+	const contactData = getPageContent(pages.CONTACT)
 
 	const handleSubmit = (event) => {
 		event.preventDefault();
