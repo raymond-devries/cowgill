@@ -4,12 +4,14 @@
 	import IconInstagram from '~icons/mdi/instagram';
 	import IconStrava from '~icons/bi/strava';
 
-	import meta from '$lib/content/seattle/meta.json';
 	import { page } from '$app/stores';
 	import Photo from '$lib/Photo.svelte';
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
 	import { customHeaderImgSrc, customHeaderImgAltText } from '$lib/headerImage.js';
 	import { STRAVA_LINK, INSTAGRAM_LINK } from '$lib/constants.js';
+	import { pageData } from '$lib/pageContent.js';
+
+	const meta = pageData[import.meta.env.VITE_CONTENT_KEY].META;
 
 	let mobileMenu = true;
 

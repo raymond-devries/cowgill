@@ -1,6 +1,8 @@
 <script>
-	import homeData from '$lib/content/seattle/home.json';
 	import MarkDown from '$lib/MarkDown.svelte';
+	import { pageData } from '$lib/pageContent.js';
+
+	const homeData = pageData[import.meta.env.VITE_CONTENT_KEY].HOME;
 </script>
 
 <svelte:head>

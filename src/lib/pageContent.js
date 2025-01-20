@@ -4,18 +4,16 @@ import SeattleEventsData from '$lib/content/seattle/events.json';
 import SeattleHomeData from '$lib/content/seattle/home.json';
 import SeattleMetaData from '$lib/content/seattle/meta.json';
 
-export const pages = {
-	ABOUT: 'about',
-	CONTACT: 'contact',
-	EVENTS: 'events',
-	HOME: 'home',
-	META: 'meta'
+const seattlePageData = {
+	ABOUT: SeattleAboutData,
+	CONTACT: SeattleContactData,
+	EVENTS: SeattleEventsData,
+	HOME: SeattleHomeData,
+	META: SeattleMetaData
 };
 
-export const pageData = {}
-
-export const getPageContent = (page) => {
-	return contactData
-}
-
-
+export const pageData = {
+	SEATTLE: seattlePageData,
+	PORTLAND: seattlePageData,
+	BOISE: seattlePageData
+};

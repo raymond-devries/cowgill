@@ -1,10 +1,10 @@
 <script>
 	import MarkDown from '$lib/MarkDown.svelte';
 	import CustomHeaderImage from '$lib/CustomHeaderImage.svelte';
-	import { getPageContent, pages } from '$lib/pageContent.js';
+	import { pageData } from '$lib/pageContent.js';
 	let modal;
 
-	const contactData = getPageContent(pages.CONTACT)
+	const contactData = pageData[import.meta.env.VITE_CONTENT_KEY].CONTACT;
 
 	const handleSubmit = (event) => {
 		event.preventDefault();
