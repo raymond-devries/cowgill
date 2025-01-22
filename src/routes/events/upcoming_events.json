@@ -1,20 +1,38 @@
 [
   {
-    "description": "\"drop in for a no drop run!”\n\nnot set route, no set pace, just a common place to meet up and find company for your monday miles! start the week off right and join us at 6:00pm every first, second, and third monday of the month at the trailhead store! \n\nwhat to expect:\n- 6:00pm gather \u0026 mingle\n- 6:05 icebreaker \u0026 introductions \n- 6:10pm depart for run\n- 7:00pm return to Brooks\n\nthere will be a leader there to guide anyone interested in a 4-6 mile route, but you’re also welcome to buddy up and do your own thing! monday nights are for getting what you need :)\n\nthis event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that nobody runs alone ❤️\n\n*4th/5th monday will typically be field trip runs at outside locations announced on the cowgill strava page ",
-    "id": 1890817,
+    "description": "Bring your headlamp and navigation!\n\n5.4 miles, 1190ft https://www.strava.com/routes/3316931517241785786 \n7.5 miles, 1900ft https://www.strava.com/routes/3316931125216998372 \n10.5 miles, 3013ft https://www.strava.com/routes/3316932606610078138 \n\nBlazing bagels post run\n",
+    "id": 1894722,
     "route": {
       "map_urls": {
-        "light_url": "",
-        "dark_url": ""
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PMWNJJ2R3VKNPZJZC3FUPYXU6WM3FK254GJDSMNISQPVRLGDW2Q5S6W5OXBU6U5VCWNDNK6IXWGZHS3FVNK626C4YF3WCBDHT6UO3KI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/C22KGIMGE3RITBJH6SIRBRU5WHMHSFDWPJQ5Y3P4K7KIYX4PB5PRUV25GFGAVOPO3PQMINCALPNKEGCBO36UA3L6AMC7VUNHEQLECEQ="
       },
       "map": {
-        "id": "",
-        "summary_polyline": ""
+        "id": "r3316932606610078138",
+        "summary_polyline": "{dbaH|cxgVd@eKeByEhCwAtErDeAuBzAsLyBsHxTeJdGiIlJl@fIuDKeHvAkBq@_B|@yBtHgBtBrBfGoAjQ}IlHkIjFwOfKeJdBlCvBwAnDrIrDlCnCsBcB{BAqFrG{DR_FdA_A`EZhBdCvLQxGbLv@vXgBr@fBs@iAuLZeH{DeLwFgCgH~@yFaDlC{Dt@~@vAqFfKwEbHwH`IyObAeEiBaGl@qRoJwGyAcLwAb@eG{KgHdCaCoDkH|CS_DoDvJcPtSuPpM?iBiBb@gKlSqB`SoDtLwB?u@tB}EgHQvJ_DgMc@`BeGwE{AtGsJs@[zBiCu@cHpF_PgFjGb_@yExAd@lLeC`D}DsB_@`BaFj@HnJxD~E|AhKzAfBoDvDi@fPiB`BpFtT{ArLdAtBuEsDiCvAdBxEe@dK"
       }
     },
-    "title": "womxn run the herd",
+    "title": "Thirsty Thursday ",
     "upcoming_occurrences": [
-      "2025-01-21T02:00:00Z"
+      "2025-01-23T14:30:00Z"
+    ]
+  },
+  {
+    "description": "Venture on over to West Seattle and join us for these fantastic routes exploring some of the best that this corner of Seattle has to offer. Water, views, greenways, trails, and climbs - we've created routes that have it all!\n\nPost-Run social at The Good Society Brewery and Public House until 9pm\nLarry's Tavern until late\n\nRoutes\n\n4.6 miles | 571' | Pace Groups 10min +\nhttps://www.strava.com/routes/3316239224126649316\n\n7.6 miles | 1,000' | Pace Groups 8:30, 10min\nhttps://www.strava.com/routes/3316237319435473892\n\n10.2 miles | 1,250' | 7:45, 8:30, 9-10 min\nhttps://www.strava.com/routes/3316176987029882298",
+    "id": 1892607,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/YRZRL2RKLHYEAMKKBA34DC62YH5PC4IN6SRCENVK2GVD7ISQZ2TSBXHJGJDVTPPXOWA6Z525CMPZQ7EG7NSNDFXL3T37LYWPG2KC55I=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EFP4CI7FUMIRLF7CGBV3FMEEODNCSR2P4DGHEOZSYOUJQFU7IZRABSMIBBAD2CREYAYQUXVE6OSGJ5FJ2ADP2P2S4IJQGRKYAU2EDOA="
+      },
+      "map": {
+        "id": "r3316176987029882298",
+        "summary_polyline": "wykaHzw~iVDzh@~`@`DoAb]wAlI}DbEWnb@`U`AD`NfFPpLwIlHjAfOaOnKiCdToUfWwQnIeA`DgFl[kAjLzD|RkL|g@iBhCa@aBy@fB_BzEHiGaR{CuSyF}BiC_F?{UtE_R_KJCwKiGeI?cHrBULaSu\\|BeGs\\EcXoAsAuRvEYxIaStBeJuE_{@a@IlHeC|B_IkBj@fE}CJLdPaCxJ|@bASbQeAh@Srx@av@FeAoCuDIuC`K"
+      }
+    },
+    "title": "Thirsty Seconds | The West Seattle Tour",
+    "upcoming_occurrences": [
+      "2025-01-24T02:30:00Z"
     ]
   },
   {
@@ -22,8 +40,8 @@
     "id": 1889216,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/KF7U5QGGMFGGUKZ52LTJAHFE3NEFH4KVU2J75IWMHJ76DY2PHZ7WP5L6746R7XJ62W75IACFM5O6CRASCQ4XWHYFYISKM2FJK2FIIJI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FBHZ5GMCNTFQOC6QLQPE6VF22BBZ2PZNBQGSPVI6775I2HZ6RUHSTBNKZO6UFNQLK754Q5ZLV2NJEVBSXVEUEV7EV6QTZNTQ47FVNEI="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LL6NZ3EXK5PRQOB3FQR3NJSWORTQIJ7U2WXH3O66WNF6FJFD5XJTBPFCUSJJO7F4CIV3HDUOCXH2SVCIPEMGLFAXGHZA4O6NNUJ7FCA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EGAHTXVEDWFU4F2XFVOOHK3CQBZHMMRXPKYM777NLLIOEWTMRMNAP5D3XIZX6P5ZOL6WQS672HQI3LI6Q4O2HB4755T2DH6E67JCFAA="
       },
       "map": {
         "id": "r3312219009553939500",
@@ -33,6 +51,24 @@
     "title": "Cowgill X HOKA: Intro to Trail Running",
     "upcoming_occurrences": [
       "2025-01-25T17:00:00Z"
+    ]
+  },
+  {
+    "description": "happy birthday to us!!! join us to celebrate two years of wrth with a run, girl dinner potluck, and a gear swap. our route is 5.4 miles with 400' of vert and connects some of the many parklets of ballard. if that's not your thing, feel free to grab a buddy and do something else! or join us post-run! see slack for exact meetup address and google spreadsheet signup for potluck.\n\nhere's what you can expect:\n6:00 meet and mingle\n6:05 intros, icebreaker question\n6:10 run\n7:00ish girl dinner potluck and gear swap (gently used clothing, books, plants, etc!) \n\n~ this event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that no one runs alone :) ~",
+    "id": 1894829,
+    "route": {
+      "map_urls": {
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6IFOXVKJCGQ2SONYUCICXJCNW635RR4AINU7UDBM5DWVBBJE7NRLAAOHXVDDWHCYMMHPG7KWZXIUIMJYJ432PN3EAVMLGHZDUV4GIAQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DGOMEMJSTSRAYFHYEZM6UVMIXVZDRDBVP2SRQOH75PZCPEQYRE53LY2LOWBQ5JOGHABBIKFNMB5TVDWIO3HVOISXMHNEWREATNQS5IY="
+      },
+      "map": {
+        "id": "r3316496743999704506",
+        "summary_polyline": "ou~aH~_{iVMxViJP^~w@eK@@xKwARyRQk@uEKnAuDHBtIuB?Ou`@lJGKo`ArMQB_BlG~ABecAlv@z@jAqFrCfHg@hK~@jDaHAFxmAwZ@?}\\aC??aB"
+      }
+    },
+    "title": "womxn run the herd turns TWO!",
+    "upcoming_occurrences": [
+      "2025-01-28T02:00:00Z"
     ]
   }
 ]
