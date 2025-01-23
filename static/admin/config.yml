@@ -12,7 +12,7 @@ collections:
     editor:
       preview: false
     files:
-      - file: 'src/content/common/code-of-conduct.json'
+      - file: 'src/lib/content/common/code-of-conduct.json'
         label: Code of Conduct
         name: code-of-conduct
         fields:
@@ -28,7 +28,7 @@ collections:
     editor:
       preview: false
     files:
-      - file: 'src/content/seattle/meta.json'
+      - file: 'src/lib/content/seattle/meta.json'
         label: Meta
         name: meta
         fields:
@@ -39,7 +39,7 @@ collections:
               help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500)
             }
           - { label: Header Photo Alt Text, name: headerPhotoAltText, widget: string }
-      - file: 'src/content/seattle/home.json'
+      - file: 'src/lib/content/seattle/home.json'
         label: Home Page
         name: index
         fields:
@@ -52,7 +52,7 @@ collections:
           - { label: Header Image, name: headerImage, widget: image }
           - { label: Header Image Alt Text, name: headerImageAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
-      - file: 'src/content/seattle/about.json'
+      - file: 'src/lib/content/seattle/about.json'
         label: About
         name: about
         fields:
@@ -71,7 +71,7 @@ collections:
               - { label: Link, name: link, widget: string }
               - { label: Photo, name: photo, widget: image }
           - { label: Sponsorships, name: sponsorships, widget: markdown }
-      - file: 'src/content/seattle/events.json'
+      - file: 'src/lib/content/seattle/events.json'
         label: Events
         name: events
         fields:
@@ -83,7 +83,7 @@ collections:
             }
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }
-      - file: 'src/content/seattle/contact.json'
+      - file: 'src/lib/content/seattle/contact.json'
         label: Contact
         name: contact
         fields:
@@ -108,7 +108,7 @@ collections:
     editor:
       preview: false
     files:
-      - file: 'src/content/boise/meta.json'
+      - file: 'src/lib/content/boise/meta.json'
         label: Meta
         name: meta
         fields:
@@ -119,7 +119,7 @@ collections:
               help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500)
             }
           - { label: Header Photo Alt Text, name: headerPhotoAltText, widget: string }
-      - file: 'src/content/boise/home.json'
+      - file: 'src/lib/content/boise/home.json'
         label: Home Page
         name: index
         fields:
@@ -132,7 +132,7 @@ collections:
           - { label: Header Image, name: headerImage, widget: image }
           - { label: Header Image Alt Text, name: headerImageAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
-      - file: 'src/content/boise/about.json'
+      - file: 'src/lib/content/boise/about.json'
         label: About
         name: about
         fields:
@@ -151,7 +151,7 @@ collections:
               - { label: Link, name: link, widget: string }
               - { label: Photo, name: photo, widget: image }
           - { label: Sponsorships, name: sponsorships, widget: markdown }
-      - file: 'src/content/boise/events.json'
+      - file: 'src/lib/content/boise/events.json'
         label: Events
         name: events
         fields:
@@ -163,7 +163,7 @@ collections:
             }
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }
-      - file: 'src/content/boise/contact.json'
+      - file: 'src/lib/content/boise/contact.json'
         label: Contact
         name: contact
         fields:
