@@ -1,4 +1,4 @@
-import { avifImages, CMSimages, primaryColors, webpImages } from '$lib/CMSimages.js';
+import { avifImages, CMSimages, getImageKey, primaryColors, webpImages } from '$lib/CMSimages.js';
 
 const loaded = (image) => {
 	image.parentElement.removeAttribute('style');
@@ -6,7 +6,7 @@ const loaded = (image) => {
 };
 
 export const pictureTag = (imgSrc, altText, imgClass = '', containerClass = '', credit = '', creditLink = '') => {
-	const resizeSrc = `..${imgSrc}`;
+	const resizeSrc = getImageKey(imgSrc);
 	const loadingStyle = `background: rgba(${primaryColors[resizeSrc]}); background-repeat: no-repeat; background-size: cover; filter: blur(5px);`;
 	const { src, width, height } = CMSimages[resizeSrc];
 	const imgTag = `<img class="${imgClass}" src="${src}" alt="${altText}" style='aspect-ratio: ${width} / ${height}'/>`;

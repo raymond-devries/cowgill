@@ -121,6 +121,7 @@ collections:
           - { label: Success Message, name: successMessage, widget: markdown }
   - name: boise
     label: Boise
+    media_folder: media
     editor:
       preview: false
     files:
