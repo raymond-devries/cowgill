@@ -1,4 +1,10 @@
 {
-  "headerPhoto": "/media/screenshot-2025-01-10-at-7.00.16 am.png",
-  "headerPhotoAltText": "Runners at the start of a run in the Olympic National Forest"
+  "headerPhoto": "/media/img_6593.jpg",
+  "headerPhotoAltText": "Runners at the start of a run in the Olympic National Forest",
+  "instagramHandle": "cowgilltrailcollective",
+  "stravaLink": "https://www.strava.com/clubs/470714",
+  "cityState": "Seattle, WA",
+  "email": "cowgill.trail@gmail.com",
+  "calendarLink": "https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&ctz=America/Los_Angeles",
+  "logo": "/media/cowgill_white_logo.png"
 }

@@ -45,9 +45,7 @@
 						<IconEmail></IconEmail>
 						{metaData.email}</a
 					>
-					<a
-						class="flex items-center gap-1"
-						href={metaData.calendarLink}
+					<a class="flex items-center gap-1" href={metaData.calendarLink}
 						><IconGoogleCalendar></IconGoogleCalendar>Calendar</a
 					>
 				</div>
