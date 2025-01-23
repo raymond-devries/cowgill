@@ -17,11 +17,11 @@ collections:
         name: code-of-conduct
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - { label: Body, name: body, widget: markdown }
   - name: seattle
     label: Seattle
@@ -33,22 +33,32 @@ collections:
         name: meta
         fields:
           - {
-              label: Header Photo,
-              name: headerPhoto,
-              widget: image,
-              help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500)
-            }
+            label: Header Photo,
+            name: headerPhoto,
+            widget: image,
+            hint: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500)
+          }
           - { label: Header Photo Alt Text, name: headerPhotoAltText, widget: string }
+          - { label: Instagram handle (No @), name: instagramHandle, widget: string, hint: Do not include @ }
+          - { label: Strava link, name: stravaLink, widget: string, hint: i.e. https://www.strava.com/clubs/470714 }
+          - { label: City, State, name: cityState, widget: string, hint: 'i.e. Seattle, WA' }
+          - { label: Email, name: email, widget: string, hint: i.e. cowgill.trail@gmail.com }
+          - {
+            label: Calendar Link,
+            name: calendarLink,
+            widget: string,
+            hint: i.e. https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&ctz=America/Los_Angeles
+          }
       - file: 'src/lib/content/seattle/home.json'
         label: Home Page
         name: index
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - { label: Header Image, name: headerImage, widget: image }
           - { label: Header Image Alt Text, name: headerImageAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
@@ -57,11 +67,11 @@ collections:
         name: about
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - { label: Body, name: body, widget: markdown }
           - label: Articles
             name: articles
@@ -76,11 +86,11 @@ collections:
         name: events
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }
       - file: 'src/lib/content/seattle/contact.json'
@@ -88,17 +98,17 @@ collections:
         name: contact
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - {
-              label: Custom Header Photo,
-              name: customHeaderPhoto,
-              widget: image,
-              help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500
-            }
+            label: Custom Header Photo,
+            name: customHeaderPhoto,
+            widget: image,
+            hint: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500
+          }
           - { label: Custom Header Photo Alt Text, name: customHeaderPhotoAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
           - { label: Form Title, name: formTitle, widget: string }
@@ -113,22 +123,32 @@ collections:
         name: meta
         fields:
           - {
-              label: Header Photo,
-              name: headerPhoto,
-              widget: image,
-              help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500)
-            }
+            label: Header Photo,
+            name: headerPhoto,
+            widget: image,
+            hint: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500)
+          }
           - { label: Header Photo Alt Text, name: headerPhotoAltText, widget: string }
+          - { label: Instagram handle (No @), name: instagramHandle, widget: string, hint: Do not include @ }
+          - { label: Strava link, name: stravaLink, widget: string, hint: i.e. https://www.strava.com/clubs/470714 }
+          - { label: City, State, name: cityState, widget: string, hint: 'i.e. Seattle, WA' }
+          - { label: Email, name: email, widget: string, hint: i.e. cowgill.trail@gmail.com }
+          - {
+            label: Calendar Link,
+            name: calendarLink,
+            widget: string,
+            hint: i.e. https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&ctz=America/Los_Angeles
+          }
       - file: 'src/lib/content/boise/home.json'
         label: Home Page
         name: index
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - { label: Header Image, name: headerImage, widget: image }
           - { label: Header Image Alt Text, name: headerImageAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
@@ -137,11 +157,11 @@ collections:
         name: about
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - { label: Body, name: body, widget: markdown }
           - label: Articles
             name: articles
@@ -156,11 +176,11 @@ collections:
         name: events
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }
       - file: 'src/lib/content/boise/contact.json'
@@ -168,17 +188,17 @@ collections:
         name: contact
         fields:
           - {
-              label: Meta Description,
-              name: metaDescription,
-              widget: string,
-              hint: A descriptive sentence or two used by search engines to index the page.
-            }
+            label: Meta Description,
+            name: metaDescription,
+            widget: string,
+            hint: A descriptive sentence or two used by search engines to index the page.
+          }
           - {
-              label: Custom Header Photo,
-              name: customHeaderPhoto,
-              widget: image,
-              help: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500
-            }
+            label: Custom Header Photo,
+            name: customHeaderPhoto,
+            widget: image,
+            hint: This image must have a 2:1 width to height ratio (i.e. 2000x1000 or 3000x1500
+          }
           - { label: Custom Header Photo Alt Text, name: customHeaderPhotoAltText, widget: string }
           - { label: Body, name: body, widget: markdown }
           - { label: Form Title, name: formTitle, widget: string }
