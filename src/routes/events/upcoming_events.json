@@ -1,29 +1,11 @@
 [
   {
-    "description": "Bring your headlamp and navigation!\n\n5.4 miles, 1190ft https://www.strava.com/routes/3316931517241785786 \n7.5 miles, 1900ft https://www.strava.com/routes/3316931125216998372 \n10.5 miles, 3013ft https://www.strava.com/routes/3316932606610078138 \n\nBlazing bagels post run\n",
-    "id": 1894722,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PMWNJJ2R3VKNPZJZC3FUPYXU6WM3FK254GJDSMNISQPVRLGDW2Q5S6W5OXBU6U5VCWNDNK6IXWGZHS3FVNK626C4YF3WCBDHT6UO3KI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/C22KGIMGE3RITBJH6SIRBRU5WHMHSFDWPJQ5Y3P4K7KIYX4PB5PRUV25GFGAVOPO3PQMINCALPNKEGCBO36UA3L6AMC7VUNHEQLECEQ="
-      },
-      "map": {
-        "id": "r3316932606610078138",
-        "summary_polyline": "{dbaH|cxgVd@eKeByEhCwAtErDeAuBzAsLyBsHxTeJdGiIlJl@fIuDKeHvAkBq@_B|@yBtHgBtBrBfGoAjQ}IlHkIjFwOfKeJdBlCvBwAnDrIrDlCnCsBcB{BAqFrG{DR_FdA_A`EZhBdCvLQxGbLv@vXgBr@fBs@iAuLZeH{DeLwFgCgH~@yFaDlC{Dt@~@vAqFfKwEbHwH`IyObAeEiBaGl@qRoJwGyAcLwAb@eG{KgHdCaCoDkH|CS_DoDvJcPtSuPpM?iBiBb@gKlSqB`SoDtLwB?u@tB}EgHQvJ_DgMc@`BeGwE{AtGsJs@[zBiCu@cHpF_PgFjGb_@yExAd@lLeC`D}DsB_@`BaFj@HnJxD~E|AhKzAfBoDvDi@fPiB`BpFtT{ArLdAtBuEsDiCvAdBxEe@dK"
-      }
-    },
-    "title": "Thirsty Thursday ",
-    "upcoming_occurrences": [
-      "2025-01-23T14:30:00Z"
-    ]
-  },
-  {
     "description": "Venture on over to West Seattle and join us for these fantastic routes exploring some of the best that this corner of Seattle has to offer. Water, views, greenways, trails, and climbs - we've created routes that have it all!\n\nPost-Run social at The Good Society Brewery and Public House until 9pm\nLarry's Tavern until late\n\nRoutes\n\n4.6 miles | 571' | Pace Groups 10min +\nhttps://www.strava.com/routes/3316239224126649316\n\n7.6 miles | 1,000' | Pace Groups 8:30, 10min\nhttps://www.strava.com/routes/3316237319435473892\n\n10.2 miles | 1,250' | 7:45, 8:30, 9-10 min\nhttps://www.strava.com/routes/3316176987029882298",
     "id": 1892607,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/YRZRL2RKLHYEAMKKBA34DC62YH5PC4IN6SRCENVK2GVD7ISQZ2TSBXHJGJDVTPPXOWA6Z525CMPZQ7EG7NSNDFXL3T37LYWPG2KC55I=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EFP4CI7FUMIRLF7CGBV3FMEEODNCSR2P4DGHEOZSYOUJQFU7IZRABSMIBBAD2CREYAYQUXVE6OSGJ5FJ2ADP2P2S4IJQGRKYAU2EDOA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/CG4XGZWK2J36GFT4M4UD6QLX3WZIWCWWKYFIQWBY7JPH7SOL6I7JBL6ZPVTUBESHXP25T6ZYTLAM6PZWI4W52BRD3GNFXTPMEHLG5GI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/YLKMSMXFF2SHQAIPDL4FR4W3GTX2KE2LCIQBX5RZKQKMRKDSGDOJASHVX2COK6JQXCAVF7VB3UPSQYQ52DWAIG6L2MW35TV7L5VU3WQ="
       },
       "map": {
         "id": "r3316176987029882298",
@@ -40,8 +22,8 @@
     "id": 1889216,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LL6NZ3EXK5PRQOB3FQR3NJSWORTQIJ7U2WXH3O66WNF6FJFD5XJTBPFCUSJJO7F4CIV3HDUOCXH2SVCIPEMGLFAXGHZA4O6NNUJ7FCA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EGAHTXVEDWFU4F2XFVOOHK3CQBZHMMRXPKYM777NLLIOEWTMRMNAP5D3XIZX6P5ZOL6WQS672HQI3LI6Q4O2HB4755T2DH6E67JCFAA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XSZWQIXPT7ESAFQCPEHIRYK3SY6DYN2TG7PQLLOW33JHLVKPMBUDADFPCY4F4N3CNWRAMOTXWTOIL77LJM6OKMX23U7W6FXF6KKMJHY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/4IVEZCQZTRUCPTM3HLFVLZQ4M5P6WXK7PB44TEZNHDFUALYJWYKOALJJW4GOS4NCGDMBAM3WO6RS7PRK64KUJGEYQU5NBVTVFETGKAA="
       },
       "map": {
         "id": "r3312219009553939500",
@@ -58,8 +40,8 @@
     "id": 1894829,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6IFOXVKJCGQ2SONYUCICXJCNW635RR4AINU7UDBM5DWVBBJE7NRLAAOHXVDDWHCYMMHPG7KWZXIUIMJYJ432PN3EAVMLGHZDUV4GIAQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DGOMEMJSTSRAYFHYEZM6UVMIXVZDRDBVP2SRQOH75PZCPEQYRE53LY2LOWBQ5JOGHABBIKFNMB5TVDWIO3HVOISXMHNEWREATNQS5IY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/LB3U5EIWLQKKXSGIHXQSYOYFNPCSI3BJAGA7EBDIEINYFCRGZRE3CAYSIA4FTJX5FPBZAPKZQQH6JTHNVMCH7N6PW2F5YI2EGORH4UA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DYGNGSS2COULOAFE6DFNSUBJYSEF5IBKG2OP35NYAL6AZON27GXGZ76VNLH3IYNGSFF6Z4P2KTTML3CVQE4K4CYJ45BAUKV2VCKJW3A="
       },
       "map": {
         "id": "r3316496743999704506",
