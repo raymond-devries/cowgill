@@ -31,7 +31,8 @@
 <h1 class="text-6xl">{eventsData.title}</h1>
 <hr class="my-10 h-0.5 rounded border-0 bg-zinc-600" />
 
-{#if upcomingEvents.length > 0}
+<!--todo implement upcoming events for all herds-->
+{#if upcomingEvents.length > 0 && import.meta.env.VITE_CONTENT_KEY === 'seattle'}
 	<h3 class="mb-5 text-4xl">Upcoming Events</h3>
 	<div class="grid grid-cols-1 gap-6 md:grid-cols-2">
 		{#each upcomingEvents as { id, title, upcoming_occurrences, route: { map_urls: { dark_url } } }}
