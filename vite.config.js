@@ -1,5 +1,5 @@
 import { sveltekit } from '@sveltejs/kit/vite';
-import { defineConfig } from 'vite';
+import { defineConfig, loadEnv } from 'vite';
 import Icons from 'unplugin-icons/vite';
 import { imagetools } from 'vite-imagetools';
 import { createFilter, dataToEsm } from '@rollup/pluginutils';
@@ -19,6 +19,10 @@ export function primarycolor() {
 	};
 }
 
-export default defineConfig({
-	plugins: [sveltekit(), Icons({ compiler: 'svelte' }), primarycolor(), imagetools()]
-});
+export default ({ mode }) => {
+	process.env = { ...process.env, ...loadEnv(mode, process.cwd()) };
+	const picRegex = new RegExp(`src\\/lib\\/content\\/${process.env.VITE_CONTENT_KEY.toLowerCase()}\\/*`);
+	return defineConfig({
+		plugins: [sveltekit(), Icons({ compiler: 'svelte' }), primarycolor(), imagetools({ include: picRegex })]
+	});
+};
