@@ -22,4 +22,4 @@ export const primaryColors = import.meta.glob('./content/**/*.{jpg,jpeg,png}', {
 	eager: true
 });
 
-export const getImageKey = (src) => `./content/${import.meta.env.VITE_CONTENT_KEY.toLowerCase()}${src}`;
+export const getImageKey = (src) => `./content/${import.meta.env.VITE_CONTENT_KEY}${src}`;

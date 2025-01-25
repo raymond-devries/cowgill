@@ -24,7 +24,7 @@ export function primarycolor() {
 
 export default ({ mode }) => {
 	process.env = { ...process.env, ...loadEnv(mode, process.cwd()) };
-	const picRegex = new RegExp(`src\\/lib\\/content\\/${process.env.VITE_CONTENT_KEY.toLowerCase()}\\/*`);
+	const picRegex = new RegExp(`src\\/lib\\/content\\/${process.env.VITE_CONTENT_KEY}\\/*`);
 	return defineConfig({
 		plugins: [
 			sveltekit(),
