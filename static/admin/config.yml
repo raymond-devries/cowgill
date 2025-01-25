@@ -25,6 +25,7 @@ collections:
           - { label: Body, name: body, widget: markdown }
   - name: seattle
     label: Seattle
+    media_folder: media
     editor:
       preview: false
     files:
