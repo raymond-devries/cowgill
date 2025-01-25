@@ -1,11 +1,14 @@
 <script>
-	import { src, width, height } from '../assets/cowgill_white_logo.png?as=metadata';
-	import avif from '../assets/cowgill_white_logo.png?w=800;1600&format=avif&as=srcset';
-	import webp from '../assets/cowgill_white_logo.png?w=800;1600&format=webp&as=srcset';
+	import { CMSimages, avifImages, webpImages, getImageKey } from '$lib/CMSimages.js';
+	import { getCMSData } from '$lib/pageContent.js';
+
+	const metaData = getCMSData('meta');
+	const resizeSrc = getImageKey(metaData.logo);
+	const { src, width, height } = CMSimages[resizeSrc];
 </script>
 
 <picture>
-	<source srcset={avif} type="image/avif" />
-	<source srcset={webp} type="image/webp" />
+	<source srcset={avifImages[resizeSrc]} type="image/avif" />
+	<source srcset={webpImages[resizeSrc]} type="image/webp" />
 	<img {src} alt="Cowgill Logo" class={`${$$props.class} aspect-[${width}-${height}]`} />
 </picture>

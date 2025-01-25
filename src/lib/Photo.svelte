@@ -6,8 +6,6 @@
 
 	export let containerClass;
 
-	console.log(containerClass);
-
 	let tagDom;
 	$: tag = pictureTag(imgSrc, altText, $$props.class, containerClass);
 	afterUpdate(() => pictureLoaded(tagDom));

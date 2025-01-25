@@ -4,12 +4,13 @@
 	import IconInstagram from '~icons/mdi/instagram';
 	import IconStrava from '~icons/bi/strava';
 
-	import meta from '$lib/meta.json';
 	import { page } from '$app/stores';
 	import Photo from '$lib/Photo.svelte';
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
 	import { customHeaderImgSrc, customHeaderImgAltText } from '$lib/headerImage.js';
-	import { STRAVA_LINK, INSTAGRAM_LINK } from '$lib/constants.js';
+	import { getCMSData } from '$lib/pageContent.js';
+
+	const meta = getCMSData('meta');
 
 	let mobileMenu = true;
 
@@ -67,12 +68,12 @@
 			</p>
 			<div class="flex gap-5 text-zinc-900 sm:text-lg md:gap-10 lg:gap-20 lg:text-xl">
 				<a
-					href={STRAVA_LINK}
+					href={meta.stravaLink}
 					class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
 					><IconStrava />Strava</a
 				>
 				<a
-					href={INSTAGRAM_LINK}
+					href={`https://www.instagram.com/${meta.instagramHandle}}/`}
 					class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
 					><IconInstagram />Instagram</a
 				>

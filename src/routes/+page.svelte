@@ -1,6 +1,8 @@
 <script>
-	import homeData from './home.json';
 	import MarkDown from '$lib/MarkDown.svelte';
+	import { getCMSData } from '$lib/pageContent.js';
+
+	const homeData = getCMSData('home');
 </script>
 
 <svelte:head>

@@ -1,9 +1,10 @@
 <script>
-	import contactData from './contact.json';
 	import MarkDown from '$lib/MarkDown.svelte';
 	import CustomHeaderImage from '$lib/CustomHeaderImage.svelte';
-
+	import { getCMSData } from '$lib/pageContent.js';
 	let modal;
+
+	const contactData = getCMSData('contact');
 
 	const handleSubmit = (event) => {
 		event.preventDefault();
