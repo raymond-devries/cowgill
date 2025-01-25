@@ -1,9 +1,9 @@
 <script>
 	import MarkDown from '$lib/MarkDown.svelte';
 	import Photo from '$lib/Photo.svelte';
-	import { pageData } from '$lib/pageContent.js';
+	import { getCMSData } from '$lib/pageContent.js';
 
-	const aboutData = pageData[import.meta.env.VITE_CONTENT_KEY].ABOUT;
+	const aboutData = getCMSData('about');
 </script>
 
 <svelte:head>

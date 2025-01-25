@@ -3,9 +3,9 @@
 	import upcomingEvents from './upcoming_events.json';
 	import IconStrava from '~icons/bi/strava';
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
-	import { pageData } from '$lib/pageContent.js';
+	import { getCMSData } from '$lib/pageContent.js';
 
-	const eventsData = pageData[import.meta.env.VITE_CONTENT_KEY].EVENTS;
+	const eventsData = getCMSData('events');
 
 	const formatDate = (dateString, timeZone = 'America/Los_Angeles') => {
 		const date = new Date(dateString);

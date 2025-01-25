@@ -1,8 +1,8 @@
 <script>
 	import { CMSimages, avifImages, webpImages, getImageKey } from '$lib/CMSimages.js';
-	import { pageData } from '$lib/pageContent.js';
+	import { getCMSData } from '$lib/pageContent.js';
 
-	const metaData = pageData[import.meta.env.VITE_CONTENT_KEY].META;
+	const metaData = getCMSData('meta');
 	const resizeSrc = getImageKey(metaData.logo);
 	const { src, width, height } = CMSimages[resizeSrc];
 </script>

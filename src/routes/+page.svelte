@@ -1,8 +1,8 @@
 <script>
 	import MarkDown from '$lib/MarkDown.svelte';
-	import { pageData } from '$lib/pageContent.js';
+	import { getCMSData } from '$lib/pageContent.js';
 
-	const homeData = pageData[import.meta.env.VITE_CONTENT_KEY].HOME;
+	const homeData = getCMSData('home');
 </script>
 
 <svelte:head>

@@ -8,9 +8,9 @@
 	import Photo from '$lib/Photo.svelte';
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
 	import { customHeaderImgSrc, customHeaderImgAltText } from '$lib/headerImage.js';
-	import { pageData } from '$lib/pageContent.js';
+	import { getCMSData } from '$lib/pageContent.js';
 
-	const meta = pageData[import.meta.env.VITE_CONTENT_KEY].META;
+	const meta = getCMSData('meta');
 
 	let mobileMenu = true;
 
