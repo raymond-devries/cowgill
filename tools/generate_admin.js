@@ -236,7 +236,9 @@ export const CMSconfig = (herds) => {
 		backend: {
 			name: 'github',
 			repo: 'raymond-devries/cowgill',
-			branch: 'content-setup'
+			branch: 'content-setup',
+			base_url: 'https://cowgill-boise.pages.dev',
+			auth_endpoint: '/api/auth'
 		},
 		local_backend: true,
 		media_folder: 'src/media',
