@@ -234,7 +234,8 @@ export const CMSconfig = (herds) => {
 
 	return {
 		backend: {
-			name: 'git-gateway',
+			name: 'github',
+			repo: 'raymond-devries/cowgill',
 			branch: 'master'
 		},
 		local_backend: true,
