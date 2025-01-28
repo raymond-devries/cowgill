@@ -4,8 +4,8 @@
     "id": 1900150,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/EWEFUVUDWSQMUT2GT4AEXJZ4BNPIW7W5DLLHTPYF47X7BT64ZMCFDSMRJ2Q2Q7IMM65HPDCNRJ4D3EZ73KA5FHZ5PU34AQWG7KF36EQ=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/3LRJMN5U7KX2OKXRI4LTVI7SMEFEI63AP6IUUNKNEYNHFTOF5BZXSMUWS3ZPBDRGDQIRM23ABNRMM7MPVAOVMIO4QHGUQGGPBPUZE6Y="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RQOSYW5EZLI5BR2JHOS3RNU5JULYVHC6V47B4U35MDMF2P7AEODBTLAGJT6TYTSBLYUVEADUDFKJRIBAFT3YSY6QQSJX5SQHFYQICYY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MV5H62K23MNDFMM2OZGVRZVR2RPR72I5OEON5KJ5BG5CIYOMATYIU3Z4JG7Z4BGJKIUSFFLGCYCQNQJPC3VTXPTMIA4NZZBMOW3VPAQ="
       },
       "map": {
         "id": "r3319128991803149156",
@@ -18,12 +18,30 @@
     ]
   },
   {
+    "description": "Werking on flats! We head back to Greenlake as we hit a minutes werkout with float intervals. The goal of this werkout is to run hard and then recover without a true rest. This helps train our bodies to better handle fatigue while developing our aerobic fitness. This is a time and distance based werkout meant for all ability levels.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\nA group will leave for a warm up at 6:30am, start drills + strides at 6:50, and werkout starts at 7:10am.\n\nWerkout:\n2 mi warm up\nform drills + strides\n6 min on (~10k effort, 8 RPE)\n6 min off (~marathon effort, 5-6 RPE)\n5 min on (~10k effort, 8 RPE)\n5 min off (~marathon effort, 5-6 RPE)\n4 min on (~10k effort, 8 RPE)\n4 min off (~marathon effort, 5-6 RPE)\n3 min on (~10k effort, 8 RPE)\n3 min off (~marathon effort, 5-6 RPE)\n2 min on (~10k effort, 8 RPE)\n2 min off (~marathon effort, 5-6 RPE)\n1 min on (~10k effort, 8 RPE)\n1 min off (~marathon effort, 5-6 RPE)\n2 mi cooldown\n\nPlease RSVP if you plan on joining.",
+    "id": 1900790,
+    "route": {
+      "map_urls": {
+        "light_url": "",
+        "dark_url": ""
+      },
+      "map": {
+        "id": "",
+        "summary_polyline": ""
+      }
+    },
+    "title": "Werkout Wednesday 🐮 6, 5, 4, 3, 2, 1 minutes on/off",
+    "upcoming_occurrences": [
+      "2025-01-29T14:30:00Z"
+    ]
+  },
+  {
     "description": "We're at Cougar this week. All 3 routes share the first 4.6 miles and go to Million Dollar Viewpoint (views may be worth less than $1M in the dark) and the legendary West Tibbett's Creek trail. The longest route also goes up Wilderness Peak. If at any point during the run you feel tired feel free to drop into child's pose.\n\nBring a headlamp and navigation :) \n\n6.5 miles: https://www.strava.com/routes/3319192864375732148\n8 miles: https://www.strava.com/routes/3319195045792935414\n10 miles: https://www.strava.com/routes/3319196154847038966",
     "id": 1900276,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ETSPBKD2ZNUWVNAEQ2R7ORGHHPI7PTWWTJXABH23RDOI6S3KD7CCUJRFBMXXHWR3Z5YQ545G6ZC3ULOHSXTOEVJMGVLDCXJRYQA6CIY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6NWXYZVVVPRQIDYTPLO6WG7SNWIECKBBIC6QL3EGKDNU4ITRNRIDG6MXEG2YCC3YOV7BKNAHYN22EN3OL4SY35HWQKM5CL4BC3RORCY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XCICW5EQBL4XOR3NYYSIJ4RX4ZUHL4RXKIWKSIV7SLFOEKNWSW2HIZGSQDVKICOX42HZOLOSV745LM77J63IN4HZZRVT74F5Z6WHVFY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/C34DTKV7GRLVRNY6E2HGZACJUSEHSUEEJ6OQZ2NXNCFETSOMSCM3SU4BGPEUF222Z7IZD3SMLYMRTAN5WDGE6TVM5BONBH25YCBMGUA="
       },
       "map": {
         "id": "r3319196154847038966",
@@ -40,8 +58,8 @@
     "id": 1900128,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/S4MHXGGG2MQZYX6OHZN4MX64SVV2G333SXLM3QOVCGYLBAV5BHFCTYUSFISB2E7OWBSNNW77PDTE2BZIR4SNPHIOFTREGDOE4NMH25A=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/36KJ5HFBBEH5UF7SDESZCHZGEM5WCR3OZMHJEN56I7ITRHRTM5AABCSTW3QN4EURASLGWHU3VHKBXMF6PDX2LMTGPEWVLCVJZ2YM2SQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/JD2LOCCFI56QST5AG54TJILXWMD5RVIITBZYTQ5AVB7NIPMG7JHKQEZSD4L4DALW6S45MOTPUM6LEJ5IMKOS62YYZTHEGCPGL5EKEIY=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MNN4A64NXSDSGHZHIWJSEMOCVZA2EJH3XEXJ3NAO4DVHLN6AFQSDJJLKGLE5JRVHFQAK3KH2ZJUANOINW7OE4HXSB4XMEQMGVIABLIQ="
       },
       "map": {
         "id": "r3319107198598455894",
