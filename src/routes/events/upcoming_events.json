@@ -1,29 +1,11 @@
 [
   {
-    "description": "happy birthday to us!!! join us to celebrate two years of wrth with a run, girl dinner potluck, and a gear swap. our route is 5.4 miles with 400' of vert and connects some of the many parklets of ballard. if that's not your thing, feel free to grab a buddy and do something else! or join us post-run! see slack for exact meetup address and google spreadsheet signup for potluck.\n\nhere's what you can expect:\n6:00 meet and mingle\n6:05 intros, icebreaker question\n6:10 run\n7:00ish girl dinner potluck and gear swap (gently used clothing, books, plants, etc!) \n\n~ this event is open to women, trans, and non-binary people who are comfortable in a space that centers the experiences of women. our only rule is that no one runs alone :) ~",
-    "id": 1894829,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/C7SGIB2MTZRCDMBMPYC3DRGTIVVKD65LCFAZZVR66K6UEQP4HHWGMFS7MLSJSEVUIWJZOV37MOQXCF64FJAZP2IBJWN3645X5U3T7KI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/YC5SGB4QZ32B7VH7H6BKWHBP7A7K44UMRQDFEMGWDCLBSW2AJUAK6XVTN26OOKXZWGRPBCJCZVH46SJF2HYIDN3RJHY3XVTPB5RVJ6Q="
-      },
-      "map": {
-        "id": "r3316496743999704506",
-        "summary_polyline": "ou~aH~_{iVMxViJP^~w@eK@@xKwARyRQk@uEKnAuDHBtIuB?Ou`@lJGKo`ArMQB_BlG~ABecAlv@z@jAqFrCfHg@hK~@jDaHAFxmAwZ@?}\\aC??aB"
-      }
-    },
-    "title": "womxn run the herd turns TWO!",
-    "upcoming_occurrences": [
-      "2025-01-28T02:00:00Z"
-    ]
-  },
-  {
     "description": "We'll be running through Carkeek park this week! Please download maps and bring a headlamp! \n\nWhile this is not explicitly a no-drop event, we expect natural grouping.\n\nRoute:\n5.5 mi, 995' - https://www.strava.com/routes/3319128991803149156\n\nThis event is open to women, non-binary, and trans people who are comfortable in a space that centers the experiences of women.\n\nSee Slack for carpool thread!",
     "id": 1900150,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/P3H3CTMLQTTDZKW2EK3WGWPHVZNAH66Q6QIRGXEGCDI6L45364KR34OJDBVDCRAVE46LSDYEOSGO6BTTMKOBYEUFTHJV3F7ZHKSKTVY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/KGYHEWYTYS5DZHM3YI6JDBDTR65ULNDLQYLCMLAI3Z3K5NEPGNCTF23AK62LWFSQ7LCOCKLB5HVQKNBGGHVDNFYZ7EA6DDGLEHEMHZI="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/GO6ZDWRY7TU2NLYWKMGQFZB57AEWE3RMZZO4INZPOHFTYKCC6753RORT6ZXCWRA7KAOOITYYVPJCISHJ6RC7I5W37WFKIZ7HRH7FMSQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RSKMGIGWMKBTNCRE7OIR6VIR7UMDD4XZUUXYCRNEQSL7JYLQAGFZ7DI2R6MZHXCDTCXRPGIIJDM2SU4PBZQBV3S7DZQYMEWPKLTVLZY="
       },
       "map": {
         "id": "r3319128991803149156",
@@ -40,8 +22,8 @@
     "id": 1900128,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/N64WJYTQRZ6DFNCFJIQU62EUCHS5FBHWATJRIW2ONYJXMZBNY3CTRBF3WQTEK2GIXPYYFUZLQY4NCOURO37XP4WTVMJ6WYBNGPYLO2Q=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MNPVYFJSK3YKLK2MZ35R2HDETG2ENYT2ETJDDVZQOU4MHIEXYIGPXWHLIBM3JH5SSLNEANTF5NERYGTH7O75HI57C4342DCRHTCX2WQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/BQBAMNASHL3SZMCHMN2NKY4VXGBIFIOPYRDBAGAIDSQTPQ5RMXPB6PGFHCSPPWJ4KEWHGVZDK25JDCZRQ54XPODYLSI6PKDP4DATSFA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PAHA5MVMESECFJDMJZSRZWC6M64WR3VBJTTWYKRDIRVI367QH4ZILQMSAGR7MFDZL6F3M64QQZMBHVOFCYNY3FFRLGO4O6IKDEC4ASY="
       },
       "map": {
         "id": "r3319107198598455894",
