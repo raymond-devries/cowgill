@@ -1,29 +1,11 @@
 [
   {
-    "description": "Werking on flats! We head back to Greenlake as we hit a minutes werkout with float intervals. The goal of this werkout is to run hard and then recover without a true rest. This helps train our bodies to better handle fatigue while developing our aerobic fitness. This is a time and distance based werkout meant for all ability levels.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\nA group will leave for a warm up at 6:30am, start drills + strides at 6:50, and werkout starts at 7:10am.\n\nWerkout:\n2 mi warm up\nform drills + strides\n6 min on (~10k effort, 8 RPE)\n6 min off (~marathon effort, 5-6 RPE)\n5 min on (~10k effort, 8 RPE)\n5 min off (~marathon effort, 5-6 RPE)\n4 min on (~10k effort, 8 RPE)\n4 min off (~marathon effort, 5-6 RPE)\n3 min on (~10k effort, 8 RPE)\n3 min off (~marathon effort, 5-6 RPE)\n2 min on (~10k effort, 8 RPE)\n2 min off (~marathon effort, 5-6 RPE)\n1 min on (~10k effort, 8 RPE)\n1 min off (~marathon effort, 5-6 RPE)\n2 mi cooldown\n\nPlease RSVP if you plan on joining.",
-    "id": 1900790,
-    "route": {
-      "map_urls": {
-        "light_url": "",
-        "dark_url": ""
-      },
-      "map": {
-        "id": "",
-        "summary_polyline": ""
-      }
-    },
-    "title": "Werkout Wednesday 🐮 6, 5, 4, 3, 2, 1 minutes on/off",
-    "upcoming_occurrences": [
-      "2025-01-29T14:30:00Z"
-    ]
-  },
-  {
     "description": "We're at Cougar this week. All 3 routes share the first 4.6 miles and go to Million Dollar Viewpoint (views may be worth less than $1M in the dark) and the legendary West Tibbett's Creek trail. The longest route also goes up Wilderness Peak. If at any point during the run you feel tired feel free to drop into child's pose.\n\nBring a headlamp and navigation :) \n\n6.5 miles: https://www.strava.com/routes/3319192864375732148\n8 miles: https://www.strava.com/routes/3319195045792935414\n10 miles: https://www.strava.com/routes/3319196154847038966",
     "id": 1900276,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5XJRVY3ELDBAN2KFSVXVBEWVLQPXP57AEJEDEAPEOETLLAL34Y46K4DLEC46GWIWMNMB57CBREMVDNYYNNEJ3H57JIKIBTMLMQSDLCA=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/M2GH7GHYXY3PDS64FPTPAZKGG6KAHGMMU22MZXKPPDZGSXGIDU7I4I3VGP77UEXTA3VHLJ4LELR2KP2BXWZARGFQIL6FVRZ7EM4JVFI="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/F53X2ZIIIOJDPJ3RGHUJAD6OXO6QI5C6FXLXCBGG5V277AZU5ED6HTX3DVU4BCGFVAMMI3NYPJX63RZL5LRWTPVX64MIRREANRBPFFI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PMLAOEYN74XH6VBX5JZKFTU7FHPYV7Q5A3I4KPHTKJZK4JYZB3KUVT7S2JWLX37LG4AKOM7SKQEJLVITHPGJZFZRZG3MUFMHO26L55Q="
       },
       "map": {
         "id": "r3319196154847038966",
@@ -40,8 +22,8 @@
     "id": 1900128,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/UHXBMDWK2ZVZIRRL66XVGN77ADTVGMZ5UPTRSI7R66TIO3FS7NYI57KACVRQLHNPZLPAW6GO57TY7HQVO55G6UBBSELSH5FZY62NY3Y=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DBQPLJP4HLQNIDWPO634X3GBPWONNTWFDXO5LG2AJHMX2A3442T5PSGRPVCZV5DO7BX3NBYIRUYJG6TWZBQAGXVP54EU7PWFD75G56Y="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SYVX5PQ3YDRZTSVFTA3TBBBCXFPHNHLETMUPQZRIZ64BR2CFTGZU2WC66W7IXG5377CEUIFKEN22FORKGCUP26XWN3SMNBD2GBJCITI=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FRWYKHBVW64HOTKN7DTTP4VJUU4VSYWTFYM7QMVGS6GUVWGVABI6BIIKKOKIDCWGVSG3GYUJKH57A3JX64N5J5DIMFYU243WQX436IY="
       },
       "map": {
         "id": "r3319107198598455894",
