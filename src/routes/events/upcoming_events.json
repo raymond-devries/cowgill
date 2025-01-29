@@ -1,23 +1,5 @@
 [
   {
-    "description": "We'll be running through Carkeek park this week! Please download maps and bring a headlamp! \n\nWhile this is not explicitly a no-drop event, we expect natural grouping.\n\nRoute:\n5.5 mi, 995' - https://www.strava.com/routes/3319128991803149156\n\nThis event is open to women, non-binary, and trans people who are comfortable in a space that centers the experiences of women.\n\nSee Slack for carpool thread!",
-    "id": 1900150,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/RQOSYW5EZLI5BR2JHOS3RNU5JULYVHC6V47B4U35MDMF2P7AEODBTLAGJT6TYTSBLYUVEADUDFKJRIBAFT3YSY6QQSJX5SQHFYQICYY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MV5H62K23MNDFMM2OZGVRZVR2RPR72I5OEON5KJ5BG5CIYOMATYIU3Z4JG7Z4BGJKIUSFFLGCYCQNQJPC3VTXPTMIA4NZZBMOW3VPAQ="
-      },
-      "map": {
-        "id": "r3319128991803149156",
-        "summary_polyline": "ezebHhb}iVb@jBbHt@zHuEeGuNMyLbAhCp@oAdArDQ{MbCqDwAkDdDqFg@gDiDc@c@fD{BRg@}D`B}EnKeLjHqDfQcB@mEfFzAoCgGCiGgIFk@vLiCdCu@gAaEjIsEnAoKdLaB|Er@tHkAzHoAeAu@eHuBm@qCuGSkUqAeEqCk@CuF_KHo@rH`A~E@pOmJVCrW`JSjDzAbPwClBdAgBdS_BfAsBuE}I|EtEbJ~AOl@jFbExB"
-      }
-    },
-    "title": "Tuesday Trail Turn Up | Carkeek",
-    "upcoming_occurrences": [
-      "2025-01-29T02:30:00Z"
-    ]
-  },
-  {
     "description": "Werking on flats! We head back to Greenlake as we hit a minutes werkout with float intervals. The goal of this werkout is to run hard and then recover without a true rest. This helps train our bodies to better handle fatigue while developing our aerobic fitness. This is a time and distance based werkout meant for all ability levels.\n\nMeetup: Lower Woodland Soccer Parking, 5000 West Green Lake Way N, Seattle, WA 98103\n\nA group will leave for a warm up at 6:30am, start drills + strides at 6:50, and werkout starts at 7:10am.\n\nWerkout:\n2 mi warm up\nform drills + strides\n6 min on (~10k effort, 8 RPE)\n6 min off (~marathon effort, 5-6 RPE)\n5 min on (~10k effort, 8 RPE)\n5 min off (~marathon effort, 5-6 RPE)\n4 min on (~10k effort, 8 RPE)\n4 min off (~marathon effort, 5-6 RPE)\n3 min on (~10k effort, 8 RPE)\n3 min off (~marathon effort, 5-6 RPE)\n2 min on (~10k effort, 8 RPE)\n2 min off (~marathon effort, 5-6 RPE)\n1 min on (~10k effort, 8 RPE)\n1 min off (~marathon effort, 5-6 RPE)\n2 mi cooldown\n\nPlease RSVP if you plan on joining.",
     "id": 1900790,
     "route": {
@@ -40,8 +22,8 @@
     "id": 1900276,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XCICW5EQBL4XOR3NYYSIJ4RX4ZUHL4RXKIWKSIV7SLFOEKNWSW2HIZGSQDVKICOX42HZOLOSV745LM77J63IN4HZZRVT74F5Z6WHVFY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/C34DTKV7GRLVRNY6E2HGZACJUSEHSUEEJ6OQZ2NXNCFETSOMSCM3SU4BGPEUF222Z7IZD3SMLYMRTAN5WDGE6TVM5BONBH25YCBMGUA="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5XJRVY3ELDBAN2KFSVXVBEWVLQPXP57AEJEDEAPEOETLLAL34Y46K4DLEC46GWIWMNMB57CBREMVDNYYNNEJ3H57JIKIBTMLMQSDLCA=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/M2GH7GHYXY3PDS64FPTPAZKGG6KAHGMMU22MZXKPPDZGSXGIDU7I4I3VGP77UEXTA3VHLJ4LELR2KP2BXWZARGFQIL6FVRZ7EM4JVFI="
       },
       "map": {
         "id": "r3319196154847038966",
@@ -58,8 +40,8 @@
     "id": 1900128,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/JD2LOCCFI56QST5AG54TJILXWMD5RVIITBZYTQ5AVB7NIPMG7JHKQEZSD4L4DALW6S45MOTPUM6LEJ5IMKOS62YYZTHEGCPGL5EKEIY=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/MNN4A64NXSDSGHZHIWJSEMOCVZA2EJH3XEXJ3NAO4DVHLN6AFQSDJJLKGLE5JRVHFQAK3KH2ZJUANOINW7OE4HXSB4XMEQMGVIABLIQ="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/UHXBMDWK2ZVZIRRL66XVGN77ADTVGMZ5UPTRSI7R66TIO3FS7NYI57KACVRQLHNPZLPAW6GO57TY7HQVO55G6UBBSELSH5FZY62NY3Y=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/DBQPLJP4HLQNIDWPO634X3GBPWONNTWFDXO5LG2AJHMX2A3442T5PSGRPVCZV5DO7BX3NBYIRUYJG6TWZBQAGXVP54EU7PWFD75G56Y="
       },
       "map": {
         "id": "r3319107198598455894",
