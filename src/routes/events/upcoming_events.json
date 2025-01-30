@@ -1,29 +1,11 @@
 [
   {
-    "description": "We're at Cougar this week. All 3 routes share the first 4.6 miles and go to Million Dollar Viewpoint (views may be worth less than $1M in the dark) and the legendary West Tibbett's Creek trail. The longest route also goes up Wilderness Peak. If at any point during the run you feel tired feel free to drop into child's pose.\n\nBring a headlamp and navigation :) \n\n6.5 miles: https://www.strava.com/routes/3319192864375732148\n8 miles: https://www.strava.com/routes/3319195045792935414\n10 miles: https://www.strava.com/routes/3319196154847038966",
-    "id": 1900276,
-    "route": {
-      "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/F53X2ZIIIOJDPJ3RGHUJAD6OXO6QI5C6FXLXCBGG5V277AZU5ED6HTX3DVU4BCGFVAMMI3NYPJX63RZL5LRWTPVX64MIRREANRBPFFI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/PMLAOEYN74XH6VBX5JZKFTU7FHPYV7Q5A3I4KPHTKJZK4JYZB3KUVT7S2JWLX37LG4AKOM7SKQEJLVITHPGJZFZRZG3MUFMHO26L55Q="
-      },
-      "map": {
-        "id": "r3319196154847038966",
-        "summary_polyline": "qrcaHfzihVz@~FlCSxF{HrJeFAgF~CoE_@}@`CuG{Fk@aDoFqAzBiBsBeBXoAeBnAuCkD_FsPiB_CuBbAkE]oCoEaDt@iBq@oCtEwAo@kBbAuBiB{Dt@qNyBkDfCb@H_DgBmBiEnDgB{EdB?hAtC`CiBvB|BzLwE`AtBxJkEV}FeB{DmB?IiIiH_M~HiRDqDcDkGfGiFpCbLjEHpB|BhA`G`@b\\eApKiFnC`GdJnGhBpCs@pAbIx@QAtGzBjC`DjBz@gVrSGlCdCv@xOmG~LyBzK|DFhE~GnCaBbFeUtIuEAgDmADb@qF}BiB`C}Bo@u@|F{DkBiB`AeEnCQaByAnAwCoAvC`BxAoCPaAdEjBhB}FzDn@t@aC|B|BhBc@pFlAE@fDuItE{FxVoC`Bc@tLaCnCBpb@fCxFaDbNqBgKmCbJgJxFyPpA|IgY}GgCoOp@LdBsJdFyFzHmCRSsF"
-      }
-    },
-    "title": "Thirsty Thursday ",
-    "upcoming_occurrences": [
-      "2025-01-30T14:30:00Z"
-    ]
-  },
-  {
     "description": "NTSP =) Bring a headlamp!\n\n4.7 miles, 424ft 10+ min/mile\nhttps://www.strava.com/routes/3319108346745083748 \n6.2 miles, 741ft 8:30 and 10 min/mile\nhttps://www.strava.com/routes/3319107727560263254 \n9 miles, 769ft 7:45, 8:30, and 10 min/mile\nhttps://www.strava.com/routes/3319107198598455894 \n\nPost run social at Fremont Brewing and then Pac Inn\n",
     "id": 1900128,
     "route": {
       "map_urls": {
-        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/SYVX5PQ3YDRZTSVFTA3TBBBCXFPHNHLETMUPQZRIZ64BR2CFTGZU2WC66W7IXG5377CEUIFKEN22FORKGCUP26XWN3SMNBD2GBJCITI=",
-        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/FRWYKHBVW64HOTKN7DTTP4VJUU4VSYWTFYM7QMVGS6GUVWGVABI6BIIKKOKIDCWGVSG3GYUJKH57A3JX64N5J5DIMFYU243WQX436IY="
+        "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/YKWQCWNC2Y4FOZU3U6QWHUIEM5S4VSAT55HHUJEZVKMCAPVSQAQ2F723NQCZAEDL5CMCUM75VHC4G3C6SVVFVU5PU5BH46LTNRMDMPQ=",
+        "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/ZDOWM5HY7XRFAAX24HEORP23TPT55N3QSDGNZUYXZTMTF2643JAEBDSEPAHIOSTZZX7Q6UFIQLYV3LP625PSRMP7RUP7JZIULANSTTA="
       },
       "map": {
         "id": "r3319107198598455894",
