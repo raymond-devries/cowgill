@@ -73,7 +73,7 @@
 					><IconStrava />Strava</a
 				>
 				<a
-					href={`https://www.instagram.com/${meta.instagramHandle}}/`}
+					href={`https://www.instagram.com/${meta.instagramHandle}/`}
 					class="flex h-12 w-40 items-center justify-center gap-2 rounded-lg bg-pink-500 bg-opacity-95 sm:h-16 md:w-56 lg:w-80"
 					><IconInstagram />Instagram</a
 				>
