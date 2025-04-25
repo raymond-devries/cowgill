@@ -9,17 +9,21 @@
 	import CowgillLogo from '$lib/CowgillLogo.svelte';
 	import { customHeaderImgSrc, customHeaderImgAltText } from '$lib/headerImage.js';
 	import { getCMSData } from '$lib/pageContent.js';
+	import NavItem from '$lib/NavItem.svelte';
 
 	const meta = getCMSData('meta');
 
 	let mobileMenu = true;
 
 	const navLinks = [
-		['/', 'Home'],
-		['/about', 'About'],
-		['/events', 'Events'],
-		['/contact', 'Contact'],
-		['/code-of-conduct', 'Code of Conduct']
+		[['/', 'Home']],
+		[
+			['/about', 'About'],
+			['/code-of-conduct', 'Code of Conduct'],
+			['/values', 'Values']
+		],
+		[['/events', 'Events']],
+		[['/contact', 'Contact']]
 	];
 
 	$: {
@@ -47,14 +51,8 @@
 			</div>
 			<div>
 				<div class="hidden sm:flex md:gap-7 lg:gap-10">
-					{#each navLinks as link}
-						<a
-							class={($page.url.pathname === link[0]
-								? 'bg-pink bg-opacity-90 text-zinc-800'
-								: 'text-white sm:hover:mt-2') +
-								' mt-3 rounded-lg px-5 py-3 duration-300 ease-in-out md:text-lg lg:text-xl'}
-							href={link[0]}>{link[1]}</a
-						>
+					{#each navLinks as links}
+						<NavItem {links}></NavItem>
 					{/each}
 				</div>
 			</div>
@@ -98,7 +96,7 @@
 			<a href="/"><CowgillLogo class="max-w-[90px]" /></a>
 			<button on:click={() => (mobileMenu = false)}><IconX height="50" width="50" /></button>
 		</div>
-		{#each navLinks as link}
+		{#each navLinks.flat() as link}
 			<a
 				class={($page.url.pathname === link[0] ? 'bg-pink text-zinc-800' : 'bg-zinc-700') +
 					' w-full rounded-lg px-5 py-3'}
