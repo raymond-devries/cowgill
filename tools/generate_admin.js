@@ -226,6 +226,24 @@ export const CMSconfig = (herds) => {
 						widget: 'markdown'
 					}
 				]
+			},
+			{
+				file: 'src/lib/content/common/values.json',
+				label: 'Values',
+				name: 'values',
+				fields: [
+					{
+						label: 'Meta Description',
+						name: 'metaDescription',
+						widget: 'string',
+						hint: 'A descriptive sentence or two used by search engines to index the page.'
+					},
+					{
+						label: 'Body',
+						name: 'body',
+						widget: 'markdown'
+					}
+				]
 			}
 		]
 	};
