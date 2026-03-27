@@ -6,6 +6,7 @@
 	import { getCMSData } from '$lib/pageContent.js';
 
 	const eventsData = getCMSData('events');
+	const metaData = getCMSData('meta');
 
 	const formatDate = (dateString, timeZone = 'America/Los_Angeles') => {
 		const date = new Date(dateString);
@@ -70,10 +71,6 @@
 
 <h3 class="mb-7 text-xl sm:text-3xl">We have a Google Calendar!</h3>
 <div class="grid grid-cols-2 gap-6 text-lg">
-	<a
-		class="btn-pink"
-		href="https://calendar.google.com/calendar/u/0/embed?src=cowgill.trail@gmail.com&ctz=America/Los_Angeles"
-		>View Calendar️</a
-	>
-	<a class="btn-pink" href="https://calendar.google.com/calendar/u/0?cid=Y293Z2lsbC50cmFpbEBnbWFpbC5jb20">Subscribe</a>
+	<a class="btn-pink" href={metaData.calendarLink}>View Calendar️</a>
+	<a class="btn-pink" href={metaData.calendarLink}>Subscribe</a>
 </div>
